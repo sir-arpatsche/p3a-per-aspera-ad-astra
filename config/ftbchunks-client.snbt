@@ -138,40 +138,52 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"alexsmobs:gazelle": true
-			"minecraft:axolotl": true
-			"minecraft:cat": true
-			"minecraft:zombie": true
-			"alexsmobs:cockroach": true
-			"alexsmobs:fly": true
-			"quark:shiba": true
-			"minecraft:enderman": true
-			"minecraft:witch": true
-			"alexsmobs:blue_jay": true
-			"mowziesmobs:umvuthana_raptor": true
-			"minecraft:creeper": true
-			"minecraft:bat": true
-			"minecraft:iron_golem": true
-			"minecraft:skeleton": true
-			"minecraft:armadillo": true
-			"alexsmobs:tasmanian_devil": true
-			"minecraft:villager": true
-			"alexsmobs:crow": true
 			"alexsmobs:crocodile": true
-			"alexsmobs:emu": true
 			"alexsmobs:raccoon": true
 			"mowziesmobs:ferrous_wroughtnaut": true
+			"minecraft:creeper": true
 			"mowziesmobs:umvuthana_follower_raptor": true
-			"zombie_variants:savanna_zombie": true
+			"minecraft:zombie": true
+			"alexsmobs:gazelle": true
+			"minecraft:cat": true
+			"alexsmobs:centipede_head": true
 			"minecraft:chicken": true
-			"minecraft:glow_squid": true
+			"minecraft:bee": true
+			"quark:shiba": true
+			"alexsmobs:elephant": true
+			"alexsmobs:grizzly_bear": true
+			"minecraft:bat": true
+			"alexsmobs:centipede_body": true
 			"minecraft:sheep": true
 			"minecraft:pig": true
+			"minecraft:iron_golem": true
+			"quark:forgotten": true
+			"alexsmobs:maned_wolf": true
+			"alexsmobs:emu": true
+			"alexsmobs:centipede_tail": true
 			"minecraft:cow": true
-			"alexsmobs:terrapin": true
-			"alexsmobs:skunk": true
+			"alexsmobs:bison": true
+			"alexsmobs:fly": true
+			"minecraft:glow_squid": true
+			"alexsmobs:tasmanian_devil": true
+			"zombie_variants:savanna_zombie": true
+			"zombie_variants:cave_zombie": true
+			"minecraft:armadillo": true
 			"minecraft:spider": true
+			"minecraft:enderman": true
+			"alexsmobs:skunk": true
 			"minecraft:phantom": true
+			"alexsmobs:crow": true
+			"minecraft:villager": true
+			"alexsmobs:cockroach": true
+			"alexsmobs:blue_jay": true
+			"alexsmobs:kangaroo": true
+			"minecraft:skeleton": true
+			"minecraft:axolotl": true
+			"mowziesmobs:umvuthana_raptor": true
+			"minecraft:cave_spider": true
+			"minecraft:witch": true
+			"alexsmobs:terrapin": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

@@ -16,4 +16,5 @@ config/essential/
 config/xaero/
 kubejs/exported/
 kubejs/probe/
+config/easy_npc/skin/
 minecraftinstance.json

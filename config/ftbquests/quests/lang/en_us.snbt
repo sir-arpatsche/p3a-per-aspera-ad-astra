@@ -15,11 +15,13 @@
 	chapter.231570DE6A7FCD52.title: "When Dungeons Arise"
 	chapter.239519A1838B7EAC.title: "Create Aeronautics"
 	chapter.24A2B97480385AEB.title: "Create: Electro Energetics"
+	chapter.2B2B1A786EB2CB79.title: "Create Aeronautics"
 	chapter.3198915B11C6043A.title: "Skills"
 	chapter.355321060C254793.title: "&6Welcome"
 	chapter.3575C01F20AE0ADB.title: "Create Aeronautics"
 	chapter.3FBB24F68DB3D4DD.title: "Create Aeronautics"
 	chapter.406EFBFE602B0A0C.title: "Create Aeronautics"
+	chapter.418F5C1E38606374.title: "Create Aeronautics"
 	chapter.41D1FDAE6146E318.title: "Create Aeronautics"
 	chapter.4AB02206EED18BC4.title: "Create Aeronautics"
 	chapter.59395B6806F2A98A.title: "L_Ender 's Cataclysm"
@@ -27,6 +29,7 @@
 	chapter.66BC9F8D1563341B.title: "Create Aeronautics"
 	chapter.68E3998AE61EB7BB.title: "Create Aeronautics"
 	chapter.745D398616148AC3.title: "Create Aeronautics"
+	chapter.7A4394B15833D210.title: "Create Aeronautics"
 	chapter.7D845E27B51ACAA0.title: "Create Aeronautics"
 	chapter.7FF2874A6AAD533C.title: "More Enchanting!"
 	chapter_group.1299521377C80133.title: "Storage"
@@ -66,6 +69,8 @@
 	quest.041A1C64A8468087.quest_subtitle: "Find a Heavenly Rider"
 	quest.043F32F509482405.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.043F32F509482405.title: "Propeller Bearing"
+	quest.047B7012B726E848.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
+	quest.047B7012B726E848.title: "Gyroscopic Propeller Bearing"
 	quest.05C10AF9BC39C7CF.quest_desc: ["Cast your first Iron Ingots!"]
 	quest.05C10AF9BC39C7CF.quest_subtitle: "Option B"
 	quest.05C10AF9BC39C7CF.title: "Cast your first Iron Ingot"
@@ -78,6 +83,8 @@
 	quest.06AF951BD61C374A.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.06AF951BD61C374A.quest_subtitle: "Let's take off"
 	quest.06AF951BD61C374A.title: "Wooden Propeller"
+	quest.07A7225586C86722.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
+	quest.07A7225586C86722.title: "Propeller Bearing"
 	quest.07AFC8DA35DFAD28.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.07AFC8DA35DFAD28.quest_subtitle: "First flight"
 	quest.07AFC8DA35DFAD28.title: "Lift Off"
@@ -121,8 +128,15 @@
 	quest.102123FC79159FA8.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.102123FC79159FA8.quest_subtitle: "Chapter complete"
 	quest.102123FC79159FA8.title: "Master of the Skies"
+	quest.1062E2348C6AA8A4.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
+	quest.1062E2348C6AA8A4.title: "Envelope Fabric"
+	quest.117DCD5746119991.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
+	quest.117DCD5746119991.title: "Envelope Fabric"
 	quest.1276569C0401B853.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.1276569C0401B853.title: "Adjustable Burner"
+	quest.12A1EDEF765BD66C.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
+	quest.12A1EDEF765BD66C.quest_subtitle: "Let's take off"
+	quest.12A1EDEF765BD66C.title: "Wooden Propeller"
 	quest.135499BC53154BAE.quest_desc: ["The Foundry Lid closes the multiblock Foundry. Now you can make liquids!"]
 	quest.135499BC53154BAE.title: "Finish the Foundry!"
 	quest.138A1A7C9E4E2CDD.quest_desc: ["Everything is locked behind a skill, you have to learn. Like in real life, but here you can learn them faster."]
@@ -149,6 +163,9 @@
 	quest.16849EE84D989BAA.title: "Gyroscopic Propeller Bearing"
 	quest.16EDDC562D268574.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.16EDDC562D268574.title: "Propeller Bearing"
+	quest.17989CCE9308EBBD.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
+	quest.17989CCE9308EBBD.quest_subtitle: "First flight"
+	quest.17989CCE9308EBBD.title: "Lift Off"
 	quest.17DDF2A93B806150.quest_desc: ["For smaller trains"]
 	quest.185624AAE09443DF.quest_desc: ["These can be set to open when at the stations for players to get in and out."]
 	quest.188AAB5B74C6EAAE.quest_subtitle: "Discover an Infested Temple explorer map"
@@ -202,6 +219,8 @@
 	quest.1F1F4F7632E35F61.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.1F1F4F7632E35F61.title: "Propeller Bearing"
 	quest.1F46ECA66E8F11AE.quest_desc: ["Not just used in trains but make sure to glue everything down in segments so the train moves organically round corners and up hills."]
+	quest.1FAC9424B4EF9F59.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
+	quest.1FAC9424B4EF9F59.title: "Gyroscopic Propeller Bearing"
 	quest.2099428B86C8A748.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.2099428B86C8A748.title: "Find Levitite"
 	quest.209B0D2E4E07DEB1.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
@@ -220,6 +239,8 @@
 	quest.217683810DC300E9.title: "Master of the Skies"
 	quest.2240ECD66AA6F5E7.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.2240ECD66AA6F5E7.title: "Find Levitite"
+	quest.224CFA4F9193BC46.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
+	quest.224CFA4F9193BC46.title: "Adjustable Burner"
 	quest.226A81AECCF12FDE.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.226A81AECCF12FDE.title: "Andesite Propeller"
 	quest.23A36250CCA6AA48.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -237,6 +258,9 @@
 	quest.24D7E235BA7E338B.title: "Wooden Propeller"
 	quest.250C0E0D11952276.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.250C0E0D11952276.title: "Gyroscopic Propeller Bearing"
+	quest.254EB1F0C66D6102.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
+	quest.254EB1F0C66D6102.quest_subtitle: "Chapter complete"
+	quest.254EB1F0C66D6102.title: "Master of the Skies"
 	quest.258E4B18E1BB3751.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.258E4B18E1BB3751.title: "Gyroscopic Propeller Bearing"
 	quest.25A121550CBCC7C1.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -260,6 +284,8 @@
 	quest.269A8D1C6708841E.title: "Envelope Fabric"
 	quest.26E4AD12B8F67A82.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.26E4AD12B8F67A82.title: "Andesite Propeller"
+	quest.27737A87B013C99C.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
+	quest.27737A87B013C99C.title: "Find Levitite"
 	quest.27966EDF564354CA.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.27966EDF564354CA.title: "Adjustable Burner"
 	quest.2844A0F43D426B3F.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
@@ -303,14 +329,24 @@
 	quest.2C3D7E0CA994B38B.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.2C3D7E0CA994B38B.title: "Propeller Bearing"
 	quest.2CFD6612C268E406.title: "Ballast Train"
+	quest.2D3C88DDFD4C7E14.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
+	quest.2D3C88DDFD4C7E14.quest_subtitle: "Chapter complete"
+	quest.2D3C88DDFD4C7E14.title: "Master of the Skies"
 	quest.2D7EFA9B5A50765E.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.2D7EFA9B5A50765E.quest_subtitle: "Let's take off"
 	quest.2D7EFA9B5A50765E.title: "Wooden Propeller"
 	quest.2DB4F395EA26DF4B.quest_subtitle: "Find a Coliseum"
+	quest.2E63EFB621EBDA80.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
+	quest.2E63EFB621EBDA80.title: "Propeller Bearing"
 	quest.2E984DDEEF595991.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.2E984DDEEF595991.title: "Propeller Bearing"
 	quest.2EFC5DBD8122A0AE.quest_desc: ["Far below the surface lies a twisted network of chambers, where the air is thick with disease and shadow. Once a place of treatment, it now resembles a burial ground for forgotten rulers, its halls echoing with the whispers of those long lost. Only the brave (or the desperate) dare to tread these haunted corridors."]
 	quest.2EFC5DBD8122A0AE.quest_subtitle: "Find a Plague Asylum"
+	quest.2FB5D79AFD38AA3E.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
+	quest.2FB5D79AFD38AA3E.quest_subtitle: "First flight"
+	quest.2FB5D79AFD38AA3E.title: "Lift Off"
+	quest.2FBC1B3533AD10DD.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
+	quest.2FBC1B3533AD10DD.title: "Envelope Fabric"
 	quest.2FE91BD5E9FF124E.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.2FE91BD5E9FF124E.title: "Propeller Bearing"
 	quest.3121B64656932250.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
@@ -318,9 +354,13 @@
 	quest.3121B64656932250.title: "Lift Off"
 	quest.312C54B13DDD6365.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.312C54B13DDD6365.title: "Propeller Bearing"
+	quest.3253E168B48D9C56.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
+	quest.3253E168B48D9C56.title: "Andesite Propeller"
 	quest.326368522EE90577.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.326368522EE90577.quest_subtitle: "Chapter complete"
 	quest.326368522EE90577.title: "Master of the Skies"
+	quest.32CC668FF9C1CCCD.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
+	quest.32CC668FF9C1CCCD.title: "Adjustable Burner"
 	quest.33CDBF014B583AAB.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.33CDBF014B583AAB.title: "Andesite Propeller"
 	quest.34C1D5E34383EA42.quest_desc: ["The Foundry Mixer sits on top of the Foundry Basin and mixes metals till they are liquids."]
@@ -339,6 +379,8 @@
 	quest.367A5AEB70132BAA.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.367A5AEB70132BAA.quest_subtitle: "First flight"
 	quest.367A5AEB70132BAA.title: "Lift Off"
+	quest.36EC6617FBAF88E9.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
+	quest.36EC6617FBAF88E9.title: "Find Levitite"
 	quest.370E025FAE7FF642.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.370E025FAE7FF642.quest_subtitle: "First flight"
 	quest.370E025FAE7FF642.title: "Lift Off"
@@ -371,6 +413,11 @@
 	quest.3BAE3E72FD348FFF.title: "Find Levitite"
 	quest.3C7097F904B909CE.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.3C7097F904B909CE.title: "Find Levitite"
+	quest.3C781622FC3FA92B.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
+	quest.3C781622FC3FA92B.quest_subtitle: "Chapter complete"
+	quest.3C781622FC3FA92B.title: "Master of the Skies"
+	quest.3CC426E98D3727AC.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
+	quest.3CC426E98D3727AC.title: "Gyroscopic Propeller Bearing"
 	quest.3D1C0F80B74B27D5.quest_subtitle: "Arrive at a Lighthouse"
 	quest.3DB6CE4A8AFE44D5.quest_desc: ["Trains in the air!?!"]
 	quest.3E80B1148212DB1C.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
@@ -384,6 +431,8 @@
 	quest.3F8E32E87596C16C.title: "Andesite Propeller"
 	quest.3F9A63E3674711F3.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.3F9A63E3674711F3.title: "Adjustable Burner"
+	quest.3FC8917564DE65E8.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
+	quest.3FC8917564DE65E8.title: "Andesite Propeller"
 	quest.4028EEF2FFBA10C2.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.4028EEF2FFBA10C2.quest_subtitle: "Let's take off"
 	quest.4028EEF2FFBA10C2.title: "Wooden Propeller"
@@ -436,6 +485,8 @@
 	quest.4B36536BB01D2096.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.4B36536BB01D2096.quest_subtitle: "Let's take off"
 	quest.4B36536BB01D2096.title: "Wooden Propeller"
+	quest.4C6E27A5C1E62626.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
+	quest.4C6E27A5C1E62626.title: "Find Levitite"
 	quest.4C8FA03A70507950.quest_desc: [
 		"Weird new mechanical press recipe right? But it helps!"
 		""
@@ -472,6 +523,8 @@
 	quest.5257D32744BE2696.title: "Master of the Skies"
 	quest.5283D36BBF9F4E6C.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.5283D36BBF9F4E6C.title: "Find Levitite"
+	quest.528A5AC651B30724.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
+	quest.528A5AC651B30724.title: "Propeller Bearing"
 	quest.531A2BB3C5BBB8A2.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.531A2BB3C5BBB8A2.title: "Andesite Propeller"
 	quest.53AF2B722A69DCDC.quest_desc: ["Tucked away in the tall grass, this lonely house stands weathered and broken, its timbers groaning with age. Easy to overlook, it bears little more than the memory of those who once called it home. Still, even the smallest refuge can hold a story."]
@@ -490,6 +543,9 @@
 	quest.57E046C5BD2B6375.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.57E046C5BD2B6375.quest_subtitle: "First flight"
 	quest.57E046C5BD2B6375.title: "Lift Off"
+	quest.57EA20AFC8340A26.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
+	quest.57EA20AFC8340A26.quest_subtitle: "Let's take off"
+	quest.57EA20AFC8340A26.title: "Wooden Propeller"
 	quest.58CADA849FFF1807.quest_desc: ["Most of the train components are made from this. "]
 	quest.58EA010E4AE7E38E.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.58EA010E4AE7E38E.title: "Propeller Bearing"
@@ -498,6 +554,8 @@
 	quest.59B61560296BF2E0.quest_desc: ["That's Lid! The third and last part."]
 	quest.59FFB22209A6BE2B.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.59FFB22209A6BE2B.title: "Andesite Propeller"
+	quest.5B024951A933ED1A.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
+	quest.5B024951A933ED1A.title: "Adjustable Burner"
 	quest.5BD9948CB0FFF833.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.5BD9948CB0FFF833.title: "Propeller Bearing"
 	quest.5C12F4CC1F6F6C32.quest_desc: ["Looming among the clouds, this massive airship bristles with defenses and hostile crew. Phantom-mounted fiends circle overhead, while fish-like raiders astride hoglins stalk the decks. Boarding it is no small feat. Tthose who triumph will etch their name among the few who dared challenge the skies."]
@@ -551,6 +609,9 @@
 	quest.66F169002C2A29D3.quest_desc: ["Get yourself some crushed obsidian and make some strudy sheets, you are now able to do them. Just use your brain....or JEI!"]
 	quest.67030CEFEC1CEF37.quest_desc: ["Driven from their villages, these hardy merchants now wander the wilds, taking shelter beneath simple cyan and brown tents. Though weary from exile, they still offer trade and refuge to travelers brave enough to seek them out. In a world rising with danger, such camps are rare havens of trust."]
 	quest.67030CEFEC1CEF37.quest_subtitle: "Find a Merchant Campsite"
+	quest.6741696755F37680.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
+	quest.6741696755F37680.quest_subtitle: "Let's take off"
+	quest.6741696755F37680.title: "Wooden Propeller"
 	quest.6757B32F8BDE37F6.quest_desc: ["This block is very important for building trains and also showing the train where each station is on the network."]
 	quest.67811ADCD9774D89.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.67811ADCD9774D89.title: "Find Levitite"
@@ -580,6 +641,9 @@
 	quest.6A0237FADC519965.quest_subtitle: "Find an Illager Windmill"
 	quest.6AE681BB0897837D.quest_desc: ["Mine Iron Ore and Copper Ore. Every ore now guarantees 3 nuggets - Raw Ore only drops additionally with a 50% chance."]
 	quest.6AE681BB0897837D.title: "First Mining Trip"
+	quest.6B1E550803BE77A3.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
+	quest.6B1E550803BE77A3.quest_subtitle: "First flight"
+	quest.6B1E550803BE77A3.title: "Lift Off"
 	quest.6BE73313DA026993.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.6BE73313DA026993.title: "Gyroscopic Propeller Bearing"
 	quest.6BEEB11AC9773F41.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
@@ -628,6 +692,8 @@
 	quest.73D5EE5238C37982.quest_subtitle: "Find a Ceryneian Hind"
 	quest.73D7B97C2217819C.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.73D7B97C2217819C.title: "Andesite Propeller"
+	quest.75FAA71F8D184AA3.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
+	quest.75FAA71F8D184AA3.title: "Andesite Propeller"
 	quest.76DAECF378BA3F19.quest_desc: ["Far beneath the surface lies a labyrinth of rails and tunnels, carved by long-forgotten hands. The air is thick with dust and danger. Creatures lurk in the shadows, and the echoes of minecarts rattle through the dark. Yet for those who endure, veins of treasure and hidden chambers make the descent worthwhile."]
 	quest.76DAECF378BA3F19.quest_subtitle: "Find a Mining System"
 	quest.7716C6DB2C623F12.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
@@ -685,16 +751,19 @@
 	task.303723710A397B25.title: "First hot air balloon assembled"
 	task.309A0164A9AE8F82.title: "First steerable airship"
 	task.311BA68552DCF281.title: "First steerable airship"
+	task.3640B0872FF8C80C.title: "First hot air balloon assembled"
 	task.381F360FB10AE849.title: "First hot air balloon assembled"
 	task.39F61C4B619A8969.title: "First steerable airship"
 	task.3AA3674653056DB1.title: "Passenger Train"
 	task.3C1579B5C405C4C0.title: "First hot air balloon assembled"
 	task.3CDB78A3488F83F2.title: "First steerable airship"
 	task.40D84B14A5B3B293.title: "First steerable airship"
+	task.4136A0198AC83B5C.title: "First steerable airship"
 	task.426C9D5143AB47EC.title: "First hot air balloon assembled"
 	task.466C2077BA14A746.title: "First steerable airship"
 	task.4728A17E5CD31BE8.title: "First steerable airship"
 	task.49DEC4FD0318EA1B.title: "Driver types"
+	task.508F8A8D2C2BC083.title: "First hot air balloon assembled"
 	task.50C0D4C22D68A7BB.title: "First hot air balloon assembled"
 	task.56EC7FC15BA168F9.title: "First steerable airship"
 	task.57D45A8FFA11AB6B.title: "Train time"
@@ -706,6 +775,7 @@
 	task.637F27352F625F8B.title: "First hot air balloon assembled"
 	task.6589150866B64001.title: "First hot air balloon assembled"
 	task.6B0D2348558BD015.title: "First hot air balloon assembled"
+	task.6D84C07EB9A733A9.title: "First hot air balloon assembled"
 	task.6DDA3A9CC26FD0F7.title: "First steerable airship"
 	task.6E470719B7A9FD07.title: "First steerable airship"
 	task.74EE17AEC57958E1.title: "First hot air balloon assembled"
@@ -715,6 +785,8 @@
 	task.7B383C4BCE56E2FD.title: "First hot air balloon assembled"
 	task.7D76499ACC3C87D9.title: "First hot air balloon assembled"
 	task.7D9A3EAA5ABC42B9.title: "First steerable airship"
+	task.7EDAC53B2D268BA6.title: "First steerable airship"
+	task.7EE265ACEA45EB97.title: "First steerable airship"
 	task.7F132CAE56C499FE.title: "First hot air balloon assembled"
 	task.7FD3264AF18F545E.title: "First hot air balloon assembled"
 }
