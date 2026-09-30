@@ -9,7 +9,7 @@ A Minecraft modpack built around **Create**, **MineColonies**, **Exosphere** and
 | **Platform** | CurseForge |
 | **Status** | Work in progress |
 
-> This repository contains only the modpack's **configuration** (scripts, configs, documentation). The mods themselves (`.jar` files) are intentionally not included. The full list is in [`docs/mods.txt`](docs/mods.txt).
+> This repository contains only the modpack's **configuration** (scripts, configs, documentation). The mods themselves (`.jar` files) are intentionally not included. The full list is in [`Modlist - CurseForge`](https://www.curseforge.com/minecraft/modpacks/p3a-per-aspera-ad-astra-sky-high-colony/relations/dependencies).
 
 ---
 
