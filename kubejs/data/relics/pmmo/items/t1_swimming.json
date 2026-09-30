@@ -1,0 +1,13 @@
+{
+  "isTagFor": [
+    "relics:amphibian_boot"
+  ],
+  "requirements": {
+    "WEAR": {
+      "swimming": 10
+    },
+    "USE": {
+      "swimming": 10
+    }
+  }
+}

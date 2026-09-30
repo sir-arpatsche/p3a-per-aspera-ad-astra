@@ -4,7 +4,7 @@
       "woodcutting": 50
     },
     "WEAPON": {
-      "mining": 0
+      "combat": 50
     },
     "WEAR": {
       "mining": 0

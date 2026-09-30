@@ -1,0 +1,16 @@
+{
+  "isTagFor": [
+    "relics:bastion_ring",
+    "relics:spore_sack",
+    "relics:chorus_inhibitor",
+    "relics:infinity_ham"
+  ],
+  "requirements": {
+    "WEAR": {
+      "endurance": 25
+    },
+    "USE": {
+      "endurance": 25
+    }
+  }
+}

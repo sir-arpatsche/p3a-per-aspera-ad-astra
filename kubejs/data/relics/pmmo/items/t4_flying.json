@@ -1,0 +1,13 @@
+{
+  "isTagFor": [
+    "relics:elytra_booster"
+  ],
+  "requirements": {
+    "WEAR": {
+      "flying": 55
+    },
+    "USE": {
+      "flying": 55
+    }
+  }
+}

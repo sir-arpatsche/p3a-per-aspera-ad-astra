@@ -1,0 +1,16 @@
+{
+  "isTagFor": [
+    "relics:magma_walker",
+    "relics:phantom_boot",
+    "relics:phantom_block",
+    "relics:ice_breaker"
+  ],
+  "requirements": {
+    "WEAR": {
+      "agility": 25
+    },
+    "USE": {
+      "agility": 25
+    }
+  }
+}

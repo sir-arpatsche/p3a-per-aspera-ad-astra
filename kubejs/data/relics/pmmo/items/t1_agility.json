@@ -1,0 +1,15 @@
+{
+  "isTagFor": [
+    "relics:ice_skates",
+    "relics:roller_skates",
+    "relics:springy_boot"
+  ],
+  "requirements": {
+    "WEAR": {
+      "agility": 10
+    },
+    "USE": {
+      "agility": 10
+    }
+  }
+}

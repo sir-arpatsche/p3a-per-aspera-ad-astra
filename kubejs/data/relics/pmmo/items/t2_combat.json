@@ -1,0 +1,14 @@
+{
+  "isTagFor": [
+    "relics:hunter_belt",
+    "relics:solid_snowball"
+  ],
+  "requirements": {
+    "WEAR": {
+      "combat": 25
+    },
+    "USE": {
+      "combat": 25
+    }
+  }
+}

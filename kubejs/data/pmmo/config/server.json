@@ -4,7 +4,7 @@
     "perks_plus_config": false,
     "player_actions": {
       "SPRINT_JUMP": {
-        "agility": 2.5
+        "agility": 0.6
       },
       "SUBMERGED": {
         "swimming": 1.0
@@ -16,7 +16,7 @@
         "swimming": 1.0
       },
       "CROUCH_JUMP": {
-        "agility": 2.5
+        "agility": 0.6
       },
       "HEALTH_DECREASE": {
         "endurance": 1.0
@@ -34,10 +34,10 @@
         "swimming": 1.0
       },
       "JUMP": {
-        "agility": 2.5
+        "agility": 0.6
       },
       "SPRINTING": {
-        "agility": 2.0
+        "agility": 0.05
       }
     },
     "damage": {

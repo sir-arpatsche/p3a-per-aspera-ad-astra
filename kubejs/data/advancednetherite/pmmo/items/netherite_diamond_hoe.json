@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "TOOL": {
+      "farming": 85
+    },
+    "WEAPON": {
+      "combat": 100
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true
+}

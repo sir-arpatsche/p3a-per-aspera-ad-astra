@@ -1,0 +1,19 @@
+[Cosmetic]
+	#Should Citizens Use The Skin Detection For Citizens With Lower Eye Textures (Such as some which are part of MineColonies 'Patreon Exclusive' Packs)
+	"Use Citizen Skin Detection" = true
+	#Should Citizens With Visible Armor Have Their Helmet Hidden
+	"Hide Citizen Helmet" = false
+	#Whether or not Armor Should Only Be Shown For Specific Citizen Jobs (Jobs Defined In Config Below)
+	"Show Armor For Specific Jobs" = true
+	#Which Citizen Jobs Should Have Visible Armor
+	"Visible Armor Jobs" = ["minecolonies:knight", "minecolonies:combattraining", "minecolonies:ranger", "minecolonies:archertraining"]
+
+[Animations]
+	#The minimum speed of he citizen jog animation according to their current movement speed
+	# Default: 1.0
+	# Range: 0.009999999776482582 ~ 10.0
+	"Jog Animation Min Speed" = 1.0
+	#The maximum speed of he citizen jog animation according to their current movement speed
+	# Default: 3.25
+	# Range: 0.009999999776482582 ~ 10.0
+	"Jog Animation Max Speed" = 3.25

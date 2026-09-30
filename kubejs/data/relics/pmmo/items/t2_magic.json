@@ -1,0 +1,10 @@
+{
+  "isTagFor": [
+    "relics:relic_experience_bottle"
+  ],
+  "requirements": {
+    "USE": {
+      "magic": 25
+    }
+  }
+}

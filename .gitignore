@@ -16,3 +16,4 @@ config/essential/
 config/xaero/
 kubejs/exported/
 kubejs/probe/
+minecraftinstance.json
