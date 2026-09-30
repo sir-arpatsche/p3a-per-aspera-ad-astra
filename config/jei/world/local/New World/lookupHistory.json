@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"cataclysm:wrath_of_the_desert"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":"cataclysm:cm_falling_block","type":"entity_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:refractory_mortar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:refractory_mortar_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:foundry_basin"},"type":"item_stack","bookmarkType":"INGREDIENT"},

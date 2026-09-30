@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "TOOL": {
+      "excavation": 60
+    },
+    "WEAPON": {
+      "combat": 60
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true
+}

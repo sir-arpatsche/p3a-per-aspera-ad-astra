@@ -1,7 +1,7 @@
 {
   "requirements": {
     "WEAR": {
-      "endurance": 35
+      "endurance": 90
     },
     "TOOL": {
       "mining": 0

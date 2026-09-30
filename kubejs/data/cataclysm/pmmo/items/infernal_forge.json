@@ -1,7 +1,17 @@
 {
-  "vein_data": {
-    "chargeCap": 80,
-    "chargeRate": 2.0
+  "requirements": {
+    "WEAPON": {
+      "combat": 105, "magic": 50
+    },
+    "TOOL": {
+      "mining": 70
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
   },
   "override": true
 }
