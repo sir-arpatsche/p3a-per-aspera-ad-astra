@@ -56,7 +56,8 @@
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\ore_drops.js",
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\hide_epicknights_missing_recipes.js",
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\villager_trading_balance.js",
-    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_loot_chance.js"
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_loot_chance.js",
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_passive_magic_xp.js"
   ],
-  "filesActive": 5
+  "filesActive": 6
 }

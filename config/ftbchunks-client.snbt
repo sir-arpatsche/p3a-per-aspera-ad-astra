@@ -138,40 +138,40 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:creeper": true
-			"minecraft:armadillo": true
-			"alexsmobs:fly": true
-			"minecraft:axolotl": true
-			"minecraft:skeleton": true
-			"alexsmobs:skunk": true
-			"alexsmobs:blue_jay": true
-			"minecraft:phantom": true
-			"minecraft:villager": true
 			"alexsmobs:gazelle": true
-			"alexsmobs:raccoon": true
-			"minecraft:enderman": true
-			"mowziesmobs:ferrous_wroughtnaut": true
-			"minecraft:witch": true
-			"minecraft:chicken": true
-			"minecraft:bat": true
-			"minecraft:sheep": true
-			"minecraft:cow": true
-			"minecraft:spider": true
-			"mowziesmobs:umvuthana_follower_raptor": true
-			"mowziesmobs:umvuthana_raptor": true
-			"alexsmobs:crow": true
-			"minecraft:iron_golem": true
-			"alexsmobs:tasmanian_devil": true
-			"alexsmobs:terrapin": true
+			"minecraft:axolotl": true
 			"minecraft:cat": true
-			"minecraft:pig": true
-			"alexsmobs:emu": true
-			"alexsmobs:crocodile": true
-			"quark:shiba": true
-			"minecraft:glow_squid": true
-			"zombie_variants:savanna_zombie": true
-			"alexsmobs:cockroach": true
 			"minecraft:zombie": true
+			"alexsmobs:cockroach": true
+			"alexsmobs:fly": true
+			"quark:shiba": true
+			"minecraft:enderman": true
+			"minecraft:witch": true
+			"alexsmobs:blue_jay": true
+			"mowziesmobs:umvuthana_raptor": true
+			"minecraft:creeper": true
+			"minecraft:bat": true
+			"minecraft:iron_golem": true
+			"minecraft:skeleton": true
+			"minecraft:armadillo": true
+			"alexsmobs:tasmanian_devil": true
+			"minecraft:villager": true
+			"alexsmobs:crow": true
+			"alexsmobs:crocodile": true
+			"alexsmobs:emu": true
+			"alexsmobs:raccoon": true
+			"mowziesmobs:ferrous_wroughtnaut": true
+			"mowziesmobs:umvuthana_follower_raptor": true
+			"zombie_variants:savanna_zombie": true
+			"minecraft:chicken": true
+			"minecraft:glow_squid": true
+			"minecraft:sheep": true
+			"minecraft:pig": true
+			"minecraft:cow": true
+			"alexsmobs:terrapin": true
+			"alexsmobs:skunk": true
+			"minecraft:spider": true
+			"minecraft:phantom": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
