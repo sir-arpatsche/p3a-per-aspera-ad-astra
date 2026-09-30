@@ -1,0 +1,15 @@
+{
+  "isTagFor": [
+    "relics:aqua_walker",
+    "relics:drowned_belt",
+    "relics:jellyfish_necklace"
+  ],
+  "requirements": {
+    "WEAR": {
+      "swimming": 25
+    },
+    "USE": {
+      "swimming": 25
+    }
+  }
+}

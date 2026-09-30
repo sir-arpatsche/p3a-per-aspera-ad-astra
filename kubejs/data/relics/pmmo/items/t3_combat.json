@@ -1,0 +1,13 @@
+{
+  "isTagFor": [
+    "relics:rage_glove"
+  ],
+  "requirements": {
+    "WEAR": {
+      "combat": 40
+    },
+    "USE": {
+      "combat": 40
+    }
+  }
+}

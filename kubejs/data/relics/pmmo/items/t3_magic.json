@@ -1,0 +1,16 @@
+{
+  "isTagFor": [
+    "relics:midnight_robe",
+    "relics:magic_mirror",
+    "relics:enders_hand",
+    "relics:blazing_flask"
+  ],
+  "requirements": {
+    "WEAR": {
+      "magic": 40
+    },
+    "USE": {
+      "magic": 40
+    }
+  }
+}

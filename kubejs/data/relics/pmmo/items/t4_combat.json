@@ -1,0 +1,14 @@
+{
+  "isTagFor": [
+    "relics:shadow_glaive",
+    "relics:space_dissector"
+  ],
+  "requirements": {
+    "WEAR": {
+      "combat": 55
+    },
+    "USE": {
+      "combat": 55
+    }
+  }
+}

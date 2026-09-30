@@ -138,40 +138,40 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"alexsmobs:emu": true
-			"alexsmobs:blue_jay": true
-			"minecraft:armadillo": true
-			"minecraft:spider": true
-			"minecraft:glow_squid": true
-			"minecraft:phantom": true
-			"mowziesmobs:umvuthana_raptor": true
-			"zombie_variants:savanna_zombie": true
-			"minecraft:bat": true
-			"minecraft:cow": true
-			"alexsmobs:cockroach": true
-			"minecraft:witch": true
-			"alexsmobs:fly": true
-			"alexsmobs:skunk": true
-			"mowziesmobs:ferrous_wroughtnaut": true
-			"minecraft:skeleton": true
-			"quark:shiba": true
-			"mowziesmobs:umvuthana_follower_raptor": true
-			"minecraft:villager": true
-			"minecraft:zombie": true
-			"minecraft:iron_golem": true
-			"minecraft:cat": true
 			"minecraft:creeper": true
-			"alexsmobs:raccoon": true
-			"alexsmobs:gazelle": true
-			"minecraft:pig": true
+			"minecraft:armadillo": true
+			"alexsmobs:fly": true
 			"minecraft:axolotl": true
-			"minecraft:sheep": true
-			"alexsmobs:crocodile": true
-			"alexsmobs:tasmanian_devil": true
-			"minecraft:chicken": true
-			"alexsmobs:crow": true
-			"alexsmobs:terrapin": true
+			"minecraft:skeleton": true
+			"alexsmobs:skunk": true
+			"alexsmobs:blue_jay": true
+			"minecraft:phantom": true
+			"minecraft:villager": true
+			"alexsmobs:gazelle": true
+			"alexsmobs:raccoon": true
 			"minecraft:enderman": true
+			"mowziesmobs:ferrous_wroughtnaut": true
+			"minecraft:witch": true
+			"minecraft:chicken": true
+			"minecraft:bat": true
+			"minecraft:sheep": true
+			"minecraft:cow": true
+			"minecraft:spider": true
+			"mowziesmobs:umvuthana_follower_raptor": true
+			"mowziesmobs:umvuthana_raptor": true
+			"alexsmobs:crow": true
+			"minecraft:iron_golem": true
+			"alexsmobs:tasmanian_devil": true
+			"alexsmobs:terrapin": true
+			"minecraft:cat": true
+			"minecraft:pig": true
+			"alexsmobs:emu": true
+			"alexsmobs:crocodile": true
+			"quark:shiba": true
+			"minecraft:glow_squid": true
+			"zombie_variants:savanna_zombie": true
+			"alexsmobs:cockroach": true
+			"minecraft:zombie": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

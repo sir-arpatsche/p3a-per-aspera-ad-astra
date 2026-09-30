@@ -1,0 +1,14 @@
+{
+  "isTagFor": [
+    "relics:reflection_necklace",
+    "relics:holy_locket"
+  ],
+  "requirements": {
+    "WEAR": {
+      "endurance": 40
+    },
+    "USE": {
+      "endurance": 40
+    }
+  }
+}

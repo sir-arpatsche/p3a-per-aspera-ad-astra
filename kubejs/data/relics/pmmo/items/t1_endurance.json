@@ -1,0 +1,15 @@
+{
+  "isTagFor": [
+    "relics:leather_belt",
+    "relics:wool_mitten",
+    "relics:leafy_ring"
+  ],
+  "requirements": {
+    "WEAR": {
+      "endurance": 10
+    },
+    "USE": {
+      "endurance": 10
+    }
+  }
+}
