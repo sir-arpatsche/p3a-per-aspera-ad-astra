@@ -70,7 +70,11 @@ SummoningRituals.complete(event => {
   const recipeId = recipeInfo.recipeId.toString()
   const lorePage = RITUAL_LORE_PAGE_RETURN[recipeId]
 
-  if (!lorePage) return
+  if (lorePage) {
+    player.give(lorePage)
+  }
 
-  player.give(lorePage)
+  if (recipeId === 'p3a:ritual_storm_bound_talisman') {
+    global.ensureScyllaArena(player.server, player)
+  }
 })
