@@ -1,0 +1,7 @@
+{
+  "travel_req": {
+    "combat": 25,
+    "endurance": 20
+  },
+  "override": true
+}

@@ -1,0 +1,22 @@
+{
+  "requirements": {
+    "TOOL": {
+      "woodcutting": 40
+    },
+    "WEAPON": {
+      "combat": 40
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "xp_values": {
+    "CRAFT": {
+      "smithing": 8
+    }
+  },
+  "override": true
+}

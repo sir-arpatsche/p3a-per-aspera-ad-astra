@@ -1,0 +1,13 @@
+{
+  "requirements": {
+    "INTERACT": {
+      "mining": 5
+    }
+  },
+  "xp_values": {
+    "CRAFT": {
+      "smithing": 6
+    }
+  },
+  "override": true
+}

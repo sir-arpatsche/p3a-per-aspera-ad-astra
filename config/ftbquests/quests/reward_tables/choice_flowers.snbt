@@ -1,0 +1,111 @@
+{
+	id: "6BECD56C7F7B27C5"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 6
+			id: "3252D24BB150486D"
+			item: {
+				count: 1
+				id: "minecraft:poppy"
+			}
+		}
+		{
+			count: 6
+			id: "609BFD5637D42AE5"
+			item: {
+				count: 1
+				id: "minecraft:dandelion"
+			}
+		}
+		{
+			count: 6
+			id: "277998BC9F60AF9A"
+			item: {
+				count: 1
+				id: "minecraft:blue_orchid"
+			}
+		}
+		{
+			count: 6
+			id: "7314C94E6C4A6444"
+			item: {
+				count: 1
+				id: "minecraft:allium"
+			}
+		}
+		{
+			count: 6
+			id: "6C39FB56D706B58C"
+			item: {
+				count: 1
+				id: "minecraft:azure_bluet"
+			}
+		}
+		{
+			count: 6
+			id: "3C64727944EF867A"
+			item: {
+				count: 1
+				id: "minecraft:red_tulip"
+			}
+		}
+		{
+			count: 6
+			id: "34777BA2218D8B8E"
+			item: {
+				count: 1
+				id: "minecraft:orange_tulip"
+			}
+		}
+		{
+			count: 6
+			id: "4FB033D5306FCA55"
+			item: {
+				count: 1
+				id: "minecraft:white_tulip"
+			}
+		}
+		{
+			count: 6
+			id: "46B4B9C677BED0C6"
+			item: {
+				count: 1
+				id: "minecraft:pink_tulip"
+			}
+		}
+		{
+			count: 6
+			id: "08CF497E7561E285"
+			item: {
+				count: 1
+				id: "minecraft:oxeye_daisy"
+			}
+		}
+		{
+			count: 6
+			id: "19CD79F2662C1877"
+			item: {
+				count: 1
+				id: "minecraft:cornflower"
+			}
+		}
+		{
+			count: 6
+			id: "27742AC8150A65A7"
+			item: {
+				count: 1
+				id: "minecraft:lily_of_the_valley"
+			}
+		}
+		{
+			count: 6
+			id: "5E30C7D2BAFCD0C0"
+			item: {
+				count: 1
+				id: "minecraft:sunflower"
+			}
+		}
+	]
+}

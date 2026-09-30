@@ -1,0 +1,71 @@
+{
+	id: "7207C95EDFE6DFFD"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{
+			count: 64
+			id: "0568C7E94B616A7A"
+			item: {
+				count: 1
+				id: "minecraft:oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "4A299CE9E4BEE6E3"
+			item: {
+				count: 1
+				id: "minecraft:spruce_log"
+			}
+		}
+		{
+			count: 64
+			id: "7E83CDCDC3BB6F00"
+			item: {
+				count: 1
+				id: "minecraft:birch_log"
+			}
+		}
+		{
+			count: 64
+			id: "280F00DD94D60BC9"
+			item: {
+				count: 1
+				id: "minecraft:jungle_log"
+			}
+		}
+		{
+			count: 64
+			id: "720142250750461A"
+			item: {
+				count: 1
+				id: "minecraft:acacia_log"
+			}
+		}
+		{
+			count: 64
+			id: "4584BDDA639377F7"
+			item: {
+				count: 1
+				id: "minecraft:dark_oak_log"
+			}
+		}
+		{
+			count: 64
+			id: "3A62714325028F18"
+			item: {
+				count: 1
+				id: "minecraft:mangrove_log"
+			}
+		}
+		{
+			count: 64
+			id: "27315A35D38320E5"
+			item: {
+				count: 1
+				id: "minecraft:cherry_log"
+			}
+		}
+	]
+}

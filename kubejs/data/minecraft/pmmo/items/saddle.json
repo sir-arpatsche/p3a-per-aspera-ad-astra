@@ -1,0 +1,8 @@
+{
+  "xp_values": {
+    "FISH": {
+      "fishing": 50
+    }
+  },
+  "override": true
+}

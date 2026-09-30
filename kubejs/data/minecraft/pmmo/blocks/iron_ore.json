@@ -1,0 +1,5 @@
+{
+  "xp_values": { "BLOCK_BREAK": { "mining": 8 } },
+  "vein_data": { "consumeAmount": 3 },
+  "override": true
+}

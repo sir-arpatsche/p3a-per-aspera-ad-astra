@@ -1,0 +1,22 @@
+{
+  "requirements": {
+    "TOOL": {
+      "cooking": 20
+    },
+    "WEAPON": {
+      "mining": 0
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true,
+  "xp_values": {
+    "CONSUME": {
+      "endurance": 0
+    }
+  }
+}

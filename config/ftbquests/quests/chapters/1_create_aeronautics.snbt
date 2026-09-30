@@ -1,0 +1,115 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "1_create_aeronautics"
+	group: "7E5EC7E044A70449"
+	id: "406EFBFE602B0A0C"
+	images: [ ]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "0062C42F1E582398"
+			size: 1.5d
+			tasks: [{
+				id: "286FB23F8EEB2376"
+				item: { count: 1, id: "aeronautics:wooden_propeller" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0062C42F1E582398"]
+			id: "4F231B6D976FAEFC"
+			size: 1.0d
+			tasks: [{
+				id: "51A324EBADB5A463"
+				item: { count: 1, id: "aeronautics:propeller_bearing" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "14AA2479236296D0"
+			size: 1.0d
+			tasks: [{
+				count: 8L
+				id: "1FD3BB277F6B3502"
+				item: { count: 1, id: "aeronautics:white_envelope" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["14AA2479236296D0"]
+			id: "2675F95104D19BE4"
+			size: 1.0d
+			tasks: [{
+				id: "6C94DC8B7B6299EC"
+				item: { count: 1, id: "aeronautics:adjustable_burner" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			id: "3A42589156446236"
+			size: 1.0d
+			tasks: [{
+				id: "29604C221C2B787D"
+				item: { count: 1, id: "aeronautics:levitite" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "07AFC8DA35DFAD28"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "50C0D4C22D68A7BB"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 6.0d
+		}
+		{
+			id: "693D10A7CB5786D4"
+			size: 1.0d
+			tasks: [{
+				id: "01A3247E3F4DCB67"
+				item: { count: 1, id: "aeronautics:andesite_propeller" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "258E4B18E1BB3751"
+			size: 1.0d
+			tasks: [{
+				id: "6828E07A4F89E6B1"
+				item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["258E4B18E1BB3751"]
+			id: "326368522EE90577"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "309A0164A9AE8F82"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 12.0d
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+  "requirements": {
+    "INTERACT": {
+      "magic": 5
+    }
+  },
+  "override": true
+}

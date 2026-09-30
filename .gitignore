@@ -1,0 +1,18 @@
+# Alles ignorieren
+/*
+
+# Nur das hier behalten
+!.gitignore
+!README.md
+!docs/
+!kubejs/
+!config/
+!defaultconfigs/
+!manifest.json
+!minecraftinstance.json
+
+# Innerhalb davon Unerwünschtes wieder ausschließen
+config/essential/
+config/xaero/
+kubejs/exported/
+kubejs/probe/

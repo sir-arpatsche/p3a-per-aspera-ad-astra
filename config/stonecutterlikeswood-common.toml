@@ -1,0 +1,24 @@
+#Set to false to disable a recipe group (changes require a game restart)
+[stonecutterlikeswood]
+	# Slabs can be made in the stonecutter
+	slabs = true
+	# Stairs can be made in the stonecutter
+	stairs = true
+	# Logs can be made in the stonecutter
+	logs = true
+	# Signs can be made in the stonecutter
+	signs = true
+	# Buttons can be made in the stonecutter
+	buttons = true
+	# Pressure plates can be made in the stonecutter
+	plates = true
+	# Fences and gates can be made in the stonecutter
+	fences = true
+	# Doors can be made in the stonecutter
+	doors = true
+	# Trapdoors can be made in the stonecutter
+	trapdoors = true
+	# Boats can be made in the stonecutter
+	boats = true
+	# Sticks can be made in the stonecutter
+	sticks = true

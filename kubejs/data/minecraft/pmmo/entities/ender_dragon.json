@@ -1,0 +1,8 @@
+{
+  "xp_values": {
+    "DEATH": {
+      "combat": 500
+    }
+  },
+  "override": true
+}

@@ -1,0 +1,17 @@
+{
+  "requirements": {
+    "TOOL": {
+      "woodcutting": 5
+    },
+    "WEAPON": {
+      "mining": 0
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true
+}

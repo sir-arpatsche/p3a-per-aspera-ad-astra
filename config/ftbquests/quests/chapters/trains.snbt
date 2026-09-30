@@ -1,0 +1,337 @@
+{
+	autofocus_id: "42F8D535BE37622E"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "trains"
+	group: "7E5EC7E044A70449"
+	id: "18D4674F33A1703E"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			hide_dependency_lines: false
+			id: "42F8D535BE37622E"
+			require_sequential_tasks: true
+			rewards: [{
+				count: 16
+				id: "6ADA722D3D963EDD"
+				item: {
+					count: 1
+					id: "create:track"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6A3E34625CFEF266"
+				item: { count: 1, id: "create:track" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -7.5d
+		}
+		{
+			dependencies: ["42F8D535BE37622E"]
+			id: "17DDF2A93B806150"
+			tasks: [{
+				id: "1A84C9FEE4020C7A"
+				item: { count: 1, id: "railways:track_create_andesite_narrow" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["42F8D535BE37622E"]
+			id: "3DB6CE4A8AFE44D5"
+			tasks: [{
+				id: "5DBC43F82CD40A81"
+				item: { count: 1, id: "railways:track_monorail" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["42F8D535BE37622E"]
+			id: "3EBC2CB81EE27782"
+			progression_mode: "linear"
+			tasks: [{
+				id: "5536C9D120FD2C41"
+				item: { count: 1, id: "railways:track_create_andesite_wide" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["42F8D535BE37622E"]
+			id: "210EFA2A5EEDD15B"
+			tasks: [{
+				id: "3FEAFE5CFC6F68FE"
+				item: { count: 1, id: "create:sturdy_sheet" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.0d
+		}
+		{
+			dependencies: ["210EFA2A5EEDD15B"]
+			id: "58CADA849FFF1807"
+			tasks: [{
+				id: "772C9A19C9BE33F8"
+				item: { count: 1, id: "create:railway_casing" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["58CADA849FFF1807"]
+			id: "185624AAE09443DF"
+			optional: true
+			tasks: [{
+				id: "48B57042A9E72F8B"
+				item: { count: 1, id: "create:train_door" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["58CADA849FFF1807"]
+			id: "6757B32F8BDE37F6"
+			tasks: [{
+				id: "6D025592F4BABD1C"
+				item: { count: 1, id: "create:track_station" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6757B32F8BDE37F6"]
+			id: "6982E445BC0F47A6"
+			tasks: [{
+				id: "57D45A8FFA11AB6B"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6757B32F8BDE37F6"]
+			id: "34F3A15A88C2B923"
+			tasks: [{
+				count: 9L
+				id: "138E6870B5542D08"
+				item: { count: 1, id: "create:display_board" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["34F3A15A88C2B923"]
+			id: "46C42627AD5440EA"
+			tasks: [{
+				id: "10A1ED4A121BCAC1"
+				item: { count: 1, id: "createrailwaysnavigator:navigator" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "35023D5DF77E1374"
+			tasks: [{
+				id: "78D1D15F6EF72777"
+				item: { count: 1, id: "create:controls" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["35023D5DF77E1374"]
+			id: "05548322B44F6897"
+			tasks: [{
+				id: "4BD50F8CC9453C88"
+				item: { count: 1, id: "create:schedule" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["05548322B44F6897"]
+			id: "038CB76A1A26CF12"
+			tasks: [{
+				id: "49DEC4FD0318EA1B"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "31639B3C2AA6D3CB"
+			tasks: [{
+				id: "020D4672134F9F2B"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "78586AF85144F2A2"
+			tasks: [{
+				count: 9L
+				id: "38E143D90F49B0BF"
+				item: { count: 1, id: "create:mechanical_drill" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "2CFD6612C268E406"
+			tasks: [{
+				id: "6882ED63DB2772D1"
+				item: { count: 1, id: "create:mechanical_roller" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "27E451BFA8948979"
+			tasks: [{
+				id: "3AA3674653056DB1"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6982E445BC0F47A6"]
+			id: "1F46ECA66E8F11AE"
+			tasks: [{
+				id: "2BAE7E75DF532335"
+				item: { count: 1, id: "create:super_glue" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"31639B3C2AA6D3CB"
+				"2CFD6612C268E406"
+				"78586AF85144F2A2"
+			]
+			dependency_requirement: "one_completed"
+			id: "21178113B220C705"
+			tasks: [{
+				id: "57D1E14C893D5467"
+				item: { count: 1, id: "create:item_vault" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["27E451BFA8948979"]
+			id: "73F0E7CCA4ADC3DD"
+			tasks: [{
+				id: "4D18517994282539"
+				item: { count: 1, id: "create:red_seat" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["21178113B220C705"]
+			id: "0B988AFCB8EA72E3"
+			tasks: [{
+				id: "66B0E495D247AFB3"
+				item: { count: 1, id: "create:portable_storage_interface" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B988AFCB8EA72E3"]
+			id: "17E4CC14FF00ABCD"
+			optional: true
+			tasks: [{
+				id: "24F1537E43CDD39C"
+				item: { count: 1, id: "railways:portable_fuel_interface" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["0B988AFCB8EA72E3"]
+			id: "2BDCF1775525E99F"
+			optional: true
+			tasks: [{
+				id: "686C80905821DA2B"
+				item: { count: 1, id: "create:portable_fluid_interface" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0B988AFCB8EA72E3"]
+			id: "13E581380F7D9D39"
+			optional: true
+			tasks: [{
+				id: "545589B7CA2B65AD"
+				item: { count: 1, id: "createaddition:portable_energy_interface" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6757B32F8BDE37F6"]
+			id: "4E9731696CA4DF9D"
+			tasks: [{
+				id: "7DAFD0F582CA1287"
+				item: { count: 1, id: "create:track_signal" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["6757B32F8BDE37F6"]
+			id: "51249A2DF82F4630"
+			optional: true
+			tasks: [
+				{
+					id: "56C4868B853906C7"
+					item: { count: 1, id: "railways:track_switch_andesite" }
+					type: "item"
+				}
+				{
+					id: "471C2D3A92931C2F"
+					item: { count: 1, id: "railways:track_switch_brass" }
+					optional_task: true
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -2.0d
+		}
+	]
+}

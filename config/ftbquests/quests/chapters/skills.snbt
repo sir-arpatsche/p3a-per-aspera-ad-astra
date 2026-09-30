@@ -1,0 +1,1521 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "skills"
+	group: ""
+	id: "3198915B11C6043A"
+	images: [
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "68FFE3CBB90F90BA"
+			image: "minecraft:item/iron_pickaxe"
+			rotation: 0.0d
+			width: 2.0d
+			x: -16.0d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "36BB9272EC3DB53C"
+			image: "minecraft:item/iron_axe"
+			rotation: 0.0d
+			width: 2.0d
+			x: -13.5d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "27FBBEDCA0E40FA3"
+			image: "minecraft:item/iron_shovel"
+			rotation: 0.0d
+			width: 2.0d
+			x: -11.0d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "32D4F583146F09D1"
+			image: "minecraft:item/iron_hoe"
+			rotation: 0.0d
+			width: 2.0d
+			x: -8.5d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "672A8F2F6DEBA6A5"
+			image: "quark:textures/attribute/armor.png"
+			rotation: 0.0d
+			width: 2.0d
+			x: -6.0d
+			y: -9.0d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "79F384885C78EAA2"
+			image: "minecraft:item/iron_sword"
+			rotation: 0.0d
+			width: 2.0d
+			x: -3.5d
+			y: -9.0d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "138A1A7C9E4E2CDD"
+			rewards: [{
+				count: 2
+				id: "650BC1383BB56EAB"
+				item: {
+					count: 1
+					id: "create_factory:nectar_apple"
+				}
+				type: "item"
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "0D93E00A520ED667"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -12.0d
+		}
+		{
+			dependencies: ["4887D45DEB5411EA"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "327D77F824265162"
+			tasks: [{
+				id: "3FF0D42BE90B87CD"
+				requiredLevel: 10L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: -4.5d
+		}
+		{
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "4887D45DEB5411EA"
+			rewards: [{
+				id: "36B3216FDAEEB975"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "00B4BCA38B467F3B"
+				requiredLevel: 5L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["327D77F824265162"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "729FAE923D5A4FD1"
+			rewards: [{
+				id: "1CF0A64BA3DBFC31"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2AABFE228F219E9C"
+				requiredLevel: 15L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["729FAE923D5A4FD1"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "5EC84D8DBC742547"
+			rewards: [{
+				id: "0ACE858FF4982D66"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "70F58904DBA41ECC"
+				requiredLevel: 20L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5EC84D8DBC742547"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "43B026C48BBF33FE"
+			rewards: [{
+				id: "28B5B7A767C76FB0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "324380CAFDBD83CF"
+				requiredLevel: 30L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["43B026C48BBF33FE"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "08F86BEBB2737F6A"
+			rewards: [{
+				id: "6604AB9ECA7151CE"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6F0FB23C6F5DA2CE"
+				requiredLevel: 40L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["08F86BEBB2737F6A"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "4D6608697A8D41BE"
+			rewards: [{
+				id: "176813E02EA68EF7"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0B058919C11A3AF2"
+				requiredLevel: 50L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["4D6608697A8D41BE"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "79BC1F48B1733EA1"
+			rewards: [{
+				id: "7E285655783B3C6A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4B484E73CF575DCA"
+				requiredLevel: 60L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["79BC1F48B1733EA1"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "732881584D8C4FA2"
+			rewards: [{
+				id: "747AE3F2B64B029F"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "535BF4E073E5353C"
+				requiredLevel: 70L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["732881584D8C4FA2"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "59A49F847F9517AF"
+			rewards: [{
+				id: "12C9791E558E08BA"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "29C3E3E1723E6B10"
+				requiredLevel: 80L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["59A49F847F9517AF"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "402C440BA99BD3DD"
+			rewards: [{
+				id: "4941D4072014B3CE"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2824C1C099724CAF"
+				requiredLevel: 90L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["402C440BA99BD3DD"]
+			icon: {
+				id: "minecraft:stone_pickaxe"
+			}
+			id: "107F80E222F82876"
+			rewards: [{
+				id: "2C70BE3523580E45"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7EFC2F91624A8940"
+				requiredLevel: 100L
+				skill: "mining"
+				type: "pmmo:skill"
+			}]
+			x: -16.0d
+			y: 20.5d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "2EFD5C4BA42A357A"
+			rewards: [{
+				id: "6AC84E678BA4996A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "50EEA2E0EA34D113"
+				requiredLevel: 5L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["2EFD5C4BA42A357A"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "636629234788BCF8"
+			rewards: [{
+				id: "3C63ACD924D8FAD8"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6BD0C621DE49F145"
+				requiredLevel: 10L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["636629234788BCF8"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "6F7EAED46725A2A7"
+			rewards: [{
+				id: "6287CCED9041DFF0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "24DD08C8EA66DA09"
+				requiredLevel: 15L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["6F7EAED46725A2A7"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "2CEE737443E21047"
+			rewards: [{
+				id: "7E24EB4152433616"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1948D33296C87009"
+				requiredLevel: 20L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2CEE737443E21047"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "0E6326936730964D"
+			rewards: [{
+				id: "4C1604D115CEA325"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2F13EC120BCAE2C8"
+				requiredLevel: 30L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0E6326936730964D"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "23179CFDFD4BA019"
+			rewards: [{
+				id: "041D3DC26EADD2AD"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3DA635D0460A4591"
+				requiredLevel: 40L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["23179CFDFD4BA019"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "1A4FA55ACA44DC26"
+			rewards: [{
+				id: "23B04F66221A3922"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1026A59645B347A5"
+				requiredLevel: 50L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1A4FA55ACA44DC26"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "4D475B04BB8B6042"
+			rewards: [{
+				id: "3E130F7EB1973166"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "65AF6485AF5A5736"
+				requiredLevel: 60L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["4D475B04BB8B6042"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "2B5E803B61BA4168"
+			rewards: [{
+				id: "50B2AE3E1C2976A2"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "160ADB59261FF2D3"
+				requiredLevel: 70L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["2B5E803B61BA4168"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "1EE8E7320A802B29"
+			rewards: [{
+				id: "6941FA1C257C6F56"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "014C2B54B95523CF"
+				requiredLevel: 80L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["1EE8E7320A802B29"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "1C5CB347611A3CE9"
+			rewards: [{
+				id: "5FC324BDB2E1142A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4673C3240DC3CE0A"
+				requiredLevel: 90L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["1C5CB347611A3CE9"]
+			icon: {
+				id: "minecraft:iron_axe"
+			}
+			id: "21C402364F9572B8"
+			rewards: [{
+				id: "58AC5831BE38CB8C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5A8E48F687AB165C"
+				requiredLevel: 100L
+				skill: "woodcutting"
+				type: "pmmo:skill"
+			}]
+			x: -13.5d
+			y: 20.5d
+		}
+		{
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "22F3E34CB331C299"
+			rewards: [{
+				id: "6C1531AA110B31A9"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "49DDB14F71010B93"
+				requiredLevel: 5L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["22F3E34CB331C299"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "48C801BEF750110C"
+			rewards: [{
+				id: "70B9D7739C90F5F3"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "57513064D6D59291"
+				requiredLevel: 10L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["48C801BEF750110C"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "18D8962058765A6C"
+			rewards: [{
+				id: "0335B400141212B6"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "5E6E0D7469389AEF"
+				requiredLevel: 15L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["18D8962058765A6C"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "2C376631129F3436"
+			rewards: [{
+				id: "0D3BF16295D06910"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3150CF05FB53DB22"
+				requiredLevel: 20L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2C376631129F3436"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "020A09E1409FF519"
+			rewards: [{
+				id: "7E1053DC12E465F4"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "29D826D610FE0BC7"
+				requiredLevel: 30L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["020A09E1409FF519"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "27C4E74E239AB22B"
+			rewards: [{
+				id: "3FF1051A7BC44C43"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3536C4499D863386"
+				requiredLevel: 40L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["27C4E74E239AB22B"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "6B7BD016C0E65F2C"
+			rewards: [{
+				id: "3E6F0BADE65C3B18"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1E8DA6F1A3CE156B"
+				requiredLevel: 50L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["6B7BD016C0E65F2C"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "27EC54C5188E981B"
+			rewards: [{
+				id: "78C8D5F08B79AFFD"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "127D92A366D0EC9F"
+				requiredLevel: 60L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["27EC54C5188E981B"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "2B49C12A4B006298"
+			rewards: [{
+				id: "6086C76DB3277C05"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3475EB46C5296F62"
+				requiredLevel: 70L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["2B49C12A4B006298"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "505AEF9EBDD25B00"
+			rewards: [{
+				id: "18CCE40E488E05E5"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1A3FF416D4A3BAF6"
+				requiredLevel: 80L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["505AEF9EBDD25B00"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "3A6A9421CC1C9301"
+			rewards: [{
+				id: "20BFCA565727CFC0"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6F1C4261E5351D30"
+				requiredLevel: 90L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["3A6A9421CC1C9301"]
+			icon: {
+				id: "minecraft:iron_shovel"
+			}
+			id: "5B7A721173C3DEB9"
+			rewards: [{
+				id: "6920392CAD2CFD40"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "032634F087E51B42"
+				requiredLevel: 100L
+				skill: "excavation"
+				type: "pmmo:skill"
+			}]
+			x: -11.0d
+			y: 20.5d
+		}
+		{
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "3E9B04ABD9A06D72"
+			rewards: [{
+				id: "61CCB5F57A04D6C8"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2F2929C5B64CC20C"
+				requiredLevel: 5L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["3E9B04ABD9A06D72"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "07D2B2A5BEA59E91"
+			rewards: [{
+				id: "3BE24A0B80316F68"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "59CC3FCC1A361C38"
+				requiredLevel: 10L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["07D2B2A5BEA59E91"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "7D45D448ADB0E2CB"
+			rewards: [{
+				id: "7518B1018F134A06"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "74BD19D952D48A90"
+				requiredLevel: 15L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7D45D448ADB0E2CB"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "17696A31271E5B4A"
+			rewards: [{
+				id: "03AB792A81E338EE"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0E61572B4E3C02EA"
+				requiredLevel: 20L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["17696A31271E5B4A"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "389DC4E62855ED43"
+			rewards: [{
+				id: "51940EA4E095BD1D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "16F9386BD8773C9D"
+				requiredLevel: 30L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["389DC4E62855ED43"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "6854575622F85646"
+			rewards: [{
+				id: "75B15B0BE23B7AC1"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6A59EB239642BC16"
+				requiredLevel: 40L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["6854575622F85646"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "63ABB96149104DD7"
+			rewards: [{
+				id: "3180B2ADAF666085"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "03680E7E3B35183E"
+				requiredLevel: 50L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["63ABB96149104DD7"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "1C1BAC7ADAC1A4B7"
+			rewards: [{
+				id: "118813830D71939B"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7EED3DE543D9FCA6"
+				requiredLevel: 60L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["1C1BAC7ADAC1A4B7"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "53182E4E349D9872"
+			rewards: [{
+				id: "04DFCCC8E7D5B28A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0A9D624EE1763CE3"
+				requiredLevel: 70L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["53182E4E349D9872"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "2BE1CEB374DAB468"
+			rewards: [{
+				id: "796D59CB8D9202E3"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "3F84D30D3FC4D83C"
+				requiredLevel: 80L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["2BE1CEB374DAB468"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "4DC72AA7A6D0018F"
+			rewards: [{
+				id: "39D071680645DA84"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "02D23DA7CA52FD39"
+				requiredLevel: 90L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["4DC72AA7A6D0018F"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "39AD5966D513B1D0"
+			rewards: [{
+				id: "4530325FED10A47B"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0909C30065F846D3"
+				requiredLevel: 100L
+				skill: "farming"
+				type: "pmmo:skill"
+			}]
+			x: -8.5d
+			y: 20.5d
+		}
+		{
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "2607CC837E5E2E91"
+			rewards: [{
+				id: "05ED02ADBAE02219"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1777155A0E9D8F27"
+				requiredLevel: 5L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["2607CC837E5E2E91"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "3640BB12B6464343"
+			rewards: [{
+				id: "75BB6CC69F67E48E"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2608E28FD7525B0A"
+				requiredLevel: 10L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3640BB12B6464343"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "31BD7DDA77230E83"
+			rewards: [{
+				id: "142C2EB78FBBD17C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "7A632B96292794C9"
+				requiredLevel: 15L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["31BD7DDA77230E83"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "593871C15D694C19"
+			rewards: [{
+				id: "712A522A8DFDB0A3"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "57F8DB03911731A6"
+				requiredLevel: 20L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["593871C15D694C19"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "61DCC67C99B3898B"
+			rewards: [{
+				id: "3D54EC6390BF6118"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1CD0D38B1941714A"
+				requiredLevel: 30L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["61DCC67C99B3898B"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "4A122CC07573DE8E"
+			rewards: [{
+				id: "72400C49B5539AC5"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4FF1E3A6C958BA53"
+				requiredLevel: 40L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["4A122CC07573DE8E"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "3FA532F9758A529F"
+			rewards: [{
+				id: "79593E7479C9ADA6"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "18C19D8887645CF4"
+				requiredLevel: 50L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3FA532F9758A529F"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "0FAD37F9D7C07ADE"
+			rewards: [{
+				id: "575D8484E7BB00CC"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "11EA51615709F0E3"
+				requiredLevel: 60L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["0FAD37F9D7C07ADE"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "732D2E433EC56F24"
+			rewards: [{
+				id: "3B5BA0837BBF1B3B"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4DC5EAB2F10BE02D"
+				requiredLevel: 70L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 13.0d
+		}
+		{
+			dependencies: ["732D2E433EC56F24"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "4B341147D38F4C3A"
+			rewards: [{
+				id: "25CF5EC72BA69416"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "549C488E00A4FF11"
+				requiredLevel: 80L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 15.5d
+		}
+		{
+			dependencies: ["4B341147D38F4C3A"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "5BEAECBA0AFA707E"
+			rewards: [{
+				id: "2ED2BD2691CA297A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1448C828B4136D3B"
+				requiredLevel: 90L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["5BEAECBA0AFA707E"]
+			icon: {
+				id: "minecraft:shield"
+			}
+			id: "77B4460ECEC95249"
+			rewards: [{
+				id: "1496A51F3CC16A1D"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "2C8860C4C63D8220"
+				requiredLevel: 100L
+				skill: "endurance"
+				type: "pmmo:skill"
+			}]
+			x: -6.0d
+			y: 20.5d
+		}
+		{
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "14122A40680A06AA"
+			rewards: [{
+				id: "4AE7B75FA58A40AA"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "0FCA51D12AFC8E00"
+				requiredLevel: 5L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: -7.0d
+		}
+		{
+			dependencies: ["14122A40680A06AA"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "4A78F19E8B8480F3"
+			rewards: [{
+				id: "0B7EF6BCE6A0302C"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4A4FCDAFBF8B6779"
+				requiredLevel: 10L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4A78F19E8B8480F3"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "19BB5F5823F35771"
+			rewards: [{
+				id: "75AE616B1E5D4903"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "12A4039097CD9580"
+				requiredLevel: 15L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["19BB5F5823F35771"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "40494B35EC2DACA1"
+			rewards: [{
+				id: "13A5FD6759662032"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "760147D301A233F4"
+				requiredLevel: 20L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["40494B35EC2DACA1"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "1F038BF5CB1F0DB4"
+			rewards: [{
+				id: "63211CAEAE0FFAC7"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "1EF299952BD25386"
+				requiredLevel: 30L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1F038BF5CB1F0DB4"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "746D6AE34D5B9090"
+			rewards: [{
+				id: "48C3BB9E28C9E3EF"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "057D70130A5A7B71"
+				requiredLevel: 40L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["746D6AE34D5B9090"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "5404BF7BAC806081"
+			rewards: [{
+				id: "1ECB19DD8B7C46B2"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "598A878E2F264D9B"
+				requiredLevel: 50L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 8.0d
+		}
+		{
+			dependencies: ["5404BF7BAC806081"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "6A22ECCDF03EEDDF"
+			rewards: [{
+				id: "27203F26E16AF1D4"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "52ECF4076C19ACE3"
+				requiredLevel: 60L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["6A22ECCDF03EEDDF"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "6F6DED38C91B0752"
+			rewards: [{
+				id: "4BA6E1A02DA187E9"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "6B7AE56817690361"
+				requiredLevel: 70L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 13.0d
+		}
+		{
+			dependencies: ["6F6DED38C91B0752"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "66ECE6615D3142F5"
+			rewards: [{
+				id: "78ED41415E97A498"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "05F7965463E3621D"
+				requiredLevel: 80L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 15.5d
+		}
+		{
+			dependencies: ["66ECE6615D3142F5"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "4AAC1BA91E2B214E"
+			rewards: [{
+				id: "3799E47C1E6E1A5A"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "4A3E7B20F09FA324"
+				requiredLevel: 90L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 18.0d
+		}
+		{
+			dependencies: ["4AAC1BA91E2B214E"]
+			icon: {
+				id: "minecraft:diamond_sword"
+			}
+			id: "45FC967C6F99D268"
+			rewards: [{
+				id: "52A0F94833734F83"
+				type: "xp"
+				xp: 20
+			}]
+			tasks: [{
+				id: "35CE1113D4DB2B5B"
+				requiredLevel: 100L
+				skill: "combat"
+				type: "pmmo:skill"
+			}]
+			x: -3.5d
+			y: 20.5d
+		}
+	]
+}

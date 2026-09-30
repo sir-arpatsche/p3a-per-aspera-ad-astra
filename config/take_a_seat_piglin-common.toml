@@ -1,0 +1,14 @@
+#Duration in ticks of a trade (20 ticks = 1 second). Vanilla bartering admire time is 120.
+# Default: 120
+# Range: > 0
+tradeDurationTicks = 120
+#Base detection radius (in blocks) of the cube searched around a seated piglin for depots.
+#Default 1 = a 3x3x3 cube.
+# Default: 1
+# Range: 1 ~ 16
+radius = 1
+#Detection radius when a gold block sits directly below the piglin's seat.
+#Default 3 = a 7x7x7 cube.
+# Default: 3
+# Range: 1 ~ 16
+radiusWithGoldBlock = 3

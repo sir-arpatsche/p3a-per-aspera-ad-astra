@@ -1,0 +1,4 @@
+[hud]
+	#List of HUD element relative rectangles
+	#Each entry format: <namespace:path>|<anchor>|<offsetX>|<offsetY>|<width>|<height>|<useRelativeSize>
+	relative_rects = []

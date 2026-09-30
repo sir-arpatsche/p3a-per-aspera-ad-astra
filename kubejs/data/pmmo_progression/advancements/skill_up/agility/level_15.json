@@ -1,0 +1,30 @@
+{
+  "parent": "pmmo_progression:skill_up/root",
+  "display": {
+    "icon": {
+      "item": "minecraft:experience_bottle"
+    },
+    "title": {
+      "translate": "advancements.pmmo_progression.agility_15.title"
+    },
+    "description": {
+      "translate": "advancements.pmmo_progression.agility_15.desc"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "pmmo:skill_up",
+      "conditions": {
+        "skill": "agility",
+        "level": {
+          "min": 15,
+          "max": 15
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "vein_data": {
+    "chargeCap": 80,
+    "chargeRate": 2.0
+  },
+  "override": true
+}

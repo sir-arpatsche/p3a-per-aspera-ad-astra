@@ -1,0 +1,11 @@
+{
+  "xp_values": {
+    "SMELTED": {
+      "cooking": 80
+    },
+    "CONSUME": {
+      "endurance": 0
+    }
+  },
+  "override": true
+}

@@ -1,0 +1,52 @@
+#The range at which a mob will unboard a transit node
+# Default: 4
+# Range: > 1
+unboardingRange = 4
+#The range at which a mob will board a transit node
+# Default: 4
+# Range: > 1
+boardingRange = 4
+#The maximum number of waiting colonists at a transit node
+# Default: 4
+# Range: > 1
+maxWaitingColonists = 4
+#The maximum number of ticks a colonist will wait to board a transit (default: 2400 = 2 minutes)
+# Default: 2400
+# Range: > 1
+boardingWaitTicks = 2400
+#The minimum number of ticks a colonist will wait while in transit before timing out (default: 1200 = 1 minute)
+# Default: 1200
+# Range: > 1
+minTransitWaitTicks = 1200
+#The distance at which a colonist is considered to have reached a boarding node
+# Default: 2.0
+# Range: 0.1 ~ 64.0
+boardingDistance = 2.0
+#The distance at which a colonist is considered to have reached an unboarding node
+# Default: 2.0
+# Range: 1.0 ~ 64.0
+unboardingDistance = 2.0
+#The maximum distance at which a colonist is considered to have reached an unboarding node
+# Default: 8.0
+# Range: 1.0 ~ 64.0
+maxUnboardingDistance = 8.0
+#Multiplier for the maximum transit wait time based on travel cost
+# Default: 5
+# Range: > 1
+transitWaitMult = 5
+#Time in ticks with no movement before transit is considered failed (default: 300 = 15 seconds)
+# Default: 300
+# Range: > 1
+transitNoMovementTimeoutTicks = 300
+#Time in ticks with no progress towards destination before transit is considered failed (default: 600 = 30 seconds)
+# Default: 600
+# Range: > 1
+transitNoProgressTimeoutTicks = 600
+#Minimum distance moved to count as movement
+# Default: 0.8
+# Range: 0.01 ~ 2.0
+transitMovementThreshold = 0.8
+#Time in ticks before a failed transit node can be retried (default: 6000 = 5 minutes)
+# Default: 6000
+# Range: > 0
+failedNodeTimeoutTicks = 6000

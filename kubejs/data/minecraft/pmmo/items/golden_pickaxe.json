@@ -1,0 +1,12 @@
+{
+  "xp_values": {
+    "CRAFT": {
+      "smithing": 3
+    }
+  },
+  "vein_data": {
+    "chargeCap": 25,
+    "chargeRate": 0.75
+  },
+  "override": true
+}

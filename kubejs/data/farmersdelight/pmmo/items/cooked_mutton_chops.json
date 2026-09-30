@@ -1,0 +1,11 @@
+{
+  "xp_values": {
+    "CRAFT": {
+      "cooking": 8
+    },
+    "CONSUME": {
+      "endurance": 0
+    }
+  },
+  "override": true
+}
