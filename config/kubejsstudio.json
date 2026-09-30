@@ -57,7 +57,10 @@
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\hide_epicknights_missing_recipes.js",
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\villager_trading_balance.js",
     "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_loot_chance.js",
-    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_passive_magic_xp.js"
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\relics_passive_magic_xp.js",
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\remove_ctaclysm_drops_for_bosses.js",
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\cataclysm_ritual_rightclick_locks.js",
+    "G:\\CurseMinecraft\\Instances\\Colony Creation\\kubejs\\server_scripts\\cataclysm_ritual_summoning_recipes.js"
   ],
-  "filesActive": 6
+  "filesActive": 9
 }

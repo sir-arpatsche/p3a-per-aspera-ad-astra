@@ -1,0 +1,15 @@
+{
+  "criteria": {
+    "got_item": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          { "items": ["p3a:lore_page_ignis"] }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    ["got_item"]
+  ]
+}

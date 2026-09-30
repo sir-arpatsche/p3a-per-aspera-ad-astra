@@ -1,0 +1,13 @@
+{
+  "name": "Chapter II: The Netherite Monstrosity",
+  "category": "p3a:main",
+  "icon": "p3a:lore_page_netherite_monstrosity",
+  "advancement": "p3a:lore/lore_page_netherite_monstrosity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_netherite_monstrosity in their inventory."
+    }
+  ],
+  "sortnum": 20
+}
