@@ -1,7 +1,9 @@
 {
   "requirements": {
     "WEAPON": {
-      "combat": 40, "archery": 50
+      "combat": 40,
+      "archery": 50,
+      "ranger": 4
     },
     "TOOL": {
       "mining": 0

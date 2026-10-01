@@ -1,10 +1,11 @@
 {
   "requirements": {
-    "TOOL": {
-      "woodcutting": 4
-    },
     "WEAPON": {
-      "combat": 4
+      "combat": 4,
+      "barbarian": 1
+    },
+    "TOOL": {
+      "mining": 0
     },
     "WEAR": {
       "mining": 0

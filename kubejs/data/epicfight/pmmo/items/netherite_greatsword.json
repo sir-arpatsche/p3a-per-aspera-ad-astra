@@ -1,7 +1,8 @@
 {
   "requirements": {
     "WEAPON": {
-      "combat": 50
+      "combat": 50,
+      "paladin": 3
     },
     "TOOL": {
       "mining": 0
@@ -11,11 +12,6 @@
     },
     "USE_ENCHANTMENT": {
       "mining": 0
-    }
-  },
-  "xp_values": {
-    "CRAFT": {
-      "smithing": 8
     }
   },
   "override": true

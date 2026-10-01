@@ -1,7 +1,8 @@
 {
   "requirements": {
     "WEAPON": {
-      "magic": 20
+      "magic": 20,
+      "wizard": 4
     },
     "TOOL": {
       "mining": 0
