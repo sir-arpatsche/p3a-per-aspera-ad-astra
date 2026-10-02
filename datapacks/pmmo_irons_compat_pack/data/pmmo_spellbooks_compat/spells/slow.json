@@ -1,0 +1,42 @@
+{
+  "requirements": {
+    "1": {
+      "bard": 1
+    },
+    "2": {
+      "bard": 1
+    },
+    "3": {
+      "bard": 1
+    },
+    "4": {
+      "bard": 2
+    },
+    "5": {
+      "bard": 2
+    },
+    "6": {
+      "bard": 2
+    },
+    "7": {
+      "bard": 3
+    },
+    "8": {
+      "bard": 3
+    },
+    "9": {
+      "bard": 4
+    },
+    "10": {
+      "bard": 4
+    }
+  },
+  "default_requirements": {},
+  "sources": [
+    "scroll",
+    "spellbook",
+    "sword",
+    "inscribe"
+  ],
+  "replace": true
+}
