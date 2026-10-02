@@ -1,0 +1,19 @@
+{
+  "requirements": {
+    "WEAPON": {
+      "combat": 50,
+      "magic": 60,
+      "sorcerer": 3
+    },
+    "TOOL": {
+      "mining": 0
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true
+}

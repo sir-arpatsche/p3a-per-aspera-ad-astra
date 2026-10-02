@@ -1,7 +1,8 @@
 {
   "requirements": {
     "WEAPON": {
-      "combat": 6
+      "combat": 6,
+      "fighter": 1
     },
     "TOOL": {
       "mining": 0

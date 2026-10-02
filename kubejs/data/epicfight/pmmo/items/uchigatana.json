@@ -1,7 +1,8 @@
 {
   "requirements": {
     "WEAPON": {
-      "combat": 35
+      "combat": 35,
+      "warlock": 3
     },
     "TOOL": {
       "mining": 0

@@ -1,7 +1,8 @@
 {
   "requirements": {
     "WEAPON": {
-      "magic": 50
+      "magic": 50,
+      "paladin": 4
     },
     "TOOL": {
       "mining": 0

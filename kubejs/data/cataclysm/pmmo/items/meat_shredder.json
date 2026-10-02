@@ -1,10 +1,12 @@
 {
   "requirements": {
     "WEAPON": {
-      "combat": 55, "magic": 30
+      "combat": 55,
+      "magic": 30,
+      "barbarian": 4
     },
     "TOOL": {
-      "woodcutting": 40
+      "mining": 40
     },
     "WEAR": {
       "mining": 0
