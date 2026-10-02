@@ -1,0 +1,42 @@
+{
+  "requirements": {
+    "1": {
+      "cleric": 1
+    },
+    "2": {
+      "cleric": 1
+    },
+    "3": {
+      "cleric": 1
+    },
+    "4": {
+      "cleric": 2
+    },
+    "5": {
+      "cleric": 2
+    },
+    "6": {
+      "cleric": 2
+    },
+    "7": {
+      "cleric": 3
+    },
+    "8": {
+      "cleric": 3
+    },
+    "9": {
+      "cleric": 4
+    },
+    "10": {
+      "cleric": 4
+    }
+  },
+  "default_requirements": {},
+  "sources": [
+    "scroll",
+    "spellbook",
+    "sword",
+    "inscribe"
+  ],
+  "replace": true
+}

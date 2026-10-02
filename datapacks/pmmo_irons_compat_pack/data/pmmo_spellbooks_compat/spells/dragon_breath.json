@@ -1,0 +1,11 @@
+{
+  "requirements": {},
+  "default_requirements": {},
+  "sources": [
+    "scroll",
+    "spellbook",
+    "sword",
+    "inscribe"
+  ],
+  "replace": true
+}
