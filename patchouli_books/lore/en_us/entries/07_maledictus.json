@@ -1,0 +1,13 @@
+{
+  "name": "Chapter VII: Maledictus",
+  "category": "patchouli:main",
+  "icon": "p3a:lore_page_maledictus",
+  "advancement": "p3a:lore/lore_page_maledictus",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_maledictus in their inventory."
+    }
+  ],
+  "sortnum": 70
+}

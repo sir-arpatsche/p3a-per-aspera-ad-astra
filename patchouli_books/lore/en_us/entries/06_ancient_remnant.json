@@ -1,0 +1,13 @@
+{
+  "name": "Chapter VI: The Ancient Remnant",
+  "category": "patchouli:main",
+  "icon": "p3a:lore_page_ancient_remnant",
+  "advancement": "p3a:lore/lore_page_ancient_remnant",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_ancient_remnant in their inventory."
+    }
+  ],
+  "sortnum": 60
+}
