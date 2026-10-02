@@ -1,0 +1,177 @@
+{
+	autofocus_id: "1A4A9DE601E6A18D"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "chapter_1_the_shattered_world"
+	group: "1B19458CC984ADD0"
+	icon: {
+		components: {
+			"ftbquests:icon": "relics:textures/abilities/holy_locket/ascension.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "173F639AB94EF3C3"
+	images: [{
+		click_action: "none:"
+		height: 10.0d
+		id: "14581A0143552797"
+		image: "minecraft:textures/gui/sprites/container/cartography_table/duplicated_map.png"
+		rotation: 0.0d
+		width: 10.0d
+		x: -5.0d
+		y: -3.5d
+	}]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["1A4A9DE601E6A18D"]
+			id: "18E766D38E6EA5AF"
+			tasks: [{
+				advancement: "p3a:lore/intro_lore_final_page"
+				criterion: ""
+				icon: {
+					id: "p3a:intro_lore_final_page"
+				}
+				id: "7DF127CB75C488FA"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["18E766D38E6EA5AF"]
+			id: "6A8B1D038FFB19B5"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_harbinger"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_harbinger"
+				}
+				id: "139ECA28975B388D"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["6A8B1D038FFB19B5"]
+			id: "252ABDCAEDE360A9"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_netherite_monstrosity"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_netherite_monstrosity"
+				}
+				id: "742DCECB93335307"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["252ABDCAEDE360A9"]
+			id: "4014C0923EE76901"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_ignis"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_ignis"
+				}
+				id: "18233BDDF2BFA53F"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -6.5d
+		}
+		{
+			dependencies: ["4014C0923EE76901"]
+			id: "14A4909ECC8A0602"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_leviathan"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_leviathan"
+				}
+				id: "09F275AAF20E19CD"
+				type: "advancement"
+			}]
+			x: -8.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["14A4909ECC8A0602"]
+			id: "56D7452A10BB9AE2"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_ender_guardian"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_ender_guardian"
+				}
+				id: "215C4BD16B784DBD"
+				type: "advancement"
+			}]
+			x: -6.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["56D7452A10BB9AE2"]
+			id: "4C7C088BA2F8614B"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_ancient_remnant"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_ancient_remnant"
+				}
+				id: "7ABC6FB57D5DB3FE"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["4C7C088BA2F8614B"]
+			id: "2240B12CE36BF502"
+			tasks: [{
+				advancement: "p3a:lore/lore_page_maledictus"
+				criterion: ""
+				icon: {
+					id: "p3a:lore_page_maledictus"
+				}
+				id: "20D1B7269230DD78"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["2240B12CE36BF502"]
+			id: "40C2A2EAC40B446D"
+			tasks: [{
+				advancement: "cataclysm:kill_scylla"
+				criterion: ""
+				id: "6D7231125C0E3DD2"
+				type: "advancement"
+			}]
+			x: -5.0d
+			y: -2.5d
+		}
+		{
+			id: "1A4A9DE601E6A18D"
+			tasks: [
+				{
+					id: "19BB94B431B5C472"
+					type: "checkmark"
+				}
+				{
+					advancement: "minecolonies:minecolonies/place_townhall"
+					criterion: ""
+					id: "14C3508EC2B0E441"
+					type: "advancement"
+				}
+			]
+			x: -5.0d
+			y: -10.5d
+		}
+	]
+}

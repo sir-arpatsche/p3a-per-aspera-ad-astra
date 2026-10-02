@@ -1,0 +1,26 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "active_skills"
+	group: "2C38B606F3730A3E"
+	icon: {
+		components: {
+			"ftbquests:icon": "epicfight:textures/gui/skills/dodge/roll.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "438303DF182542A2"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "531F74A92A5A817B"
+		size: 3.0d
+		tasks: [{
+			id: "72D2653AE9C7D7D8"
+			type: "checkmark"
+		}]
+		x: -1.5d
+		y: -1.5d
+	}]
+}
