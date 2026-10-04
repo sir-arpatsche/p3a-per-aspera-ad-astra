@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"pmmo_classes:class_grant","components":"{\"pmmo_skill_books:skill_grant_data\":{application_type:\"set\",application_value:1L,color:\"red\",experience_cost:20,name:\"pmmo_classes.insignia.iron.warrior\",rank:\"iron\",skills:[\"barbarian\",\"fighter\",\"monk\"],texture_type:\"insignia\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"pmmo_classes:class_grant","components":"{\"pmmo_skill_books:skill_grant_data\":{application_type:\"set\",application_value:2L,color:\"red\",experience_cost:25,name:\"pmmo_classes.insignia.gold.warrior\",rank:\"gold\",skills:[\"barbarian\",\"fighter\",\"monk\"],texture_type:\"insignia\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"p3a:storm_bound_talisman"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"p3a:cursed_effigy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"summoningrituals:altar"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,7 +99,5 @@
   {"ingredient":{"id":"createmetallurgy:sturdy_whisk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:molten_steel"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:labeling_station"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"functionalstorage:redstone_upgrade","components":"{\"functionalstorage:slot\":0}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:dirty_iron_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:crushed_raw_iron"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"functionalstorage:redstone_upgrade","components":"{\"functionalstorage:slot\":0}"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

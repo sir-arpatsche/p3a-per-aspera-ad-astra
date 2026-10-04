@@ -396,18 +396,11 @@
 		{
 			hide_dependency_lines: true
 			id: "4791FC0A2E834D85"
-			rewards: [
-				{
-					id: "3646F07F510EB24F"
-					type: "xp"
-					xp: 5
-				}
-				{
-					exclude_from_claim_all: true
-					id: "541661114A223C2E"
-					type: "random"
-				}
-			]
+			rewards: [{
+				id: "3646F07F510EB24F"
+				type: "xp"
+				xp: 5
+			}]
 			tasks: [{
 				advancement: "dungeons_arise:find_bathhouse"
 				criterion: ""

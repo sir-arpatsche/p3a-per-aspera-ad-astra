@@ -1,254 +1,642 @@
 {
-	autofocus_id: "CDD7DC7812F54DD5"
+	autofocus_id: "0000000000000000"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "chapter_2_classes"
-	group: "1B19458CC984ADD0"
+	group: "2C38B606F3730A3E"
+	icon: {
+		components: {
+			"ftbquests:icon": "pmmo_classes:textures/classes/fighter.png"
+		}
+		id: "ftbquests:custom_icon"
+	}
 	id: "49A9F76A048F00E6"
 	images: [ ]
-	order_index: 1
+	order_index: 2
 	quest_links: [ ]
 	quests: [
-	{
-		id: "CDD7DC7812F54DD5"
-		tasks: [{
-			id: "1AC3C57528F71FD7"
-			title: "Classes Overview"
-			subtitle: "Read me first"
-			type: "checkmark"
-		}]
-		text: [
-			"Every class is its own PMMO skill, levelled 1 to 4 just like Combat or Mining."
-			""
-			"1: Wood/Stone/Gold tier  2: Iron/Diamond tier  3: Netherite tier  4: Top tier (Netherite-Gold/Emerald/Diamond, Cataclysm specials)"
-			""
-			"Only the 6 Full Casters on the right may use spellbooks and spells: Wizard, Sorcerer, Warlock, Cleric, Druid, Bard."
-			""
-			"The 7 classes on the left have no spell access - weapons and armor may still be class-bound, but magic is off limits for them."
-		]
-		x: -5.0d
-		y: -8.0d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "E9A2EFB8B93D9EEB"
-		tasks: [{
+		{
+			id: "10D3C01E6809B666"
+			size: 2.0d
+			tasks: [{
+				id: "1AC3C57528F71FD7"
+				type: "checkmark"
+			}]
+			x: -5.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["58BF46B9D83CE778"]
+			id: "3A54A572235A04C2"
+			tasks: [{
+				icon: {
+					id: "minecraft:iron_sword"
+				}
+				id: "40D6C14E9E353AB3"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C36663CF4ECDF06"]
 			icon: {
-				id: "minecraft:iron_sword"
+				id: "epicfight:iron_greatsword"
 			}
-			id: "87E5D4000E594F60"
-			title: "Fighter"
-			type: "checkmark"
-		}]
-		text: [
-			"Martial. Signature weapon: Sword / Longsword."
-		]
-		x: -9.0d
-		y: -5.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "518BDF3EFB0E67A7"
-		tasks: [{
+			id: "518BDF3EFB0E67A7"
+			tasks: [{
+				icon: {
+					id: "minecraft:netherite_sword"
+				}
+				id: "1B791694AC76754B"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["58BF46B9D83CE778"]
+			id: "7A5B9FF1FAD72F01"
+			tasks: [{
+				icon: {
+					id: "minecraft:iron_axe"
+				}
+				id: "69675D0D4E45025D"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["230A0589A9FC8845"]
 			icon: {
-				id: "minecraft:netherite_sword"
+				id: "epicfight:iron_dagger"
 			}
-			id: "1B791694AC76754B"
-			title: "Paladin"
-			type: "checkmark"
-		}]
-		text: [
-			"Martial. Signature weapon: Greatsword."
-		]
-		x: -9.0d
-		y: -3.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "AD84B0A60DDC54D5"
-		tasks: [{
+			id: "198839FA4A54FFF1"
+			tasks: [{
+				icon: {
+					id: "minecraft:wooden_sword"
+				}
+				id: "669C0F6D05199DD5"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["230A0589A9FC8845"]
+			id: "6D7D6250FC242723"
+			tasks: [{
+				icon: {
+					id: "minecraft:bow"
+				}
+				id: "6BD813703BB37AEC"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["230A0589A9FC8845"]
+			id: "17E47847412DD7DD"
+			tasks: [{
+				icon: {
+					id: "minecraft:crossbow"
+				}
+				id: "34625DB7B6197CF0"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["58BF46B9D83CE778"]
 			icon: {
-				id: "minecraft:iron_axe"
+				id: "epicfight:glove"
 			}
-			id: "69675D0D4E45025D"
-			title: "Barbarian"
-			type: "checkmark"
-		}]
-		text: [
-			"Martial. Signature weapon: Axe."
-		]
-		x: -9.0d
-		y: -1.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "A582D74DD9D7387E"
-		tasks: [{
+			id: "13973EFF004EF2F0"
+			tasks: [{
+				icon: {
+					id: "minecraft:feather"
+				}
+				id: "050EDF80CF27C9A6"
+				type: "checkmark"
+			}]
+			x: -14.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["316C420F82665415"]
 			icon: {
-				id: "minecraft:wooden_sword"
+				id: "magistuarmory:diamond_stylet"
 			}
-			id: "669C0F6D05199DD5"
-			title: "Rogue"
-			type: "checkmark"
-		}]
-		text: [
-			"Martial. Signature weapon: Dagger."
-		]
-		x: -9.0d
-		y: 0.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "6D7D6250FC242723"
-		tasks: [{
+			id: "49D30C653AB9C0D2"
+			tasks: [{
+				icon: {
+					id: "minecraft:ender_pearl"
+				}
+				id: "6352060A57A877D4"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["316C420F82665415"]
 			icon: {
-				id: "minecraft:bow"
+				id: "epicfight:iron_tachi"
 			}
-			id: "6BD813703BB37AEC"
-			title: "Ranger"
-			type: "checkmark"
-		}]
-		text: [
-			"Halfcaster (no spell access). Signature weapon: Bow."
-		]
-		x: -9.0d
-		y: 2.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "96018C5818BEC298"
-		tasks: [{
+			id: "198B1AFF6FAB4002"
+			tasks: [{
+				icon: {
+					id: "minecraft:blaze_rod"
+				}
+				id: "51FAF210415A940C"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["316C420F82665415"]
 			icon: {
-				id: "minecraft:crossbow"
+				id: "epicfight:uchigatana"
 			}
-			id: "34625DB7B6197CF0"
-			title: "Artificer"
-			type: "checkmark"
-		}]
-		text: [
-			"Halfcaster (no spell access). Signature weapon: Crossbow."
-		]
-		x: -9.0d
-		y: 4.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "828D5A0A1CB9768B"
-		tasks: [{
+			id: "3E1045C2C31F45C7"
+			tasks: [{
+				icon: {
+					id: "minecraft:wither_rose"
+				}
+				id: "5A6A6C8BD832410E"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["4C36663CF4ECDF06"]
 			icon: {
-				id: "minecraft:feather"
+				id: "magistuarmory:iron_morgenstern"
 			}
-			id: "050EDF80CF27C9A6"
-			title: "Monk"
-			type: "checkmark"
-		}]
-		text: [
-			"Martial, unarmed. Signature weapon: Glove."
-		]
-		x: -9.0d
-		y: 6.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "E9843891C271AC11"
-		tasks: [{
+			id: "024FFA84AB5DE35D"
+			tasks: [{
+				icon: {
+					id: "minecraft:totem_of_undying"
+				}
+				id: "6812E21545946075"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["4C36663CF4ECDF06"]
 			icon: {
-				id: "minecraft:ender_pearl"
+				id: "epicfight:iron_spear"
 			}
-			id: "6352060A57A877D4"
-			title: "Wizard"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Ender / Ice. Signature weapon: Stylet."
-		]
-		x: -1.0d
-		y: -5.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "BD33F8F43646B459"
-		tasks: [{
+			id: "2CADF504D7789908"
+			tasks: [{
+				icon: {
+					id: "minecraft:oak_sapling"
+				}
+				id: "5D5A70D0D454825E"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["230A0589A9FC8845"]
 			icon: {
-				id: "minecraft:blaze_rod"
+				id: "magistuarmory:iron_shortsword"
 			}
-			id: "A696762069C4D107"
-			title: "Sorcerer"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Fire / Lightning. Signature weapon: Tachi."
-		]
-		x: -1.0d
-		y: -3.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "3E1045C2C31F45C7"
-		tasks: [{
-			icon: {
-				id: "minecraft:wither_rose"
-			}
-			id: "FA3970D845F4F52A"
-			title: "Warlock"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Blood / Eldritch. Signature weapon: Uchigatana."
-		]
-		x: -1.0d
-		y: -1.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "024FFA84AB5DE35D"
-		tasks: [{
-			icon: {
-				id: "minecraft:totem_of_undying"
-			}
-			id: "C106982BBC82054F"
-			title: "Cleric"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Holy. Signature weapon: Morgenstern."
-		]
-		x: -1.0d
-		y: 0.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "B82A7FAA2E10FDEB"
-		tasks: [{
-			icon: {
-				id: "minecraft:oak_sapling"
-			}
-			id: "B0946CB52BED238A"
-			title: "Druid"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Nature. Signature weapon: Spear."
-		]
-		x: -1.0d
-		y: 2.5d
-	}
-	{
-		dependencies: ["CDD7DC7812F54DD5"]
-		id: "12BAB452703604C3"
-		tasks: [{
-			icon: {
-				id: "minecraft:music_disc_13"
-			}
-			id: "CC730B41BB5727F8"
-			title: "Bard"
-			type: "checkmark"
-		}]
-		text: [
-			"Full Caster. School: Evocation. Signature weapon: Shortsword."
-		]
-		x: -1.0d
-		y: 4.5d
-	}
+			id: "12BAB452703604C3"
+			tasks: [{
+				icon: {
+					id: "minecraft:music_disc_13"
+				}
+				id: "6D15DDFC67DD6A22"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			id: "58BF46B9D83CE778"
+			tasks: [{
+				id: "79982428C80242F2"
+				item: { components: { "pmmo_skill_books:skill_grant_data": { application_type: "set", application_value: 1L, color: "red", experience_cost: 20, name: "pmmo_classes.insignia.iron.warrior", rank: "iron", skills: [ "barbarian", "fighter", "monk" ], texture_type: "insignia" } }, count: 1, id: "pmmo_classes:class_grant" }
+				type: "item"
+			}]
+			x: -14.5d
+			y: -2.5d
+		}
+		{
+			id: "4C36663CF4ECDF06"
+			tasks: [{
+				id: "1AB2C820611F8EF7"
+				item: { components: { "pmmo_skill_books:skill_grant_data": { application_type: "set", application_value: 1L, color: "white", experience_cost: 20, name: "pmmo_classes.insignia.iron.priest", rank: "iron", skills: [ "cleric", "druid", "paladin" ], texture_type: "insignia" } }, count: 1, id: "pmmo_classes:class_grant" }
+				type: "item"
+			}]
+			x: -8.5d
+			y: -2.5d
+		}
+		{
+			id: "316C420F82665415"
+			tasks: [{
+				id: "6F0311289A7F29D5"
+				item: { components: { "pmmo_skill_books:skill_grant_data": { application_type: "set", application_value: 1L, color: "purple", experience_cost: 20, name: "pmmo_classes.insignia.iron.mage", rank: "iron", skills: [ "sorcerer", "warlock", "wizard" ], texture_type: "insignia" } }, count: 1, id: "pmmo_classes:class_grant" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			id: "230A0589A9FC8845"
+			tasks: [{
+				id: "0CF009AB82E0BCB2"
+				item: { components: { "pmmo_skill_books:skill_grant_data": { application_type: "set", application_value: 1L, color: "teal", experience_cost: 20, name: "pmmo_classes.insignia.iron.expert", rank: "iron", skills: [ "artificer", "bard", "ranger", "rogue" ], texture_type: "insignia" } }, count: 1, id: "pmmo_classes:class_grant" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["12BAB452703604C3"]
+			id: "4B98398E368CE821"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "light_purple"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.bard"
+							rank: "plain"
+							skills: [
+								"college_of_swords"
+								"college_of_whispers"
+								"college_of_spirits"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "264704BCAA4A6A0E"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["2CADF504D7789908"]
+			id: "1543C4D99B88A748"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "green"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.druid"
+							rank: "plain"
+							skills: [
+								"circle_of_dreams"
+								"circle_of_spores"
+								"circle_of_wildfire"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "3DB4ED4B10E080B7"
+				type: "checkmark"
+			}]
+			x: -8.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["024FFA84AB5DE35D"]
+			id: "6FEB49D2FB85145F"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "white"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.cleric"
+							rank: "plain"
+							skills: [
+								"death_domain"
+								"life_domain"
+								"war_domain"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "2BA7713281AC0405"
+				type: "checkmark"
+			}]
+			x: -7.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["3E1045C2C31F45C7"]
+			id: "4B4A7A2CA94B2A36"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "purple"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.warlock"
+							rank: "plain"
+							skills: [
+								"hexblade"
+								"archfey"
+								"fathomless"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "21BD3F056A2383EC"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["198B1AFF6FAB4002"]
+			id: "02B5884CD7F7CA09"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "pink"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.sorcerer"
+							rank: "plain"
+							skills: [
+								"divine_soul"
+								"shadow_magic"
+								"storm_sorcery"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "7578B50A76D148EC"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["49D30C653AB9C0D2"]
+			id: "7CF30DE8199B0BA0"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "light_blue"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.wizard"
+							rank: "plain"
+							skills: [
+								"evocation"
+								"necromancy"
+								"graviturgy"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "221FB44A1FF89987"
+				type: "checkmark"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["3A54A572235A04C2"]
+			id: "519C864F4CB66375"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "red"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.fighter"
+							rank: "plain"
+							skills: [
+								"champion"
+								"eldritch_knight"
+								"samurai"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "018010CBC5C5C65C"
+				type: "checkmark"
+			}]
+			x: -16.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["518BDF3EFB0E67A7"]
+			id: "166C54165291B142"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "yellow"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.paladin"
+							rank: "plain"
+							skills: [
+								"oathbreaker"
+								"oath_of_vengeance"
+								"oath_of_redemption"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "75D1DE8287908196"
+				type: "checkmark"
+			}]
+			x: -10.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["7A5B9FF1FAD72F01"]
+			id: "11D9E9054A9ABD86"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "orange"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.barbarian"
+							rank: "plain"
+							skills: [
+								"berserker"
+								"storm_herald"
+								"beast"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "69FDF463D6340781"
+				type: "checkmark"
+			}]
+			x: -13.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["198839FA4A54FFF1"]
+			id: "71B418CF44983A0A"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "black"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.rogue"
+							rank: "plain"
+							skills: [
+								"assassin"
+								"scout"
+								"soulknife"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "2653C33F98897BCE"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["6D7D6250FC242723"]
+			id: "17509E5F85809AB8"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "light_green"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.ranger"
+							rank: "plain"
+							skills: [
+								"gloom_stalker"
+								"drake_warden"
+								"beast_master"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "74BD3F713BD83BD3"
+				type: "checkmark"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["17E47847412DD7DD"]
+			id: "211ACEE8C81432A1"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "teal"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.artificer"
+							rank: "plain"
+							skills: [
+								"alchemist"
+								"armorer"
+								"artillerist"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "7BF70F908D92B572"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["13973EFF004EF2F0"]
+			id: "05C0DCB6704FC622"
+			tasks: [{
+				icon: {
+					components: {
+						"pmmo_skill_books:skill_grant_data": {
+							application_type: "set"
+							application_value: 1L
+							color: "blue"
+							experience_cost: 30
+							name: "pmmo_classes.insignia.plain.monk"
+							rank: "plain"
+							skills: [
+								"way_of_the_kensei"
+								"way_of_shadow"
+								"way_of_the_dragon"
+							]
+							texture_type: "insignia"
+						}
+					}
+					id: "pmmo_classes:class_grant"
+				}
+				id: "39F14CE8CEC7BAFA"
+				type: "checkmark"
+			}]
+			x: -14.5d
+			y: 1.5d
+		}
 	]
 }
