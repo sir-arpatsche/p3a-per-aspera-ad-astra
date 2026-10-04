@@ -1,0 +1,49 @@
+{
+  "name": "Lost Lore Page #7: Maledictus",
+  "category": "patchouli:main",
+  "icon": "p3a:lore_page_ancient_remnant",
+  "advancement": "p3a:lore/lore_page_ancient_remnant",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)YEAR 270 AFTER ZOMBIE$()$(br2)Could I really have been gone for two hundred years? How is that even possible? A human being cannot survive for that long. The thought alone makes me feel... cold. Not physically. Something else. I feel strange. Almost as if..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Almost as if the energy from the creatures I defeated has become part of me. I can feel it beneath my skin. It is always there now. Waiting.$(br2)In the pyramid, there was a Skeleton. Not the mindless undead I once fought. Something ancient. A prehistoric beast. A predator unlike anything I have ever encountered."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I had only ever seen creatures like it in the old paintings that once covered the halls of the scholars before the Collapse. I feel - [illegible]$(br2)The people of the settlement told me something today. The village I mentioned in my earlier writings... The village I called home... It was destroyed decades ago."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Raiders burned it to the ground. There were no survivors. No one was left. I know I should feel something. Grief. Anger. Anything. But I cannot.$(br2)I know these people were important to me. I know there was a woman. My wife. I know I loved her. At least, the pages tell me I did."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But when I try to remember her face... there is nothing. Only emptiness. I should be crying. Why am I not crying?$(br2)The settlers gave me a mirror today. I wish they had not. What looked back at me frightened me. The others here all look human. I do not. My skin has begun to darken. Not like a bruise. Not like dirt."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "It is spreading. Slowly. Deliberately.$(br2)And my eyes... They glow. An intense blue. Far too bright. They look almost like - [illegible]$(br2)Why have the settlers not driven me away? Perhaps they are afraid. Perhaps they simply have not realized what I am becoming."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I am not one of them.$(br2)I left the settlement today. I am no longer one of the humans. I have no family. No home. No place to return to. The desert is too warm for me. The heat makes it difficult to breathe. I need somewhere colder. Somewhere where I can - [illegible]"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I found snow. It feels good against my skin. For the first time in years, I feel comfortable. There is something calming about the cold. And there, in the middle of all that white, I found a building. A fortress. It is surrounded by creatures wearing rusted armor. They barely acknowledged me when I passed through the gates. No questions. No suspicion."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Nothing.$(br2)It feels like a prison. A place where the dead come to wait. Perhaps... perhaps I could finally rest here. Perhaps I could disappear. Perhaps I should take the Predator's skull and - [illegible]$(br2)I can hear them again. The whispers. They are getting louder."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I thought they were coming from the creatures. I was wrong. They are coming from me."
+    }
+  ],
+  "sortnum": 60
+}

@@ -21,7 +21,7 @@
 		}
 		{
 			dependencies: ["0062C42F1E582398"]
-			id: "4F231B6D976FAEFC"
+			id: "49A09EFC434E5952"
 			size: 1.0d
 			tasks: [{
 				id: "51A324EBADB5A463"
@@ -45,7 +45,7 @@
 		}
 		{
 			dependencies: ["14AA2479236296D0"]
-			id: "2675F95104D19BE4"
+			id: "1562ACBF008E8F79"
 			size: 1.0d
 			tasks: [{
 				id: "6C94DC8B7B6299EC"
@@ -56,7 +56,7 @@
 			y: 2.0d
 		}
 		{
-			id: "3A42589156446236"
+			id: "6B0B95EF6DEE7829"
 			size: 1.0d
 			tasks: [{
 				id: "29604C221C2B787D"
@@ -67,18 +67,18 @@
 			y: 4.0d
 		}
 		{
-			id: "07AFC8DA35DFAD28"
+			id: "5F5A5AF6616948E6"
 			shape: "gear"
 			size: 1.5d
 			tasks: [{
-				id: "50C0D4C22D68A7BB"
+				id: "452138305F2EF11B"
 				type: "checkmark"
 			}]
 			x: 1.0d
 			y: 6.0d
 		}
 		{
-			id: "693D10A7CB5786D4"
+			id: "329E35B2831A018A"
 			size: 1.0d
 			tasks: [{
 				id: "01A3247E3F4DCB67"
@@ -92,7 +92,7 @@
 			id: "258E4B18E1BB3751"
 			size: 1.0d
 			tasks: [{
-				id: "6828E07A4F89E6B1"
+				id: "1CA9904E78154A3C"
 				item: { count: 1, id: "aeronautics:gyroscopic_propeller_bearing" }
 				type: "item"
 			}]

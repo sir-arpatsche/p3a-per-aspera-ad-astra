@@ -1,8 +1,22 @@
 {
   "xp_values": {
     "CRAFT": {
-      "smithing": 5
+      "smithing": 0
     }
   },
-  "override": true
+  "override": true,
+  "requirements": {
+    "TOOL": {
+      "excavation": 30
+    },
+    "WEAPON": {
+      "mining": 0
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  }
 }

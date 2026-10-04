@@ -1,0 +1,2284 @@
+{
+  "perks": {
+    "SUBMERGED": [
+      {
+        "perk": "pmmo:breath",
+        "skill": "swimming"
+      },
+      {
+        "effect": "minecraft:night_vision",
+        "max_boost": 160,
+        "perk": "pmmo:effect",
+        "min_level": 25,
+        "skill": "swimming"
+      }
+    ],
+    "CROUCH_JUMP": [
+      {
+        "perk": "pmmo:jump_boost",
+        "per_level": 0.0015,
+        "skill": "agility"
+      }
+    ],
+    "BREAK_SPEED": [
+      {
+        "perk": "pmmo:break_speed",
+        "pickaxe_dig": 0.005,
+        "skill": "mining"
+      },
+      {
+        "perk": "pmmo:break_speed",
+        "skill": "excavation",
+        "shovel_dig": 0.005
+      },
+      {
+        "axe_dig": 0.005,
+        "skill": "woodcutting",
+        "perk": "pmmo:break_speed"
+      },
+      {
+        "shears_dig": 0.005,
+        "hoe_dig": 0.005,
+        "sword_dig": 0.005,
+        "perk": "pmmo:break_speed",
+        "skill": "farming"
+      }
+    ],
+    "SKILL_UP": [
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "mining",
+        "per_x_level": 10
+      },
+      {
+        "per_level": 0.05,
+        "max_boost": 10.0,
+        "perk": "pmmo:attribute",
+        "attribute": "minecraft:player.block_interaction_range",
+        "skill": "building"
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "building",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "excavation",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "woodcutting",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "farming",
+        "per_x_level": 10
+      },
+      {
+        "skill": "agility",
+        "per_level": 1.5e-05,
+        "max_boost": 1.0,
+        "perk": "pmmo:attribute",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "agility",
+        "per_x_level": 10
+      },
+      {
+        "per_level": 0.05,
+        "max_boost": 10.0,
+        "perk": "pmmo:attribute",
+        "attribute": "minecraft:generic.max_health",
+        "skill": "endurance"
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "endurance",
+        "per_x_level": 10
+      },
+      {
+        "per_level": 0.005,
+        "max_boost": 1.0,
+        "perk": "pmmo:attribute",
+        "attribute": "minecraft:generic.attack_damage",
+        "skill": "combat"
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "combat",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "gunslinging",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "archery",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "smithing",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "flying",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "swimming",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "sailing",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "fishing",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "crafting",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "magic",
+        "per_x_level": 10
+      },
+      {
+        "per_level": 3.0,
+        "max_boost": 3000.0,
+        "perk": "pmmo:attribute",
+        "attribute": "ars_nouveau:ars_nouveau.perk.max_mana",
+        "skill": "magic"
+      },
+      {
+        "per_level": 0.06,
+        "max_boost": 100.0,
+        "perk": "pmmo:attribute",
+        "attribute": "ars_nouveau:ars_nouveau.perk.mana_regen",
+        "skill": "magic"
+      },
+      {
+        "per_level": 0.0,
+        "max_boost": 0.0,
+        "perk": "pmmo:attribute",
+        "attribute": "ars_nouveau:ars_nouveau.perk.spell_damage",
+        "skill": "magic"
+      },
+      {
+        "per_level": 0.005,
+        "max_boost": 1.0,
+        "perk": "pmmo:attribute",
+        "attribute": "irons_spellbooks:cooldown_reduction",
+        "skill": "magic"
+      },
+      {
+        "per_level": 0.01,
+        "max_boost": 2.0,
+        "perk": "pmmo:attribute",
+        "attribute": "irons_spellbooks:spell_power",
+        "skill": "magic"
+      },
+      {
+        "per_level": 0.02,
+        "max_boost": 3.0,
+        "perk": "pmmo:attribute",
+        "attribute": "irons_spellbooks:mana_regen",
+        "skill": "magic"
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "slayer",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "hunter",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "taming",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "cooking",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:fireworks",
+        "skill": "alchemy",
+        "per_x_level": 10
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fighter",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.2,
+        "max_boost": 0.8
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fighter",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 0.5,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fighter",
+        "attribute": "epicfight:stamina",
+        "per_level": 0.75,
+        "max_boost": 3.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "barbarian",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 8.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "barbarian",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.15,
+        "max_boost": 0.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "barbarian",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "per_level": 0.05,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "monk",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.2,
+        "max_boost": 0.8
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "monk",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.0025,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "monk",
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "per_level": 0.75,
+        "max_boost": 3.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "monk",
+        "attribute": "epicfight:stamina",
+        "per_level": 0.75,
+        "max_boost": 3.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "paladin",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 0.75,
+        "max_boost": 3.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "paladin",
+        "attribute": "minecraft:generic.armor_toughness",
+        "per_level": 0.25,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "paladin",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 1.25,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cleric",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.05,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cleric",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 30.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cleric",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 0.25,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cleric",
+        "attribute": "irons_spellbooks:spell_resist",
+        "per_level": 0.0125,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "druid",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.05,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "druid",
+        "attribute": "irons_spellbooks:summon_damage",
+        "per_level": 0.05,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "druid",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 25.0,
+        "max_boost": 100.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wizard",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 50.0,
+        "max_boost": 200.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wizard",
+        "attribute": "irons_spellbooks:ice_spell_power",
+        "per_level": 0.025,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wizard",
+        "attribute": "irons_spellbooks:ender_spell_power",
+        "per_level": 0.025,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wizard",
+        "attribute": "irons_spellbooks:cooldown_reduction",
+        "per_level": 0.0125,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sorcerer",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.03,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sorcerer",
+        "attribute": "irons_spellbooks:lightning_spell_power",
+        "per_level": 0.03,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sorcerer",
+        "attribute": "irons_spellbooks:cast_time_reduction",
+        "per_level": 0.025,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sorcerer",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 25.0,
+        "max_boost": 100.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlock",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.03,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlock",
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "per_level": 0.03,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlock",
+        "attribute": "irons_spellbooks:mana_regen",
+        "per_level": 0.0375,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlock",
+        "attribute": "irons_spellbooks:spell_resist",
+        "per_level": 0.025,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artificer",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 0.5,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artificer",
+        "attribute": "minecraft:player.block_interaction_range",
+        "per_level": 0.25,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artificer",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 0.25,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artificer",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 0.5,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bard",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.05,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bard",
+        "attribute": "irons_spellbooks:casting_movespeed",
+        "per_level": 0.075,
+        "max_boost": 0.3
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bard",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 25.0,
+        "max_boost": 100.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ranger",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.003,
+        "max_boost": 0.012
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ranger",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.025,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ranger",
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "per_level": 0.5,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ranger",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 0.25,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "rogue",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.1,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "rogue",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.125,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "rogue",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.0025,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "rogue",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.0375,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "alchemist",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "alchemist",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "armorer",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.5,
+        "max_boost": 1.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "armorer",
+        "attribute": "minecraft:generic.armor_toughness",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artillerist",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.3,
+        "max_boost": 0.3
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "artillerist",
+        "attribute": "minecraft:player.block_interaction_range",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "berserker",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "berserker",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.2,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "storm_herald",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "storm_herald",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.006,
+        "max_boost": 0.006
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "beast",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 4.0,
+        "max_boost": 4.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "beast",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.3,
+        "max_boost": 0.3
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_swords",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.3,
+        "max_boost": 0.3
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_swords",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.2,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_whispers",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_whispers",
+        "attribute": "irons_spellbooks:casting_movespeed",
+        "per_level": 0.2,
+        "max_boost": 0.2
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_spirits",
+        "attribute": "irons_spellbooks:summon_damage",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "college_of_spirits",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 60.0,
+        "max_boost": 60.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "death_domain",
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "death_domain",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 60.0,
+        "max_boost": 60.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "life_domain",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 4.0,
+        "max_boost": 4.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "life_domain",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.05,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "war_domain",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "war_domain",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_dreams",
+        "attribute": "irons_spellbooks:mana_regen",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_dreams",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_spores",
+        "attribute": "irons_spellbooks:summon_damage",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_spores",
+        "attribute": "irons_spellbooks:spell_resist",
+        "per_level": 0.05,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_wildfire",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "circle_of_wildfire",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "champion",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "champion",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "eldritch_knight",
+        "attribute": "minecraft:generic.armor_toughness",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "eldritch_knight",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "samurai",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.25,
+        "max_boost": 0.25
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "samurai",
+        "attribute": "epicfight:stamina",
+        "per_level": 2.5,
+        "max_boost": 2.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_the_kensei",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_the_kensei",
+        "attribute": "epicfight:stamina_regen",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_shadow",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_shadow",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.006,
+        "max_boost": 0.006
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_the_dragon",
+        "attribute": "minecraft:generic.knockback_resistance",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "way_of_the_dragon",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oathbreaker",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oathbreaker",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oath_of_vengeance",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oath_of_vengeance",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oath_of_redemption",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 4.0,
+        "max_boost": 4.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "oath_of_redemption",
+        "attribute": "minecraft:generic.armor_toughness",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "gloom_stalker",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "gloom_stalker",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.006,
+        "max_boost": 0.006
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "drake_warden",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 4.0,
+        "max_boost": 4.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "drake_warden",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "beast_master",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 4.0,
+        "max_boost": 4.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "beast_master",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "assassin",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "assassin",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "scout",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.008,
+        "max_boost": 0.008
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "scout",
+        "attribute": "minecraft:generic.safe_fall_distance",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "soulknife",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.25,
+        "max_boost": 0.25
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "soulknife",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "divine_soul",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "divine_soul",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 2.0,
+        "max_boost": 2.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shadow_magic",
+        "attribute": "irons_spellbooks:eldritch_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shadow_magic",
+        "attribute": "minecraft:player.sneaking_speed",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "storm_sorcery",
+        "attribute": "irons_spellbooks:lightning_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "storm_sorcery",
+        "attribute": "irons_spellbooks:casting_movespeed",
+        "per_level": 0.15,
+        "max_boost": 0.15
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexblade",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.3,
+        "max_boost": 0.3
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexblade",
+        "attribute": "irons_spellbooks:spell_resist",
+        "per_level": 0.05,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archfey",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archfey",
+        "attribute": "minecraft:generic.luck",
+        "per_level": 1.0,
+        "max_boost": 1.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fathomless",
+        "attribute": "irons_spellbooks:ice_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fathomless",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 60.0,
+        "max_boost": 60.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "evocation",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "evocation",
+        "attribute": "irons_spellbooks:cast_time_reduction",
+        "per_level": 0.05,
+        "max_boost": 0.05
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "necromancy",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "necromancy",
+        "attribute": "irons_spellbooks:summon_damage",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "graviturgy",
+        "attribute": "irons_spellbooks:ender_spell_power",
+        "per_level": 0.1,
+        "max_boost": 0.1
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "graviturgy",
+        "attribute": "irons_spellbooks:cooldown_reduction",
+        "per_level": 0.04,
+        "max_boost": 0.04
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ragnarok",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ragnarok",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sonomancer",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sonomancer",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "vestige",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "vestige",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildweaver",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildweaver",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "titan",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "titan",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "zenith",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "zenith",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "luminar",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "luminar",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wayforged",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wayforged",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "gloomsmith",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "gloomsmith",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "eidolon",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "eidolon",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexwright",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexwright",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sage",
+        "attribute": "minecraft:player.mining_efficiency",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sage",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warchanter",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warchanter",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "lightborn",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "lightborn",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stormborn",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stormborn",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlord",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warlord",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildsent",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildsent",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "crusader",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "crusader",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bloodforged",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bloodforged",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "reaver",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "reaver",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sanguinar",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "sanguinar",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cursebringer",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "cursebringer",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runebreaker",
+        "attribute": "minecraft:generic.max_health",
+        "per_level": 5.0,
+        "max_boost": 5.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runebreaker",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hymncaller",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hymncaller",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "windsinger",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "windsinger",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bladedancer",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "bladedancer",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wayfarer",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wayfarer",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "lorekeeper",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "lorekeeper",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wanderer",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wanderer",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "nightsong",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "nightsong",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "spellweaver",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "spellweaver",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fatesinger",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "fatesinger",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "spellsinger",
+        "attribute": "irons_spellbooks:evocation_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "spellsinger",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hierophant",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hierophant",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "templar",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "templar",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ascetic",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ascetic",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "paragon",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "paragon",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warden",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warden",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "inquisitor",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "inquisitor",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "mystic",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "mystic",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "occultist",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "occultist",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "divinist",
+        "attribute": "irons_spellbooks:holy_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "divinist",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "primal",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "primal",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shaman",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shaman",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildoath",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "wildoath",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stalker",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stalker",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shade",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shade",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stormcaller",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "stormcaller",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "blightcaster",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "blightcaster",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archdruid",
+        "attribute": "irons_spellbooks:nature_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archdruid",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ironguard",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ironguard",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warborn",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warborn",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "vanguard",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "vanguard",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "duskrender",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "duskrender",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runeharrow",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runeharrow",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "dreadmarked",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "dreadmarked",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warcaller",
+        "attribute": "minecraft:generic.attack_damage",
+        "per_level": 0.5,
+        "max_boost": 0.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "warcaller",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "seraph",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "seraph",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "traveler",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "traveler",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "whisperer",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "whisperer",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "arcanist",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "arcanist",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "voidfist",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "voidfist",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runic",
+        "attribute": "epicfight:stamina",
+        "per_level": 3.5,
+        "max_boost": 3.5
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "runic",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "redeemer",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "redeemer",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ravager",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "ravager",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "emberbane",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "emberbane",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "herald",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "herald",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "auramancer",
+        "attribute": "minecraft:generic.armor",
+        "per_level": 1.6,
+        "max_boost": 1.6
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "auramancer",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "nightstalker",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "nightstalker",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "dreadhunter",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "dreadhunter",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "felweaver",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "felweaver",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexbane",
+        "attribute": "minecraft:generic.movement_speed",
+        "per_level": 0.01,
+        "max_boost": 0.01
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "hexbane",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shadowcaster",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "shadowcaster",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "felstalker",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "felstalker",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "illusionist",
+        "attribute": "minecraft:generic.attack_speed",
+        "per_level": 0.4,
+        "max_boost": 0.4
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "illusionist",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "scion",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "scion",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archmage",
+        "attribute": "irons_spellbooks:fire_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "archmage",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "darksage",
+        "attribute": "irons_spellbooks:blood_spell_power",
+        "per_level": 0.12,
+        "max_boost": 0.12
+      },
+      {
+        "perk": "pmmo:attribute",
+        "skill": "darksage",
+        "attribute": "irons_spellbooks:max_mana",
+        "per_level": 120.0,
+        "max_boost": 120.0
+      }
+    ],
+    "SPRINT_JUMP": [
+      {
+        "perk": "pmmo:jump_boost",
+        "per_level": 0.001,
+        "skill": "agility"
+      }
+    ],
+    "DEAL_DAMAGE": [
+      {
+        "perk": "pmmo:damage_boost",
+        "applies_to": [
+          "minecraft:bow",
+          "minecraft:crossbow",
+          "minecraft:trident"
+        ],
+        "skill": "archery",
+        "per_level": 0.01,
+        "max_boost": 2
+      },
+      {
+        "perk": "pmmo:damage_boost",
+        "applies_to": [
+          "ars_nouveau:spell_bow"
+        ],
+        "skill": "magic",
+        "per_level": 0.01,
+        "max_boost": 2
+      },
+      {
+        "perk": "pmmo:damage_boost",
+        "skill": "magic",
+        "for_damage": [
+          "#pmmo:magic"
+        ],
+        "per_level": 0.01,
+        "max_boost": 2
+      },
+      {
+        "perk": "pmmo:damage_boost",
+        "skill": "gunslinging",
+        "for_damage": [
+          "#pmmo:gun"
+        ]
+      },
+      {
+        "perk": "pmmo:damage_boost",
+        "skill": "ranger",
+        "applies_to": [
+          "minecraft:bow",
+          "minecraft:crossbow"
+        ],
+        "base": 1.0,
+        "per_level": 0.03,
+        "multiplicative": true
+      }
+    ],
+    "JUMP": [
+      {
+        "perk": "pmmo:jump_boost",
+        "per_level": 0.0005,
+        "skill": "agility"
+      }
+    ],
+    "RECEIVE_DAMAGE": [
+      {
+        "per_level": 0.025,
+        "max_boost": 18.0,
+        "for_damage": "minecraft:fall",
+        "perk": "pmmo:damage_reduce",
+        "skill": "agility"
+      },
+      {
+        "per_level": 0.025,
+        "max_boost": 18.0,
+        "for_damage": "minecraft:mob_attack",
+        "perk": "pmmo:damage_reduce",
+        "skill": "endurance"
+      }
+    ],
+    "ENTITY": [
+      {
+        "perk": "pmmo:villager_boost",
+        "skill": "charisma"
+      }
+    ]
+  },
+  "type": "PERKS"
+}

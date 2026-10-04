@@ -1,0 +1,53 @@
+{
+  "name": "Lost Lore Page #3: Ignis",
+  "category": "patchouli:main",
+  "icon": "p3a:lore_page_netherite_monstrosity",
+  "advancement": "p3a:lore/lore_page_netherite_monstrosity",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)YEAR 21 AFTER ZOMBIE$()$(br2)The forge I had been searching for... I found it.$(br2)But there was something protecting it. A monstrosity unlike anything I had ever encountered. Its skin - or perhaps armor would be a better word - was nearly impossible to penetrate."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Every blow I struck against it felt as though I were attacking a mountain. Fortunately, the blacksmith from our village had prepared something for me. A weapon forged from the alloy of the Harbinger. I have never held anything like it before. It is heavier than it looks, yet somehow moves almost effortlessly in my hands."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I do not understand how our blacksmith managed to shape that metal. I am not sure I want to know.$(br2)The heat from the forge still clings to my skin. Even now, hours after leaving it behind, I feel as though I am burning alive. Perhaps the heat has gotten into my head."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Perhaps that is why I keep hearing whispers when there is no one around.$(br2)I need to get home. But the path back... is gone. One of those white, flying creatures attacked me. It hurled a ball of fire directly at me, and the portal collapsed moments later."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I tried to reactivate it. Nothing.$(br2)I tried again. Nothing.$(br2)There is no way back. I am trapped here. In this place. This Hell. There is no sense of time here. I do not know how long I have been trapped.$(br2)Days? Weeks?"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Perhaps longer.$(br2)My supplies are almost gone. There is no water. Not a single drop. I have been forced to survive on the flesh of the mutated pigs that roam this place. They attack me whenever they see me, so at least there is no shortage of food."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I cook their meat over the eternal flames that burn throughout this cursed land. The flames never go out. Nothing here seems to die properly. I think it has been days since I last wrote. Or perhaps weeks. I can no longer tell.$(br2)Today, however, I found something. A structure."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "At first, I believed it to be one of the fortresses where the black skeletons dwell. It is not. There are creatures here that I have never seen before. They fly. They carry something resembling shields. At first glance, they reminded me of Blazes. But these things are different. Stronger. Faster. More dangerous."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I watched one die today. When it fell, it left something behind. Ash. But not ordinary ash. It continued to burn long after the creature itself was dead.$(br2)I took some with me. I do not know why. Perhaps instinct. Perhaps curiosity. Or perhaps I am simply becoming desperate."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I continued exploring the structure and eventually found an arena. At its center stood an altar. Ancient. Massive. And covered in symbols I could not understand.$(br2)Then I placed the ash near it. Something happened. The altar reacted. The stone beneath my feet began to tremble. The flames around the arena changed."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "And for the first time since I became trapped here... I felt something looking back at me. I do not know what this place is. I do not know what these creatures are. But I think I have found what brought them here. And if I am right... this place may hold the key to getting home."
+    }
+  ],
+  "sortnum": 20
+}

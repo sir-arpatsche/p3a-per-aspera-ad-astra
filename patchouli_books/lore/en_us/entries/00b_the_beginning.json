@@ -1,0 +1,45 @@
+{
+  "name": "The Beginning",
+  "category": "patchouli:main",
+  "icon": "p3a:intro_lore_final_page",
+  "advancement": "p3a:lore/intro_lore_final_page",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)YEAR 16 AFTER ZOMBIE$()$(br2)I do not know if anyone will ever read these pages. Perhaps that is why I am writing them down. The world I once knew is gone. Where I once walked along the sea, there is now nothing but an endless abyss. The VOID."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sixteen years have passed since the earth collapsed beneath our feet, and yet there are still mornings when I wake with the quiet hope that somehow, everything will be as it once was. The old cities. People. Machines. Voices. Anything.$(br2)But there is only the wind."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "It sweeps between the shattered islands of the sky, whistling through the ruins and broken structures. Sometimes, when the wind grows strong enough, it sounds almost like the mournful groan of some enormous creature lurking deep within the abyss below. I often wonder if something truly is down there. Something we cannot see."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Something that was never meant to reach our world. The monsters came soon after the Collapse. Creatures we once believed belonged only to the deepest parts of the mountains crawled from the ruins and into the light. We had hoped the dead would remain exactly that.$(br2)Dead."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "We were wrong. They do not speak. They do not hesitate. They simply come. Every night, they wander out of the darkness and attack the last villages that remain. We have started calling them Zombies. I killed one today. It was not difficult. These creatures are slow and seem to possess little intelligence."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But when my sword pierced its chest, something happened. A light burst from the wound. Not fire. Not magic. Something else. For only a moment, it burned beneath its rotting flesh before vanishing into the air. It reminded me of something I once read in the old scriptures. A three-headed creature. A being spoken of in fragments and half-forgotten legends."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I never thought much of those stories before the Collapse. Now... I am beginning to wonder if we should have. Earlier today, I spoke with one of the merchants who occasionally visits our tavern. He told me about a group of people who are attempting to summon that very creature. They believe it may be powerful enough to restore the world to what it once was."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "According to him, all they need is a star. A star created through some ancient and questionable ritual. They believe that this strange star is the key to bringing the creature into our world. I do not know whether I can trust the merchant's words. Perhaps he is simply trying to sell us another impossible dream."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But if there is even the slightest chance that he is telling the truth... then perhaps this is our only chance. Our only chance to see the world as it once was. To see the sea again. To hear the cities. To know what it feels like to live without fear of what waits beyond the darkness. Perhaps... we can bring our world back."
+    }
+  ]
+}

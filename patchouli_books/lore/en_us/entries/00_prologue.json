@@ -1,0 +1,46 @@
+{
+  "name": "Prologue: The Shattering",
+  "category": "patchouli:main",
+  "icon": "minecraft:book",
+  "priority": true,
+  "read_by_default": true,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Once, the world was whole.$(br2)Continents stretched beyond the horizon. Nations rose and fell. Civilizations flourished beneath an endless sky.$(br2)Until one day... the balance was broken."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The earth trembled. The ground split apart. Mountains crumbled, oceans swallowed the land, and the world as we knew it was torn to pieces.$(br2)Where continents once stood, only fragments remain - islands scattered across an endless abyss, suspended between the sky and the void."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Humanity vanished. Those who survived gathered together in the last remnants of civilization, clinging to a single hope: that this shattered world could still be called home.$(br2)But they were not alone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "From the depths beneath the broken earth, creatures emerged. Monsters unlike anything humanity had ever known crawled into the light, claiming the ruins of the old world as their own.$(br2)And one by one... the last remnants of mankind began to disappear."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Yet you are not afraid.$(br2)Where others see ruins, you see opportunity. Where others see dungeons, you see the foundations of something greater. And where others see the end of the world... you see a beginning."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Armed with the forgotten technology of the old age, you set out into the unknown. Airships will carry you across the shattered skies. Water will give you power. Steam will fuel your machines. And the wind will guide you toward lands untouched by mankind."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But this world will not rebuild itself.$(br2)You must explore it. You must tame it. You must defend it. And above all... you must rebuild it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Gather the scattered survivors. Reclaim the forgotten lands. Build settlements among the ruins of the old world. Create something that can endure.$(br2)Because you may be the last one capable of doing what humanity itself could not."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Not merely surviving this broken world... but colonizing it.$(br2)A new age is waiting to be born. And its future... is in your hands."
+    }
+  ],
+  "sortnum": 0
+}

@@ -1,0 +1,65 @@
+{
+  "name": "Lost Lore Page #4: The Leviathan",
+  "category": "patchouli:main",
+  "icon": "p3a:lore_page_ignis",
+  "advancement": "p3a:lore/lore_page_ignis",
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)YEAR 45 AFTER ZOMBIE$()$(br2)How many times have I fought this creature... and been forced to retreat? How many times have I suffered burns, only to crawl back into some forgotten chamber and treat my wounds with whatever I could find? How many times have I considered giving up?"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "There were moments when I thought about simply throwing myself into the lava and ending the suffering once and for all. But then I thought of my wife. She is waiting for me. I know she is. That thought kept me alive."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "After countless battles, countless defeats, and countless attempts, I finally defeated the creature. It is dead. And once again, it left something behind. Another metal unlike anything found in the Overworld. I do not understand these materials. I do not understand where they come from. But I am beginning to believe they are connected somehow."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Among the chests scattered throughout the arena, I found something else. A flint and steel. With it, I was finally able to reactivate the portal. I was going home.$(br2)At least... that was what I thought.$(br2)Home was not what I remembered."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "More time had passed than I realized. The boys of my village had become men. The girls had children of their own. And my wife...$(br2)My wife, once considered the beauty of the village, had grown old.$(br2)She is still beautiful. Beautiful in a way that only time can create."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But the years have left their marks upon her face. I must have been gone for decades. Yet to me, it never felt that long. I have barely aged.$(br2)The village healer was so shocked by my appearance that he first suspected I was one of the shapeshifters rumored to wander beyond the walls."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The guards kept me outside the village until they could be certain that I was truly myself. I cannot blame them. If I had seen myself standing there after all these years... I might have been afraid too.$(br2)Now I am sitting on our bed."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "My wife is sleeping beside me, curled beneath the blankets with them pulled tightly beneath her chin.$(br2)I cannot sleep. Her breathing is rough. Uneven. A constant reminder of everything I missed. Every year. Every birthday. Every winter. Every moment I should have been here."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I hold the metal I recovered from the creature in my hand. It is warm. Still warm. As though it were somehow being fed by the flames of Hell itself. I do not know what these metals are. But I know they are not ordinary. Something is happening to them. Something I do not yet understand."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Several months have passed since my return. I have ventured beyond the village again and again, trying to understand how much this world has changed while I was gone. One day, my feet carried me toward the dried-up remains of what was once an ocean. I do not know why I went there. It felt as though something was guiding me."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "After several days of searching, I found something.$(br2)A fragment. Some kind of offering, perhaps. I cannot explain what it is, but it reacts to the metal I recovered from the creature. The closer I bring them together, the stronger the reaction becomes. They pulse. Not randomly. Almost like a heartbeat."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I brought the fragment to one of the village mages. He could not explain it either. But he knew what to do with it.$(br2)And now I am standing before an enormous basin of water. An ancient ritual altar waits before me. The water is perfectly still. The metal is warm in my hand. The fragment is pulsing. Waiting."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The mage told me that if the legends are true, this ritual may bring us one step closer to restoring our world. One step closer to undoing the Collapse.$(br2)I have spent decades searching. I have lost years of my life. I have watched the people I love grow old while I remained unchanged. I cannot turn back now."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "If these strange relics truly hold the power to restore what was lost... then I will use them.$(br2)Whatever the cost. The altar is waiting. And so am I."
+    }
+  ],
+  "sortnum": 30
+}

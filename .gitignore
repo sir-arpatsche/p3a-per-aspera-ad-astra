@@ -8,6 +8,7 @@
 !kubejs/
 !config/
 !datapacks/
+!patchouli_books/
 !defaultconfigs/
 !manifest.json
 !minecraftinstance.json

@@ -13,8 +13,9 @@ ServerEvents.recipes(event => {
   event.recipes.summoningrituals
     .altar('p3a:intro_lore_final_page')
     .itemInputs([
-      'minecraft:wither_skeleton_skull',
-      'minecraft:soul_sand'
+      '3x minecraft:wither_skeleton_skull',
+      '4x minecraft:soul_sand',
+      'minecraft:ghast_tear'
     ])
     .itemOutputs(['minecraft:nether_star'])
     .id('p3a:ritual_nether_star')
@@ -22,7 +23,9 @@ ServerEvents.recipes(event => {
   event.recipes.summoningrituals
     .altar('p3a:lore_page_ancient_remnant')
     .itemInputs([
-      'cataclysm:remnant_skull'
+      'cataclysm:remnant_skull',
+      '2x minecraft:ender_eye',
+      '2x minecraft:gold_block'
     ])
     .itemOutputs(['p3a:cursed_effigy'])
     .id('p3a:ritual_cursed_effigy')
@@ -30,7 +33,9 @@ ServerEvents.recipes(event => {
   event.recipes.summoningrituals
     .altar('p3a:lore_page_maledictus')
     .itemInputs([
-      '3x cataclysm:cursium_ingot'
+      '3x cataclysm:cursium_ingot',
+      '3x cataclysm:ignitium_ingot',
+      '3x minecraft:netherite_ingot'
     ])
     .itemOutputs(['p3a:storm_bound_talisman'])
     .id('p3a:ritual_storm_bound_talisman')
@@ -38,7 +43,9 @@ ServerEvents.recipes(event => {
   event.recipes.summoningrituals
     .altar('p3a:lore_page_ender_guardian')
     .itemInputs([
-      'cataclysm:gauntlet_of_guard'
+      'cataclysm:abyssal_egg',
+      '8x minecraft:ender_pearl',
+      '16x minecraft:obsidian'
     ])
     .itemOutputs(['cataclysm:necklace_of_the_desert'])
     .id('p3a:ritual_necklace_of_the_desert')
@@ -76,5 +83,6 @@ SummoningRituals.complete(event => {
 
   if (recipeId === 'p3a:ritual_storm_bound_talisman') {
     global.ensureScyllaArena(player.server, player)
+    player.server.runCommandSilent(`advancement grant ${player.username} only p3a:story/acropolis_risen`)
   }
 })
