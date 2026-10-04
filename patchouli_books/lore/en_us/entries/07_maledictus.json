@@ -1,12 +1,44 @@
 {
-  "name": "Chapter VII: Maledictus",
+  "name": "Lost Lore Page #8: Scylla",
   "category": "patchouli:main",
   "icon": "p3a:lore_page_maledictus",
   "advancement": "p3a:lore/lore_page_maledictus",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_maledictus in their inventory."
+      "text": "$(l)YEAR 315 AFTER ZOMBIE$()$(br2)At first, I believed the Frosted Prison might be a place where I could settle. A place where I could finally disappear. I was wrong.$(br2)Deep within its lowest dungeon, I found a creature with a heart of ice."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "It had been imprisoned inside a cage of steel. I freed it. I thought perhaps it would understand me. Perhaps it would be like me. A creature that did not belong anywhere.$(br2)The moment I released it, it attacked me. I barely escaped. It drove me away as though I were nothing more than another monster."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Perhaps that is all I am now. I belong nowhere. Humans look at me as though I am a monster. Monsters look at me as though I am prey.$(br2)How long have I been wandering? How long have I searched for a place where I could finally find peace? I no longer know. I am not human anymore. I can feel it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "My limbs have become heavy. The ground seems so far beneath me now. Farther than I remember it ever being. When I look down at my hands, they no longer feel like mine. Sometimes I wonder if there is anything left of the man who once held his wife's hand. The man who dreamed of restoring the world."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "The man who believed he could bring humanity back from the brink. I cannot remember his face anymore. Only the handwriting remains. Only these pages remind me that he ever existed.$(br2)Today, while hiding beneath a pile of rags in a tavern, I overheard something. A fortress."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "A place that can supposedly be summoned from another world. A place untouched by the laws of this one. A fortress that could be brought here. A fortress that might finally give me what I have been searching for all these years. A home.$(br2)I left before anyone could see what was beneath the rags."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I traveled far from the nearest village. Far from people. Far from everything.$(br2)If I summon this fortress... If I bring a piece of another world into mine... will it finally accept me? Will I finally have somewhere I belong?$(br2)I do not need much. Only a talisman."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Something bound to the storm that seems to rage inside me.$(br2)And a place where no one can find me. No humans. No monsters. No one. Perhaps, if I build a place far enough from this broken world...$(br2)I can finally be alone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Perhaps I can finally rest. Perhaps... I can finally stop running."
     }
   ],
   "sortnum": 70

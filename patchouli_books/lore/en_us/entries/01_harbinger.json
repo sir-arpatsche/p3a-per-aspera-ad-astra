@@ -1,44 +1,40 @@
 {
-  "name": "Chapter I: The Harbinger",
+  "name": "Lost Lore Page #2: The Harbinger",
   "category": "patchouli:main",
   "icon": "p3a:lore_page_harbinger",
   "advancement": "p3a:lore/lore_page_harbinger",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "$(l)YEAR 20 AFTER ZOMBIE$()$(br2)I barely made it out alive. The creature I believed would bring salvation to our world... it was not what I had hoped for."
+      "text": "$(l)YEAR 20 AFTER ZOMBIE$()$(br2)I barely made it out alive. The creature I believed would bring salvation to our world... It was not what I had hoped for. HARBINGER. That was the name those madmen gave it. And it was nothing like the creature described in the ancient scriptures. This monster was... mechanical. Metal. Gears."
     },
     {
       "type": "patchouli:text",
-      "text": "HARBINGER. That was the name those madmen gave it. And it was nothing like the creature described in the ancient scriptures.$(br2)This monster was... mechanical. Metal. Gears. Machinery. As if the Wither itself had been turned into some kind of experiment by the occultists who summoned it - its true existence buried beneath a twisted imitation of what it was supposed to be."
+      "text": "Machinery. As if the Wither itself had been turned into some kind of experiment by the occultists who summoned it - its true existence buried beneath a twisted imitation of what it was supposed to be.$(br2)I do not know what they have done. I do not know what they were trying to create."
     },
     {
       "type": "patchouli:text",
-      "text": "I do not know what they have done. I do not know what they were trying to create. But the Harbinger was not our salvation. It was something else. Something far worse.$(br2)I can feel it. This was not the beginning of our recovery. It was the beginning of the end."
+      "text": "But the Harbinger was not our salvation. It was something else. Something far worse. I can feel it. This was not the beginning of our recovery. It was the beginning of the end.$(br2)I returned to the village covered in blood, barely able to remain on my feet."
     },
     {
       "type": "patchouli:text",
-      "text": "I returned to the village covered in blood, barely able to remain on my feet. My wounds are deep, and even now every breath sends another wave of pain through my body.$(br2)My wife has been tending to me since I returned. She keeps telling me that I need to rest. That I survived. That is enough."
+      "text": "My wounds are deep, and even now every breath sends another wave of pain through my body. My wife has been tending to me since I returned. She keeps telling me that I need to rest. That I survived. That is enough.$(br2)But I cannot stop looking at what I brought back with me. A fragment of the Harbinger."
     },
     {
       "type": "patchouli:text",
-      "text": "But I cannot stop looking at what I brought back with me. A fragment of the Harbinger. The metal from which that creature was made.$(br2)It should not exist."
+      "text": "The metal from which that creature was made. It should not exist.$(br2)I have seen iron. I have seen steel. I have worked with both. This is neither. There is something about it that feels... wrong. It did not come from the Overworld. I can smell it even now."
     },
     {
       "type": "patchouli:text",
-      "text": "I have seen iron. I have seen steel. I have worked with both. This is neither. There is something about it that feels... wrong. It did not come from the Overworld."
+      "text": "A faint trace of sulfur clings to the metal, mixed with something almost sweet. Something metallic. Gold. But not ordinary gold. Something purer. Something ancient. I keep asking myself the same question. How did those madmen obtain a metal this rare? What kind of forge could have produced something like this?"
     },
     {
       "type": "patchouli:text",
-      "text": "I can smell it even now. A faint trace of sulfur clings to the metal, mixed with something almost sweet. Something metallic. Gold. But not ordinary gold. Something purer. Something ancient."
+      "text": "Whatever created it... was beyond anything our people have ever built. Beyond our knowledge. Beyond our understanding.$(br2)I thought the Collapse was the greatest mystery our world had ever known. Now I am beginning to understand something far more frightening. Perhaps the Collapse was never the end of something."
     },
     {
       "type": "patchouli:text",
-      "text": "I keep asking myself the same question. How did those madmen obtain a metal this rare? What kind of forge could have produced something like this?$(br2)Whatever created it... was beyond anything our people have ever built. Beyond our knowledge. Beyond our understanding."
-    },
-    {
-      "type": "patchouli:text",
-      "text": "I thought the Collapse was the greatest mystery our world had ever known. Now I am beginning to understand something far more frightening.$(br2)Perhaps the Collapse was never the end of something.$(br2)Perhaps... it was the beginning of something."
+      "text": "Perhaps... it was the beginning of something."
     }
   ],
   "sortnum": 10

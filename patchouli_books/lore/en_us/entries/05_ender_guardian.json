@@ -1,12 +1,64 @@
 {
-  "name": "Chapter V: The Ender Guardian",
+  "name": "Lost Lore Page #6: Ancient Remnant",
   "category": "patchouli:main",
   "icon": "p3a:lore_page_ender_guardian",
   "advancement": "p3a:lore/lore_page_ender_guardian",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_ender_guardian in their inventory."
+      "text": "$(l)YEAR ??? AFTER ZOMBIE$()$(br2)I found this book inside the pouch hanging from my belt. The handwriting on these pages... It appears to be mine. The curve of the C. The small hook in the R. Even the way certain words are crossed out.$(br2)It is my handwriting. And yet..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I do not remember writing any of this.$(br2)There is a picture among the first pages. A young woman. Beautiful. She has a kind smile. According to the journal, she is my wife.$(br2)But I do not remember her."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I do not remember her voice. I do not remember her touch. I do not remember loving her. Nothing.$(br2)I have been here in this dimension for as long as I can remember. If these memories can even be trusted.$(br2)The landscape is strange."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Knotted purple trees stretch toward a sky I cannot properly describe. The ground is covered in pale, white-yellow stone, unlike anything I have ever seen.$(br2)There are tall figures wandering over the floating islands. They seem peaceful. Almost gentle. As long as I do not look at them. I learned that lesson quickly."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "There was something else here. A monster. A colossus of stone. The moment I approached it, it attacked. I barely survived.$(br2)Its shape... I have seen it before. I know I have. Somewhere. The shape of its body reminded me of something I once knew.$(br2)A Guardian?"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "That is the only word that came to mind. But how could that be possible? I have never been here before. At least... I do not think I have.$(br2)Today, I found a way out. A portal hidden between enormous pillars of hard, black-violet stone. I stepped through it without knowing where it would lead."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I emerged in a desert. The sun. I had forgotten what it felt like. Its heat burns against my skin. It dries my mouth within minutes. Sand clings to everything. My clothes. My hair. My skin.$(br2)I found a cave nearby. It is cool enough to survive the night."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "For the first time since I can remember, I am somewhere that does not feel completely alien. And yet I cannot stop thinking about one question.$(br2)Why can I remember nothing before that dreary dimension? Did I truly have a wife? Did I truly live in a village? Did I really fight all those creatures?"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Or were these entries nothing more than the fantasies of a lonely man? Stories I wrote to convince myself that I once belonged somewhere?$(br2)I do not know.$(br2)This morning, a sandstorm arrived without warning. It nearly buried me alive."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I barely managed to reach a settlement before the storm swallowed the landscape.$(br2)The people here seem friendly. They gave me shelter. Food. Water.$(br2)It is the first human contact I have had in... I do not know how long. I cannot even guess."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Tonight, beneath the light of the lantern beside my bed, I examined something I found inside the cave. A golden chain. Old. Ancient. Almost as if it had not been made in this world at all.$(br2)It was lying among a pile of bones. Bones far too large to belong to any creature I have ever seen."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I asked one of the villagers about it. They refused to touch it. They called it... cursed.$(br2)There is a pyramid visible on the horizon. Ancient. Half-buried beneath the sand.$(br2)The villagers refuse to go near it. They say the pyramid has been cursed for generations."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I cannot explain why... but I feel drawn to it.$(br2)Perhaps the chain belongs there. Perhaps whatever happened to me began there. Or perhaps... I have simply found another story to lose myself in.$(br2)Tomorrow, I will go to the pyramid. If these pages truly belong to me..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "perhaps the desert will remind me who I am."
     }
   ],
   "sortnum": 50

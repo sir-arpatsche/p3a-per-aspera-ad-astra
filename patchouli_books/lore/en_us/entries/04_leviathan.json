@@ -1,12 +1,52 @@
 {
-  "name": "Chapter IV: The Leviathan",
+  "name": "Lost Lore Page #5: Ender Guardian",
   "category": "patchouli:main",
   "icon": "p3a:lore_page_leviathan",
   "advancement": "p3a:lore/lore_page_leviathan",
   "pages": [
     {
       "type": "patchouli:text",
-      "text": "TODO: write this chapter's lore text here. This page unlocks once the player has obtained p3a:lore_page_leviathan in their inventory."
+      "text": "$(l)YEAR 46 AFTER ZOMBIE$()$(br2)This creature beneath the water - I have decided to call it LEVIATHAN. It was far stronger than I expected. Perhaps that was because it escaped the basin several times. I soon discovered that, for reasons I still do not understand, the creature cannot be harmed while it is on land."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Looking back, I wonder if the Leviathan was once the true king of the deep. Perhaps even the Guardians feared it. And yet, what I recovered from the creature is far more interesting than the creature itself. An egg. Its shell is a strange, translucent purple, and when I hold it against the light, I can make out something inside. An embryo."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Something is growing within it.$(br2)When I returned to the village, soaked from head to toe and barely able to catch my breath, I showed the egg to my wife. She did not know what to think at first. Neither did I. But then she touched it. Her hands trembled as she ran her fingers over the shell."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Hands that were once smooth and unmarked. Hands that now carry wrinkles and age spots. She caressed the egg with a tenderness I had only ever seen her show toward the children we never had. Children we never had because I was trapped in Hell. Because I was not there.$(br2)All those years... gone."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "She never said it was my fault. Perhaps that is what hurts the most.$(br2)We have kept the egg submerged in a large water trough for weeks now. We do not know if it will hatch. We do not even know what will come out. But today... there was a crack. A thin line across the purple shell."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "My wife nearly cried when she saw it. I did not know why. Perhaps because, for the first time in years, something new was growing in our home. Something that might become part of our family. I do not know why we want it to hatch. Perhaps I simply want to believe that something good can still come from all of this."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I have a feeling that, once we tame this little creature, it will protect my wife and the village while I am gone. Because something is already pulling me away again. Something I cannot explain. Something I have felt ever since I defeated the Leviathan.$(br2)Twelve eyes. They follow me in my dreams."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Twelve green eyes arranged in a perfect ring. Watching. Always watching. There is something behind them. Something empty. An emptiness that reminds me of the Void beneath our feet. Endless. Silent. And filled with a darkness so complete that I cannot imagine what could possibly exist within it."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "I wake from these dreams covered in sweat, my heart pounding against my chest.$(br2)And yet... I do not feel afraid. I feel called.$(br2)My wife has asked me several times what is wrong. I have told her it is nothing. I lied. Would she survive another goodbye?"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Could she bear watching me leave again without knowing when - or if - I will return? How much time will pass if I enter another dimension?$(br2)Days? Months? Years?$(br2)I should stay. I know I should. For her. For the village. For the life we still have left."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "But something is calling to me. Something ancient. Something that has been waiting far longer than I have been alive.$(br2)And tonight, for the first time... I think I heard it whisper my name."
     }
   ],
   "sortnum": 40
