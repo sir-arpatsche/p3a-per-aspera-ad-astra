@@ -1,7 +1,7 @@
 {
   "requirements": {
     "TOOL": {
-      "farming": 5
+      "farming": 20
     },
     "WEAPON": {
       "mining": 0
@@ -15,7 +15,7 @@
   },
   "xp_values": {
     "CRAFT": {
-      "smithing": 3
+      "smithing": 0
     }
   },
   "override": true

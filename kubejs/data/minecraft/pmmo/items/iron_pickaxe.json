@@ -1,7 +1,7 @@
 {
   "requirements": {
     "TOOL": {
-      "mining": 5
+      "mining": 20
     },
     "WEAPON": {
       "mining": 0
@@ -15,7 +15,7 @@
   },
   "xp_values": {
     "CRAFT": {
-      "smithing": 3
+      "smithing": 0
     }
   },
   "vein_data": {

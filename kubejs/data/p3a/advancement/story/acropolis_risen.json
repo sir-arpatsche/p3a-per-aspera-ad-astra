@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "risen": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "requirements": [
+    ["risen"]
+  ]
+}

@@ -1,0 +1,1622 @@
+{
+  "skills": {
+    "crafting": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/crafting.png",
+      "iconSize": 32,
+      "useTotalLevels": false,
+      "color": 16750848,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "swimming": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/mob_effect/dolphins_grace.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 3368703,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "archery": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/bow.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16776960,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "smithing": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/smithing.png",
+      "iconSize": 32,
+      "useTotalLevels": false,
+      "color": 15790320,
+      "noAfkPenalty": true,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "taming": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/lead.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "alchemy": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/potion.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 15112448,
+      "noAfkPenalty": true,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "mining": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/mob_effect/haste.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 65535,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "magic": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/particle/enchanted_hit.png",
+      "iconSize": 8,
+      "useTotalLevels": false,
+      "color": 255,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "flying": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/elytra.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 13421823,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "fishing": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/fishing_rod.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 52479,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "hunter": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/diamond_sword.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 13596693,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "agility": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/mob_effect/speed.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 6736998,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "woodcutting": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/iron_axe.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16753434,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "endurance": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/mob_effect/absorption.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 13369344,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "sailing": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/oak_boat.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 10073087,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "combat": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/mob_effect/strength.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16724736,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "excavation": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/iron_shovel.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 15112448,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "charisma": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/emerald.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "building": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/building.png",
+      "iconSize": 32,
+      "useTotalLevels": false,
+      "color": 65535,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "slayer": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/netherite_sword.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "gunslinging": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 13877667,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "engineering": {
+      "maxLevel": 100,
+      "icon": "minecraft:textures/item/redstone.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "cooking": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/cooked_mutton.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 15112448,
+      "noAfkPenalty": true,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "farming": {
+      "maxLevel": 2147483647,
+      "icon": "minecraft:textures/item/wheat.png",
+      "iconSize": 16,
+      "useTotalLevels": false,
+      "color": 58880,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": true
+    },
+    "fightgroup": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "groupFor": {
+        "endurance": 0.3,
+        "combat": 0.5,
+        "archery": 0.2
+      },
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "fighter": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/fighter.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "barbarian": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/barbarian.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "monk": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/monk.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "paladin": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/paladin.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "cleric": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/cleric.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "druid": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/druid.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wizard": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/wizard.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "sorcerer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/sorceror.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warlock": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/warlock.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "artificer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/artificer.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "bard": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/bard.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "ranger": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/ranger.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "rogue": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo_classes:textures/classes/rogue.png",
+      "iconSize": 21,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "alchemist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "armorer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "artillerist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "berserker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "storm_herald": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "beast": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "college_of_swords": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "college_of_whispers": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "college_of_spirits": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "death_domain": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "life_domain": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "war_domain": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "circle_of_dreams": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "circle_of_spores": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "circle_of_wildfire": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "champion": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "eldritch_knight": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "samurai": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "way_of_the_kensei": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "way_of_shadow": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "way_of_the_dragon": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "oathbreaker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "oath_of_vengeance": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "oath_of_redemption": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "gloom_stalker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "drake_warden": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "beast_master": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "assassin": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "scout": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "soulknife": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "divine_soul": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "shadow_magic": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "storm_sorcery": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "hexblade": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "archfey": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "fathomless": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "evocation": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "necromancy": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "graviturgy": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "ragnarok": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "sonomancer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "vestige": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wildweaver": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "titan": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "zenith": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "luminar": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wayforged": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "gloomsmith": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "eidolon": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "hexwright": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "sage": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warchanter": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "lightborn": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "stormborn": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warlord": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wildsent": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "crusader": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "bloodforged": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "reaver": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "sanguinar": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "cursebringer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "runebreaker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "hymncaller": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "windsinger": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "bladedancer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wayfarer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "lorekeeper": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wanderer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "nightsong": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "spellweaver": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "fatesinger": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "spellsinger": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "hierophant": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "templar": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "ascetic": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "paragon": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warden": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "inquisitor": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "mystic": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "occultist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "divinist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "primal": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "shaman": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "wildoath": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "stalker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "shade": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "stormcaller": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "blightcaster": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "archdruid": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "ironguard": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warborn": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "vanguard": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "duskrender": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "runeharrow": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "dreadmarked": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "warcaller": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "seraph": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "traveler": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "whisperer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "arcanist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "voidfist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "runic": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "redeemer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "ravager": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "emberbane": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "herald": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "auramancer": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "nightstalker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "dreadhunter": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "felweaver": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "hexbane": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "shadowcaster": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "felstalker": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "illusionist": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "scion": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "archmage": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    },
+    "darksage": {
+      "maxLevel": 2147483647,
+      "icon": "pmmo:textures/skills/missing_icon.png",
+      "iconSize": 18,
+      "useTotalLevels": false,
+      "color": 16777215,
+      "noAfkPenalty": false,
+      "displayGroupName": false,
+      "showInList": false
+    }
+  },
+  "types": {
+    "harvesting": {
+      "order": 2,
+      "skills": [
+        "mining",
+        "woodcutting",
+        "excavation",
+        "farming",
+        "fishing"
+      ],
+      "color": 13408563
+    },
+    "artisanry": {
+      "order": 3,
+      "skills": [
+        "smithing",
+        "crafting",
+        "building",
+        "engineering",
+        "cooking",
+        "alchemy"
+      ],
+      "color": 13395507
+    },
+    "athletics": {
+      "order": 1,
+      "skills": [
+        "endurance",
+        "agility",
+        "swimming",
+        "flying",
+        "sailing"
+      ],
+      "color": 6736998
+    },
+    "warfare": {
+      "order": 0,
+      "skills": [
+        "combat",
+        "slayer",
+        "hunter",
+        "archery",
+        "gunslinging"
+      ],
+      "color": 13382451
+    },
+    "social": {
+      "order": 5,
+      "skills": [
+        "charisma",
+        "taming"
+      ],
+      "color": 16766720
+    },
+    "arcana": {
+      "order": 4,
+      "skills": [
+        "magic"
+      ],
+      "color": 10040268
+    }
+  },
+  "type": "SKILLS"
+}

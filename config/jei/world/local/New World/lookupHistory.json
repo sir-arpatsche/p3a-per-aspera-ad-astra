@@ -1,5 +1,7 @@
 [
   {"version":1},
+  {"ingredient":{"id":"irons_spellbooks:scroll","components":"{\"irons_spellbooks:spell_container\":{data:[{id:\"irons_spellbooks:blessing_of_life\",index:0,level:2,locked:1b}],maxSpells:1,mustEquip:0b,spellWheel:0b}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"irons_spellbooks:arcane_essence"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"mowziesmobs:earthrend_gauntlet"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:nether_star"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"p3a:storm_bound_talisman"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -97,7 +99,5 @@
   {"ingredient":{"id":"functionalstorage:redstone_upgrade","components":"{\"functionalstorage:slot\":0}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"createmetallurgy:dirty_iron_dust"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"create:crushed_raw_iron"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:molten_iron"},"type":"fluid_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:slag_block"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:slag"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"createmetallurgy:molten_iron"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
 ]

@@ -1,12 +1,26 @@
 {
   "xp_values": {
     "CRAFT": {
-      "smithing": 3
+      "smithing": 0
     }
   },
   "vein_data": {
     "chargeCap": 25,
     "chargeRate": 0.75
   },
-  "override": true
+  "override": true,
+  "requirements": {
+    "TOOL": {
+      "mining": 10
+    },
+    "WEAPON": {
+      "mining": 0
+    },
+    "WEAR": {
+      "mining": 0
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  }
 }

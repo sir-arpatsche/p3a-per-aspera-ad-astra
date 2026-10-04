@@ -1,21 +1,35 @@
+const P3A_PRESET_HERO = 'forgotten_hero'
+const P3A_PRESET_SCYLLA = 'forgotten_hero_scylla'
+
+const P3A_PRESET_BY_TRIGGER = {
+  'minecolonies:minecolonies/place_townhall': P3A_PRESET_HERO,
+  'p3a:lore/lore_page_ignis': P3A_PRESET_HERO,
+  'p3a:lore/lore_page_ender_guardian': P3A_PRESET_HERO,
+  'p3a:story/acropolis_risen': P3A_PRESET_SCYLLA,
+  'p3a:story/scylla_defeated': P3A_PRESET_HERO
+}
+
 PlayerEvents.advancement(event => {
-  if (event.advancement !== 'minecolonies:minecolonies/place_townhall') return
+  var raw = String(event.advancement)
+  var match = raw.match(/id=([a-z0-9_.\-]+:[a-z0-9_.\-\/]+)/)
+  var advId = match ? match[1] : raw
 
-  const player = event.player
-  const server = player.server
+  var preset = P3A_PRESET_BY_TRIGGER[advId]
+  if (!preset) return
 
-  const yaw = typeof player.yaw === 'number' ? player.yaw : player.getYRot()
-  const angle = yaw * (Math.PI / 180)
-  const offsetX = -Math.sin(angle) * 2
-  const offsetZ = Math.cos(angle) * 2
+  console.log('[P3A] NPC trigger: ' + advId + ' -> preset ' + preset)
 
-  const x = Math.floor(player.x + offsetX)
-  const y = Math.floor(player.y) + 1
-  const z = Math.floor(player.z + offsetZ)
+  var player = event.player
+  var server = player.server
 
-  server.runCommandSilent(
-    `easy_npc spawn 79ff0935-313e-4355-9e74-2230d19891cf ${x} ${y} ${z}`
-  )
+  var yaw = typeof player.yaw === 'number' ? player.yaw : player.getYRot()
+  var angle = yaw * (Math.PI / 180)
+
+  var x = Math.floor(player.x - Math.sin(angle) * 2)
+  var y = Math.floor(player.y) + 1
+  var z = Math.floor(player.z + Math.cos(angle) * 2)
+
+  server.runCommandSilent(`easy_npc preset import_new custom ${preset} ${x} ${y} ${z}`)
   server.runCommandSilent(`playsound minecraft:entity.enderman.teleport master ${player.username} ${x} ${y} ${z}`)
-  server.runCommandSilent(`particle minecraft:poof ${x} ${y + 1} ${z} 0.3 0.5 0.3 0.02 20`)
+  server.runCommandSilent(`particle minecraft:poof ${x} ${y} ${z} 0.3 0.5 0.3 0.02 20`)
 })

@@ -76,5 +76,6 @@ SummoningRituals.complete(event => {
 
   if (recipeId === 'p3a:ritual_storm_bound_talisman') {
     global.ensureScyllaArena(player.server, player)
+    player.server.runCommandSilent(`advancement grant ${player.username} only p3a:story/acropolis_risen`)
   }
 })
