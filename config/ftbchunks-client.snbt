@@ -138,65 +138,65 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:skeleton": true
-			"minecraft:witch": true
-			"alexsmobs:centipede_head": true
-			"alexsmobs:fly": true
-			"alexsmobs:raccoon": true
-			"alexsmobs:bison": true
-			"irons_spellbooks:archevoker": true
-			"minecraft:goat": true
-			"irons_spellbooks:necromancer": true
-			"minecraft:horse": true
-			"alexsmobs:kangaroo": true
-			"minecraft:zombie_villager": true
-			"zombie_variants:savanna_zombie": true
-			"alexsmobs:cockroach": true
-			"minecraft:armadillo": true
-			"minecraft:zombie": true
-			"minecraft:villager": true
-			"alexsmobs:terrapin": true
-			"minecraft:phantom": true
-			"minecraft:bat": true
-			"irons_spellbooks:pyromancer": true
-			"alexsmobs:gazelle": true
-			"alexsmobs:crow": true
-			"minecraft:pig": true
-			"zombie_variants:cave_zombie": true
 			"quark:toretoise": true
-			"minecraft:iron_golem": true
-			"quark:forgotten": true
-			"minecraft:bee": true
-			"alexsmobs:centipede_tail": true
-			"alexsmobs:elephant": true
-			"minecraft:cat": true
-			"minecraft:creeper": true
-			"minecraft:pillager": true
-			"alexsmobs:centipede_body": true
-			"alexsmobs:crocodile": true
-			"minecraft:fox": true
-			"minecraft:chicken": true
-			"zombie_variants:cherry_zombie": true
+			"zombie_variants:cave_zombie": true
 			"minecraft:glow_squid": true
-			"alexsmobs:grizzly_bear": true
-			"alexsmobs:blue_jay": true
-			"mowziesmobs:umvuthana_follower_raptor": true
-			"zombie_variants:deep_dark_zombie": true
-			"alexsmobs:tasmanian_devil": true
-			"minecraft:spider": true
-			"minecraft:axolotl": true
+			"irons_spellbooks:necromancer": true
+			"zombie_variants:savanna_zombie": true
+			"quark:shiba": true
+			"minecraft:chicken": true
 			"minecraft:sheep": true
+			"alexsmobs:elephant": true
+			"alexsmobs:raccoon": true
+			"minecraft:axolotl": true
+			"alexsmobs:fly": true
+			"irons_spellbooks:archevoker": true
+			"alexsmobs:bison": true
+			"alexsmobs:blue_jay": true
 			"alexsmobs:banana_slug": true
-			"minecraft:enderman": true
-			"minecraft:cave_spider": true
+			"alexsmobs:crocodile": true
+			"zombie_variants:cherry_zombie": true
+			"minecraft:villager": true
+			"minecraft:cow": true
+			"alexsmobs:gazelle": true
+			"minecraft:phantom": true
+			"minecraft:bee": true
 			"mowziesmobs:umvuthana_raptor": true
 			"alexsmobs:emu": true
-			"quark:shiba": true
+			"minecraft:zombie": true
+			"alexsmobs:centipede_tail": true
+			"alexsmobs:grizzly_bear": true
+			"alexsmobs:terrapin": true
+			"alexsmobs:kangaroo": true
+			"minecraft:creeper": true
+			"minecraft:armadillo": true
+			"mowziesmobs:umvuthana_follower_raptor": true
+			"minecraft:horse": true
+			"irons_spellbooks:pyromancer": true
+			"minecraft:cat": true
+			"minecraft:cave_spider": true
+			"zombie_variants:deep_dark_zombie": true
+			"minecraft:enderman": true
+			"alexsmobs:centipede_head": true
+			"minecraft:pig": true
 			"mowziesmobs:ferrous_wroughtnaut": true
-			"alexsmobs:maned_wolf": true
-			"minecraft:cow": true
 			"alexsmobs:skunk": true
+			"minecraft:skeleton": true
+			"alexsmobs:crow": true
+			"alexsmobs:cockroach": true
+			"quark:forgotten": true
 			"minecraft:rabbit": true
+			"minecraft:bat": true
+			"minecraft:fox": true
+			"minecraft:goat": true
+			"minecraft:witch": true
+			"alexsmobs:maned_wolf": true
+			"alexsmobs:centipede_body": true
+			"minecraft:iron_golem": true
+			"minecraft:zombie_villager": true
+			"alexsmobs:tasmanian_devil": true
+			"minecraft:spider": true
+			"minecraft:pillager": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

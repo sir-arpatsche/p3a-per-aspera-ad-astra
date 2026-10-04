@@ -1,0 +1,206 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "enchantment_industry_7ff2874a6aad533c"
+	group: "08E98A249E9FCE50"
+	icon: {
+		id: "create_enchantment_industry:blaze_enchanter"
+	}
+	id: "7FF2874A6AAD533C"
+	images: [ ]
+	order_index: 3
+	quest_enhance_decorative_lines: [ ]
+	quest_enhance_hidden_dependency_lines: [ ]
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["54F157D3C8CB7557"]
+			id: "391FA9B8D6B130A7"
+			rewards: [{
+				id: "094DC505C190FA29"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "65B00A2193F63833"
+				item: { count: 1, id: "create:experience_nugget" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["391FA9B8D6B130A7"]
+			id: "00F10FDD120BC630"
+			rewards: [{
+				id: "032E25ADB601CCDF"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "4772EE8819F6F6A2"
+					item: { count: 1, id: "create_enchantment_industry:mechanical_grindstone" }
+					type: "item"
+				}
+				{
+					id: "4CA6853F48D86D10"
+					item: { count: 1, id: "create:item_drain" }
+					type: "item"
+				}
+			]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["391FA9B8D6B130A7"]
+			id: "13D833C11A71B131"
+			rewards: [{
+				id: "15161DB21418A676"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "3E40ADA4A3071A3E"
+				item: { count: 1, id: "create:experience_block" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["13D833C11A71B131"]
+			id: "66FCECE2CEA842D9"
+			rewards: [{
+				id: "0F1AD74F33BBA21D"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "7DEB6DED68D94803"
+				item: { count: 1, id: "create_enchantment_industry:experience_hatch" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["13D833C11A71B131"]
+			id: "4566D7BB620B517A"
+			rewards: [{
+				id: "3DC1FF0510615572"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "210F9AC71C9B2890"
+				item: { count: 1, id: "create_enchantment_industry:experience_lantern" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["13D833C11A71B131"]
+			id: "2A5D792CD3695430"
+			rewards: [{
+				id: "52B3977BAE7B0C48"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "17019C41FA9C1742"
+				item: { count: 1, id: "minecraft:lightning_rod" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2A5D792CD3695430"]
+			id: "68AC478385F4DE6C"
+			rewards: [{
+				id: "64FB6D277E6B5639"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "28ADB117100DD1BA"
+				item: { count: 1, id: "create_enchantment_industry:super_experience_block" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["01AAA5D33720CE80"]
+			id: "5A576D629B37BEAF"
+			rewards: [{
+				id: "0791542614B211C4"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "2E7D6D8D3721A41F"
+				item: { count: 1, id: "create_enchantment_industry:experience_cake" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["13D833C11A71B131"]
+			id: "01AAA5D33720CE80"
+			rewards: [{
+				id: "279C49E7B3AF3C2E"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [
+				{
+					id: "174D24944BA7DEAD"
+					item: { count: 1, id: "create_enchantment_industry:blaze_forger" }
+					type: "item"
+				}
+				{
+					id: "76A1FD4994A3C076"
+					item: { count: 1, id: "create_enchantment_industry:blaze_enchanter" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["391FA9B8D6B130A7"]
+			id: "72C5E74B15EFB67A"
+			rewards: [{
+				id: "1A41E4E4DE43C0F9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "0DC0CD2D423C969F"
+				item: { count: 1, id: "create_enchantment_industry:printer" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			id: "54F157D3C8CB7557"
+			rewards: [{
+				id: "698D0965A5146472"
+				type: "xp"
+				xp: 5
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "6C6F7E8DF3ABBCDF"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+	]
+}

@@ -1,0 +1,3 @@
+[Cosmetic]
+	#The counter which dictates how long after a citizen stops breaking a block, for the mining animation to stop (This only applies as a fallback if the animation state happens to get stuck)
+	"Builder Mining Counter" = 1
