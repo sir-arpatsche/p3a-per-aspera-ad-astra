@@ -1,0 +1,420 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "plushie_sammlung"
+	group: "00E2BF19CCCA360D"
+	icon: {
+		id: "plushie_buddies:plushie_cow"
+	}
+	id: "69F8B8749B2C1E20"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "007A6F2A01910797"
+			shape: "rsquare"
+			tasks: [{
+				id: "782F9F660014EB50"
+				item: { count: 1, id: "plushie_buddies:plushie_cow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			id: "23EC24C5CA590005"
+			shape: "rsquare"
+			tasks: [{
+				id: "56CA3B0CE3BC419B"
+				item: { count: 1, id: "plushie_buddies:plushie_sheep" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.0d
+		}
+		{
+			id: "405F5101BFAC7C2E"
+			shape: "rsquare"
+			tasks: [{
+				id: "71EF4785E31E1A2F"
+				item: { count: 1, id: "plushie_buddies:plushie_pig" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 0.0d
+		}
+		{
+			id: "742929DCB631403D"
+			shape: "rsquare"
+			tasks: [{
+				id: "4FE2228FD6EFDF3D"
+				item: { count: 1, id: "plushie_buddies:plushie_chicken" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			id: "04BA7FE88C9697FD"
+			shape: "rsquare"
+			tasks: [{
+				id: "32FD358FE35B05C4"
+				item: { count: 1, id: "plushie_buddies:plushie_squid" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			id: "4878A742D96530BA"
+			shape: "rsquare"
+			tasks: [{
+				id: "1E26EB0996D8B22B"
+				item: { count: 1, id: "plushie_buddies:plushie_glow_squid" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			id: "064F63A728568306"
+			shape: "rsquare"
+			tasks: [{
+				id: "3F52A3AAB7F285A8"
+				item: { count: 1, id: "plushie_buddies:plushie_bee" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 0.0d
+		}
+		{
+			id: "50996C020D8E1B67"
+			shape: "rsquare"
+			tasks: [{
+				id: "4306C8F332C1E303"
+				item: { count: 1, id: "plushie_buddies:plushie_axolotl" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			id: "2B95D1F09B8B66C5"
+			shape: "rsquare"
+			tasks: [{
+				id: "16D70FB156BA1D7C"
+				item: { count: 1, id: "plushie_buddies:plushie_fox" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 1.5d
+		}
+		{
+			id: "4AD9F8134DDA153D"
+			shape: "rsquare"
+			tasks: [{
+				id: "03D7305CE7B3573A"
+				item: { count: 1, id: "plushie_buddies:plushie_frog" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 1.5d
+		}
+		{
+			id: "3354E229B0B9DB2E"
+			shape: "rsquare"
+			tasks: [{
+				id: "50F91002E36F8A42"
+				item: { count: 1, id: "plushie_buddies:plushie_allay" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 1.5d
+		}
+		{
+			id: "12067CAD3B1276AB"
+			shape: "rsquare"
+			tasks: [{
+				id: "656C46D83E78F313"
+				item: { count: 1, id: "plushie_buddies:plushie_sniffer" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 1.5d
+		}
+		{
+			id: "5273FB0F743A9381"
+			shape: "rsquare"
+			tasks: [{
+				id: "58B895F51327B047"
+				item: { count: 1, id: "plushie_buddies:plushie_turtle" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 1.5d
+		}
+		{
+			id: "18E6BA5D7EFAAE8D"
+			shape: "rsquare"
+			tasks: [{
+				id: "0E6BC3C4B4B90154"
+				item: { count: 1, id: "plushie_buddies:plushie_cat" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 1.5d
+		}
+		{
+			id: "11338D172FB09AFD"
+			shape: "rsquare"
+			tasks: [{
+				id: "624AE9BDD1BAEE1C"
+				item: { count: 1, id: "plushie_buddies:plushie_wolf" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 1.5d
+		}
+		{
+			id: "1EA6B1B056597B89"
+			shape: "rsquare"
+			tasks: [{
+				id: "059E2A79659D1F2F"
+				item: { count: 1, id: "plushie_buddies:plushie_rabbit" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 1.5d
+		}
+		{
+			id: "51B7457DDEE747C2"
+			shape: "rsquare"
+			tasks: [{
+				id: "22CF8DE7BC3E771C"
+				item: { count: 1, id: "plushie_buddies:plushie_creeper" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 4.0d
+		}
+		{
+			id: "0EDA241FC65CCF35"
+			shape: "rsquare"
+			tasks: [{
+				id: "1A5741F0C876D09D"
+				item: { count: 1, id: "plushie_buddies:plushie_zombie" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 4.0d
+		}
+		{
+			id: "7D7B3C38703122EE"
+			shape: "rsquare"
+			tasks: [{
+				id: "198012C73DCF92C4"
+				item: { count: 1, id: "plushie_buddies:plushie_skeleton" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 4.0d
+		}
+		{
+			id: "66F972E12F686885"
+			shape: "rsquare"
+			tasks: [{
+				id: "239F26F664CA033B"
+				item: { count: 1, id: "plushie_buddies:plushie_spider" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 4.0d
+		}
+		{
+			id: "0D88902D007A2411"
+			shape: "rsquare"
+			tasks: [{
+				id: "4E5E923B2E39C406"
+				item: { count: 1, id: "plushie_buddies:plushie_cave_spider" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 4.0d
+		}
+		{
+			id: "099D51C63408060A"
+			shape: "rsquare"
+			tasks: [{
+				id: "50046045960D87A4"
+				item: { count: 1, id: "plushie_buddies:plushie_enderman" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 4.0d
+		}
+		{
+			id: "4BEA34C796D9691C"
+			shape: "rsquare"
+			tasks: [{
+				id: "4C542827A89A744E"
+				item: { count: 1, id: "plushie_buddies:plushie_slime" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 4.0d
+		}
+		{
+			id: "4BF5348E602347AD"
+			shape: "rsquare"
+			tasks: [{
+				id: "4BE98AE61616A922"
+				item: { count: 1, id: "plushie_buddies:plushie_witch" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 4.0d
+		}
+		{
+			id: "05EEB05AE567C333"
+			shape: "rsquare"
+			tasks: [{
+				id: "1439901939C44768"
+				item: { count: 1, id: "plushie_buddies:plushie_pillager" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			id: "57F2C59B5BED9A8D"
+			shape: "rsquare"
+			tasks: [{
+				id: "5AE0987D31E5B64A"
+				item: { components: { "ftbquests:missing_item": "plushie_buddies:plushie_ravager" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			id: "5BEFBC6CB0780289"
+			shape: "rsquare"
+			tasks: [{
+				id: "0374CE17580350FF"
+				item: { count: 1, id: "plushie_buddies:plushie_piglin" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			id: "7CB0CF14337B36B9"
+			shape: "rsquare"
+			tasks: [{
+				id: "0C539B77CB0B4864"
+				item: { count: 1, id: "plushie_buddies:plushie_ghast" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "6C19D6508A6114D5"
+			shape: "rsquare"
+			tasks: [{
+				id: "488E03B1BC2EA592"
+				item: { count: 1, id: "plushie_buddies:plushie_blaze" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			id: "3F2E1DD234A05B6B"
+			shape: "rsquare"
+			tasks: [{
+				id: "11494A32A418AAD4"
+				item: { count: 1, id: "plushie_buddies:plushie_wither_skeleton" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			id: "170E46BF5E0CAFAB"
+			shape: "rsquare"
+			tasks: [{
+				id: "7FEA51799DC90F66"
+				item: { count: 1, id: "plushie_buddies:plushie_warden" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			id: "75E2BB4D4A3BBAAC"
+			shape: "rsquare"
+			tasks: [{
+				id: "03ED22D0F91A6216"
+				item: { components: { "ftbquests:missing_item": "plushie_buddies:plushie_ender_dragon" }, count: 1, id: "ftbquests:missing_item" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			id: "39778BA2BA0EB7F3"
+			shape: "rsquare"
+			tasks: [{
+				id: "650DA572D177A4DB"
+				item: { count: 1, id: "plushie_buddies:plushie_wither" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "4D85799EF494E9F6"
+			shape: "rsquare"
+			tasks: [{
+				id: "1267622E4D5DE417"
+				item: { count: 1, id: "plushie_buddies:plushie_elder_guardian" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"23EC24C5CA590005"
+				"742929DCB631403D"
+				"4878A742D96530BA"
+				"50996C020D8E1B67"
+				"2B95D1F09B8B66C5"
+				"3354E229B0B9DB2E"
+				"12067CAD3B1276AB"
+				"51B7457DDEE747C2"
+				"0EDA241FC65CCF35"
+				"099D51C63408060A"
+				"4BF5348E602347AD"
+				"05EEB05AE567C333"
+				"57F2C59B5BED9A8D"
+				"5BEFBC6CB0780289"
+				"7CB0CF14337B36B9"
+				"3F2E1DD234A05B6B"
+				"170E46BF5E0CAFAB"
+				"4D85799EF494E9F6"
+			]
+			id: "5D8106CA066A0334"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "15B5CA9B1F6C2217"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+	]
+}
