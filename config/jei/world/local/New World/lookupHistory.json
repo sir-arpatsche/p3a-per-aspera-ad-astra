@@ -1,5 +1,11 @@
 [
   {"version":1},
+  {"ingredient":{"id":"buddycards:charged_buddysteel_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buddycards:buddysteel_blend"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buddycards:buddysteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buddycards:charged_buddysteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buddycards:perfect_buddysteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"buddycards:true_perfect_buddysteel_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:angelwings\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:reindeerears\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:aurora\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -93,11 +99,5 @@
   {"ingredient":{"id":"minecraft:netherite_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:gold_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:copper_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:stonecutter"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"cataclysm:ancient_metal_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"cataclysm:ignitium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"advancednetherite:netherite_emerald_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"advancednetherite:netherite_gold_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:graphite_ingot_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:iron_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

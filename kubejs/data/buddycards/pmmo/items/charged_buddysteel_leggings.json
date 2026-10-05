@@ -1,0 +1,18 @@
+{
+  "requirements": {
+    "TOOL": {
+      "mining": 0
+    },
+    "WEAPON": {
+      "mining": 0
+    },
+    "WEAR": {
+      "endurance": 40,
+      "magic": 20
+    },
+    "USE_ENCHANTMENT": {
+      "mining": 0
+    }
+  },
+  "override": true
+}
