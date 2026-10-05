@@ -1,0 +1,6 @@
+{
+  "requirements": {
+    "BREAK": { "mining": 0 }
+  },
+  "override": true
+}

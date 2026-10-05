@@ -14,23 +14,41 @@
 	images: [ ]
 	order_index: 0
 	quest_links: [ ]
-	quests: [{
-		id: "1BEE4E90AC4BC232"
-		rewards: [{
-			count: 8
-			id: "385AF3894E744FA1"
-			item: {
-				count: 1
-				id: "minecraft:apple"
+	quests: [
+		{
+			id: "1BEE4E90AC4BC232"
+			rewards: [{
+				count: 8
+				id: "385AF3894E744FA1"
+				item: {
+					count: 1
+					id: "minecraft:apple"
+				}
+				type: "item"
+			}]
+			size: 1.5d
+			tasks: [{
+				id: "263D674C6FF31C7C"
+				type: "checkmark"
+			}]
+			x: 2.25d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1BEE4E90AC4BC232"]
+			icon: {
+				components: {
+					"ftbquests:icon": "ftblibrary:icons/keyboard"
+				}
+				id: "ftbquests:custom_icon"
 			}
-			type: "item"
-		}]
-		size: 1.5d
-		tasks: [{
-			id: "263D674C6FF31C7C"
-			type: "checkmark"
-		}]
-		x: 2.25d
-		y: -3.0d
-	}]
+			id: "3166BA3BF2C41077"
+			tasks: [{
+				id: "2D7AC7FCA77BA96C"
+				type: "checkmark"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+	]
 }

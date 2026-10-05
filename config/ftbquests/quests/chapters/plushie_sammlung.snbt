@@ -1,0 +1,420 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "plushie_sammlung"
+	group: "00E2BF19CCCA360D"
+	icon: {
+		id: "plushie_buddies:plushie_cow"
+	}
+	id: "7A3E56DBF4B75792"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "42D772CEBC6189C8"
+			shape: "rsquare"
+			tasks: [{
+				id: "111358FECF345033"
+				item: { count: 1, id: "plushie_buddies:plushie_cow" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			id: "23EC24C5CA590005"
+			shape: "rsquare"
+			tasks: [{
+				id: "51D8543F7D307123"
+				item: { count: 1, id: "plushie_buddies:plushie_sheep" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.0d
+		}
+		{
+			id: "415447C4AC0A3DAA"
+			shape: "rsquare"
+			tasks: [{
+				id: "71EF4785E31E1A2F"
+				item: { count: 1, id: "plushie_buddies:plushie_pig" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 0.0d
+		}
+		{
+			id: "742929DCB631403D"
+			shape: "rsquare"
+			tasks: [{
+				id: "4FE2228FD6EFDF3D"
+				item: { count: 1, id: "plushie_buddies:plushie_chicken" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			id: "5F3A87584F990EBD"
+			shape: "rsquare"
+			tasks: [{
+				id: "32FD358FE35B05C4"
+				item: { count: 1, id: "plushie_buddies:plushie_squid" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			id: "4878A742D96530BA"
+			shape: "rsquare"
+			tasks: [{
+				id: "1E26EB0996D8B22B"
+				item: { count: 1, id: "plushie_buddies:plushie_glow_squid" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			id: "17A3977F62FF1870"
+			shape: "rsquare"
+			tasks: [{
+				id: "1497C1AE1273A74A"
+				item: { count: 1, id: "plushie_buddies:plushie_bee" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 0.0d
+		}
+		{
+			id: "50996C020D8E1B67"
+			shape: "rsquare"
+			tasks: [{
+				id: "4306C8F332C1E303"
+				item: { count: 1, id: "plushie_buddies:plushie_axolotl" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			id: "2B95D1F09B8B66C5"
+			shape: "rsquare"
+			tasks: [{
+				id: "4B3A30FBD747B3D3"
+				item: { count: 1, id: "plushie_buddies:plushie_fox" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 1.5d
+		}
+		{
+			id: "069180664DA3BA21"
+			shape: "rsquare"
+			tasks: [{
+				id: "03D7305CE7B3573A"
+				item: { count: 1, id: "plushie_buddies:plushie_frog" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 1.5d
+		}
+		{
+			id: "3354E229B0B9DB2E"
+			shape: "rsquare"
+			tasks: [{
+				id: "28BE78C78052E3D0"
+				item: { count: 1, id: "plushie_buddies:plushie_allay" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 1.5d
+		}
+		{
+			id: "12067CAD3B1276AB"
+			shape: "rsquare"
+			tasks: [{
+				id: "5593860F5AF9C8CF"
+				item: { count: 1, id: "plushie_buddies:plushie_sniffer" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 1.5d
+		}
+		{
+			id: "0A44A347674B9E9C"
+			shape: "rsquare"
+			tasks: [{
+				id: "58B895F51327B047"
+				item: { count: 1, id: "plushie_buddies:plushie_turtle" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 1.5d
+		}
+		{
+			id: "07ADE217C070466A"
+			shape: "rsquare"
+			tasks: [{
+				id: "0E6BC3C4B4B90154"
+				item: { count: 1, id: "plushie_buddies:plushie_cat" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 1.5d
+		}
+		{
+			id: "1FFA8095A8367150"
+			shape: "rsquare"
+			tasks: [{
+				id: "624AE9BDD1BAEE1C"
+				item: { count: 1, id: "plushie_buddies:plushie_wolf" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 1.5d
+		}
+		{
+			id: "2332ACE6C4D5E782"
+			shape: "rsquare"
+			tasks: [{
+				id: "2DF955E10B3DECAF"
+				item: { count: 1, id: "plushie_buddies:plushie_rabbit" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 1.5d
+		}
+		{
+			id: "51B7457DDEE747C2"
+			shape: "rsquare"
+			tasks: [{
+				id: "22CF8DE7BC3E771C"
+				item: { count: 1, id: "plushie_buddies:plushie_creeper" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 4.0d
+		}
+		{
+			id: "0EDA241FC65CCF35"
+			shape: "rsquare"
+			tasks: [{
+				id: "07E43AD569FEF2DD"
+				item: { count: 1, id: "plushie_buddies:plushie_zombie" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 4.0d
+		}
+		{
+			id: "6D176DFE35664480"
+			shape: "rsquare"
+			tasks: [{
+				id: "20A4FB7CE1EE6969"
+				item: { count: 1, id: "plushie_buddies:plushie_skeleton" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 4.0d
+		}
+		{
+			id: "26F86BE8AB8D1DDA"
+			shape: "rsquare"
+			tasks: [{
+				id: "239F26F664CA033B"
+				item: { count: 1, id: "plushie_buddies:plushie_spider" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 4.0d
+		}
+		{
+			id: "105076CA19AAC692"
+			shape: "rsquare"
+			tasks: [{
+				id: "3C3B270D609C2162"
+				item: { count: 1, id: "plushie_buddies:plushie_cave_spider" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 4.0d
+		}
+		{
+			id: "099D51C63408060A"
+			shape: "rsquare"
+			tasks: [{
+				id: "4D3E53234B0B0EFE"
+				item: { count: 1, id: "plushie_buddies:plushie_enderman" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 4.0d
+		}
+		{
+			id: "6405BA5EEBED87C0"
+			shape: "rsquare"
+			tasks: [{
+				id: "020D59D70A56A3C2"
+				item: { count: 1, id: "plushie_buddies:plushie_slime" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 4.0d
+		}
+		{
+			id: "4BF5348E602347AD"
+			shape: "rsquare"
+			tasks: [{
+				id: "72E60E3D1580B7EF"
+				item: { count: 1, id: "plushie_buddies:plushie_witch" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 4.0d
+		}
+		{
+			id: "05EEB05AE567C333"
+			shape: "rsquare"
+			tasks: [{
+				id: "1439901939C44768"
+				item: { count: 1, id: "plushie_buddies:plushie_pillager" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 5.5d
+		}
+		{
+			id: "57F2C59B5BED9A8D"
+			shape: "rsquare"
+			tasks: [{
+				id: "5AE0987D31E5B64A"
+				item: { count: 1, id: "plushie_buddies:plushie_ravanger" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			id: "5BEFBC6CB0780289"
+			shape: "rsquare"
+			tasks: [{
+				id: "079119AB31E20842"
+				item: { count: 1, id: "plushie_buddies:plushie_piglin" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 5.5d
+		}
+		{
+			id: "7CB0CF14337B36B9"
+			shape: "rsquare"
+			tasks: [{
+				id: "28FAB842CE31CEAC"
+				item: { count: 1, id: "plushie_buddies:plushie_ghast" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			id: "459803D9FC4B8DB5"
+			shape: "rsquare"
+			tasks: [{
+				id: "1575B09764F849EE"
+				item: { count: 1, id: "plushie_buddies:plushie_blaze" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.5d
+		}
+		{
+			id: "3F2E1DD234A05B6B"
+			shape: "rsquare"
+			tasks: [{
+				id: "67D33BF8DC413881"
+				item: { count: 1, id: "plushie_buddies:plushie_wither_skeleton" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			id: "170E46BF5E0CAFAB"
+			shape: "rsquare"
+			tasks: [{
+				id: "369F12AA013B20E4"
+				item: { count: 1, id: "plushie_buddies:plushie_warden" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 5.5d
+		}
+		{
+			id: "65040A9D5372482C"
+			shape: "rsquare"
+			tasks: [{
+				id: "116574F57A7D5775"
+				item: { count: 1, id: "plushie_buddies:plushie_enderdragon" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.0d
+		}
+		{
+			id: "7983452168ACEA24"
+			shape: "rsquare"
+			tasks: [{
+				id: "650DA572D177A4DB"
+				item: { count: 1, id: "plushie_buddies:plushie_wither" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			id: "4D85799EF494E9F6"
+			shape: "rsquare"
+			tasks: [{
+				id: "46EB4F9A44148950"
+				item: { count: 1, id: "plushie_buddies:plushie_elder_guardian" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"23EC24C5CA590005"
+				"742929DCB631403D"
+				"4878A742D96530BA"
+				"50996C020D8E1B67"
+				"2B95D1F09B8B66C5"
+				"3354E229B0B9DB2E"
+				"12067CAD3B1276AB"
+				"51B7457DDEE747C2"
+				"0EDA241FC65CCF35"
+				"099D51C63408060A"
+				"4BF5348E602347AD"
+				"05EEB05AE567C333"
+				"57F2C59B5BED9A8D"
+				"5BEFBC6CB0780289"
+				"7CB0CF14337B36B9"
+				"3F2E1DD234A05B6B"
+				"170E46BF5E0CAFAB"
+				"4D85799EF494E9F6"
+			]
+			id: "0B1A101D3F44A9E3"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "760FEABFF5F1D86D"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+	]
+}

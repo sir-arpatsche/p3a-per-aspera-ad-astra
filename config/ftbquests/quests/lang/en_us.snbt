@@ -66,11 +66,13 @@
 	chapter.745D398616148AC3.title: "Create Aeronautics"
 	chapter.79B3A3BD58957D41.title: "Create Aeronautics"
 	chapter.7A3AEB4A6659CECB.title: "Create Aeronautics"
+	chapter.7A3E56DBF4B75792.title: "Plushie Collection"
 	chapter.7A4394B15833D210.title: "Create Aeronautics"
 	chapter.7D845E27B51ACAA0.title: "Create Aeronautics"
 	chapter.7E401507844771FE.title: "Create Aeronautics"
 	chapter.7EFC381F084C8FF2.title: "Create Aeronautics"
 	chapter.7FF2874A6AAD533C.title: "More Enchanting!"
+	chapter_group.00E2BF19CCCA360D.title: "Gotta Catch'em All"
 	chapter_group.1299521377C80133.title: "Storage"
 	chapter_group.1B19458CC984ADD0.title: "Chronicles"
 	chapter_group.2C38B606F3730A3E.title: "Skills and Classes"
@@ -164,6 +166,8 @@
 	quest.043F32F509482405.title: "Propeller Bearing"
 	quest.047B7012B726E848.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.047B7012B726E848.title: "Gyroscopic Propeller Bearing"
+	quest.05374F4C4503C9D6.quest_subtitle: "Bosse"
+	quest.05374F4C4503C9D6.title: "Wither Plushie"
 	quest.05A662F5928FA537.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.05A662F5928FA537.title: "Adjustable Burner"
 	quest.05C0DCB6704FC622.quest_desc: [
@@ -182,10 +186,14 @@
 	quest.05C579FBE9E56FFD.title: "Adjustable Burner"
 	quest.05E3F9C545A5CF5E.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.05E3F9C545A5CF5E.title: "Find Levitite"
+	quest.05EEB05AE567C333.quest_subtitle: "Monsters"
+	quest.05EEB05AE567C333.title: "Pillager Plushie"
 	quest.0621D8EF64C2EF30.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.0621D8EF64C2EF30.title: "Gyroscopic Propeller Bearing"
 	quest.067E4708589C4A4A.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.067E4708589C4A4A.title: "Propeller Bearing"
+	quest.069180664DA3BA21.quest_subtitle: "Animals"
+	quest.069180664DA3BA21.title: "Frog Plushie"
 	quest.069C978EEE46A9D4.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.069C978EEE46A9D4.quest_subtitle: "Chapter complete"
 	quest.069C978EEE46A9D4.title: "Master of the Skies"
@@ -201,9 +209,13 @@
 	quest.078D70D6E0E43BEF.title: "Find Levitite"
 	quest.07A7225586C86722.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.07A7225586C86722.title: "Propeller Bearing"
+	quest.07ADE217C070466A.quest_subtitle: "Animals"
+	quest.07ADE217C070466A.title: "Cat Plushie"
 	quest.07AFC8DA35DFAD28.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.07AFC8DA35DFAD28.quest_subtitle: "First flight"
 	quest.07AFC8DA35DFAD28.title: "Lift Off"
+	quest.07EDA22E45B9C7C1.quest_subtitle: "Tiere"
+	quest.07EDA22E45B9C7C1.title: "Squid Plushie"
 	quest.081BB5F2A35EE7EC.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.081BB5F2A35EE7EC.quest_subtitle: "Let's take off"
 	quest.081BB5F2A35EE7EC.title: "Wooden Propeller"
@@ -217,16 +229,24 @@
 	quest.08A58E0207CD1174.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.08A58E0207CD1174.quest_subtitle: "Let's take off"
 	quest.08A58E0207CD1174.title: "Wooden Propeller"
+	quest.099D51C63408060A.quest_subtitle: "Monsters"
+	quest.099D51C63408060A.title: "Enderman Plushie"
 	quest.09D806105031F7EA.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.09D806105031F7EA.title: "Andesite Propeller"
 	quest.0A0278CCA3C06A6C.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.0A0278CCA3C06A6C.title: "Propeller Bearing"
 	quest.0A13986DAF0762BC.quest_desc: ["Nice finally one step closer to the foundry! Keep crafting!"]
+	quest.0A43C1F94D5F6D3D.quest_subtitle: "Monster"
+	quest.0A43C1F94D5F6D3D.title: "Slime Plushie"
+	quest.0A44A347674B9E9C.quest_subtitle: "Animals"
+	quest.0A44A347674B9E9C.title: "Turtle Plushie"
 	quest.0A89DB532100A5E5.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.0A89DB532100A5E5.title: "Andesite Propeller"
 	quest.0AB74D15D30EDB1C.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.0AB74D15D30EDB1C.quest_subtitle: "Let's take off"
 	quest.0AB74D15D30EDB1C.title: "Wooden Propeller"
+	quest.0B1A101D3F44A9E3.quest_subtitle: "All plushies collected!"
+	quest.0B1A101D3F44A9E3.title: "Plushie Master"
 	quest.0B45BAFAC790CD42.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.0B45BAFAC790CD42.title: "Find Levitite"
 	quest.0B82BB93E1141B14.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -262,6 +282,8 @@
 	quest.0E6FC5D5931D5251.title: "Master of the Skies"
 	quest.0EA21A9EA8AAEAEA.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.0EA21A9EA8AAEAEA.title: "Find Levitite"
+	quest.0EDA241FC65CCF35.quest_subtitle: "Monsters"
+	quest.0EDA241FC65CCF35.title: "Zombie Plushie"
 	quest.0EFA357F0B128C43.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.0EFA357F0B128C43.title: "Propeller Bearing"
 	quest.0F16791AACA7DC17.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
@@ -286,6 +308,8 @@
 	quest.102123FC79159FA8.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.102123FC79159FA8.quest_subtitle: "Chapter complete"
 	quest.102123FC79159FA8.title: "Master of the Skies"
+	quest.105076CA19AAC692.quest_subtitle: "Monsters"
+	quest.105076CA19AAC692.title: "Cave Spider Plushie"
 	quest.1062E2348C6AA8A4.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
 	quest.1062E2348C6AA8A4.title: "Envelope Fabric"
 	quest.10B76FD4D2FF9FBB.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -320,6 +344,10 @@
 		""
 		"Craft: 4x Gold Ingot (corners), 4x Bone (sides), 1x Iron Axe (center)."
 	]
+	quest.11DF062F8A9799ED.quest_subtitle: "Monster"
+	quest.11DF062F8A9799ED.title: "Spider Plushie"
+	quest.12067CAD3B1276AB.quest_subtitle: "Animals"
+	quest.12067CAD3B1276AB.title: "Sniffer Plushie"
 	quest.124FE81857EBE4CD.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
 	quest.124FE81857EBE4CD.title: "Envelope Fabric"
 	quest.1276569C0401B853.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
@@ -433,6 +461,8 @@
 	quest.16849EE84D989BAA.title: "Gyroscopic Propeller Bearing"
 	quest.16EDDC562D268574.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.16EDDC562D268574.title: "Propeller Bearing"
+	quest.170E46BF5E0CAFAB.quest_subtitle: "Monsters"
+	quest.170E46BF5E0CAFAB.title: "Warden Plushie"
 	quest.17509E5F85809AB8.quest_desc: [
 		"Subclass insignia for the Ranger. Requires a level 2 Ranger. Using it costs 30 XP levels and lets you choose one of three subclasses:"
 		""
@@ -445,6 +475,8 @@
 	quest.17989CCE9308EBBD.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.17989CCE9308EBBD.quest_subtitle: "First flight"
 	quest.17989CCE9308EBBD.title: "Lift Off"
+	quest.17A3977F62FF1870.quest_subtitle: "Animals"
+	quest.17A3977F62FF1870.title: "Bee Plushie"
 	quest.17B9F1F6A11D4891.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.17B9F1F6A11D4891.quest_subtitle: "First flight"
 	quest.17B9F1F6A11D4891.title: "Lift Off"
@@ -578,6 +610,10 @@
 	quest.1FAC9424B4EF9F59.title: "Gyroscopic Propeller Bearing"
 	quest.1FED4C45E5F6B9B9.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.1FED4C45E5F6B9B9.title: "Gyroscopic Propeller Bearing"
+	quest.1FFA8095A8367150.quest_subtitle: "Animals"
+	quest.1FFA8095A8367150.title: "Wolf Plushie"
+	quest.2025B2F634B7FD19.quest_subtitle: "Collect all the plushies!"
+	quest.2025B2F634B7FD19.title: "Plushie-Master"
 	quest.208C273D5C1627E4.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.208C273D5C1627E4.title: "Find Levitite"
 	quest.2092F0403034CB13.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
@@ -631,6 +667,8 @@
 	quest.22BB67E5EC32B1E9.title: "Find Levitite"
 	quest.2304BC317DD44148.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.2304BC317DD44148.title: "Andesite Propeller"
+	quest.2332ACE6C4D5E782.quest_subtitle: "Animals"
+	quest.2332ACE6C4D5E782.title: "Rabbit Plushie"
 	quest.234D1A4119D11F6C.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.234D1A4119D11F6C.quest_subtitle: "First flight"
 	quest.234D1A4119D11F6C.title: "Lift Off"
@@ -642,6 +680,8 @@
 	quest.23E428EF92FC3BC5.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.23E428EF92FC3BC5.quest_subtitle: "Chapter complete"
 	quest.23E428EF92FC3BC5.title: "Master of the Skies"
+	quest.23EC24C5CA590005.quest_subtitle: "Animals"
+	quest.23EC24C5CA590005.title: "Sheep Plushie"
 	quest.241DF6AC55255D10.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.241DF6AC55255D10.quest_subtitle: "First flight"
 	quest.241DF6AC55255D10.title: "Lift Off"
@@ -691,6 +731,8 @@
 	quest.269BDC947E780103.title: "Find Levitite"
 	quest.26E4AD12B8F67A82.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.26E4AD12B8F67A82.title: "Andesite Propeller"
+	quest.26F86BE8AB8D1DDA.quest_subtitle: "Monsters"
+	quest.26F86BE8AB8D1DDA.title: "Spider Plushie"
 	quest.274AAB1700CAF224.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.274AAB1700CAF224.title: "Andesite Propeller"
 	quest.274C1DDCE9E9B821.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
@@ -703,6 +745,8 @@
 	quest.279C3F56E09EC018.title: "Andesite Propeller"
 	quest.27ADCFB6BF7BACD0.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
 	quest.27ADCFB6BF7BACD0.title: "Envelope Fabric"
+	quest.2840268C2E0CD3BB.quest_subtitle: "Bosse"
+	quest.2840268C2E0CD3BB.title: "Ender Dragon Plushie"
 	quest.2844A0F43D426B3F.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.2844A0F43D426B3F.title: "Adjustable Burner"
 	quest.28735B7A808688EC.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
@@ -746,6 +790,8 @@
 		""
 		"Prepare yourself adventurer. &6Exploration&r and courage are the only ways to thrive in this world where the land itself rises against you."
 	]
+	quest.2B95D1F09B8B66C5.quest_subtitle: "Animals"
+	quest.2B95D1F09B8B66C5.title: "Fox Plushie"
 	quest.2C04481C2D2A9731.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.2C04481C2D2A9731.quest_subtitle: "First flight"
 	quest.2C04481C2D2A9731.title: "Lift Off"
@@ -828,6 +874,11 @@
 	quest.312C54B13DDD6365.title: "Propeller Bearing"
 	quest.3148037A4FB0C142.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.3148037A4FB0C142.title: "Propeller Bearing"
+	quest.3166BA3BF2C41077.quest_desc: [
+		"Hey before you start with the modpack, I really recommend to set your keybinds. We've installed a visual Keybind Mod to make the process easier for you."
+		""
+		"Check out the Settings to change everything."
+	]
 	quest.3182E19DBC6EC0AA.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.3182E19DBC6EC0AA.title: "Find Levitite"
 	quest.3235D3C9F9751ACD.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -849,6 +900,8 @@
 	quest.32ECED7B7E0F5D7D.title: "Gyroscopic Propeller Bearing"
 	quest.33084E487BB702D8.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.33084E487BB702D8.title: "Propeller Bearing"
+	quest.3354E229B0B9DB2E.quest_subtitle: "Animals"
+	quest.3354E229B0B9DB2E.title: "Allay Plushie"
 	quest.33CDBF014B583AAB.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.33CDBF014B583AAB.title: "Andesite Propeller"
 	quest.33F70C96F92E9615.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
@@ -932,6 +985,8 @@
 	quest.3A5EB61CF30972E4.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.3A5EB61CF30972E4.quest_subtitle: "First flight"
 	quest.3A5EB61CF30972E4.title: "Lift Off"
+	quest.3A8299DA806177B0.quest_subtitle: "Tiere"
+	quest.3A8299DA806177B0.title: "Wolf Plushie"
 	quest.3A85F4225F63D630.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.3A85F4225F63D630.quest_subtitle: "Let's take off"
 	quest.3A85F4225F63D630.title: "Wooden Propeller"
@@ -987,6 +1042,8 @@
 	quest.3EDD6055514DD52A.title: "Gyroscopic Propeller Bearing"
 	quest.3F175A36BD594998.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.3F175A36BD594998.title: "Gyroscopic Propeller Bearing"
+	quest.3F2E1DD234A05B6B.quest_subtitle: "Monsters"
+	quest.3F2E1DD234A05B6B.title: "Wither Skeleton Plushie"
 	quest.3F66A3A1A574BEF7.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.3F66A3A1A574BEF7.title: "Andesite Propeller"
 	quest.3F8E32E87596C16C.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
@@ -999,6 +1056,8 @@
 	quest.3FC8917564DE65E8.title: "Andesite Propeller"
 	quest.3FD8D33339691581.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.3FD8D33339691581.title: "Propeller Bearing"
+	quest.400CC3E4C4C6A3F8.quest_subtitle: "Monster"
+	quest.400CC3E4C4C6A3F8.title: "Cave Spider Plushie"
 	quest.4028EEF2FFBA10C2.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.4028EEF2FFBA10C2.quest_subtitle: "Let's take off"
 	quest.4028EEF2FFBA10C2.title: "Wooden Propeller"
@@ -1009,6 +1068,8 @@
 	quest.40B34CA7C1344C33.title: "Gyroscopic Propeller Bearing"
 	quest.4118927D9D079DC8.quest_desc: ["Rising like jagged thorns from the ground, these massive towers are defended by skeletons entwined with deadly roses. Each level is heavily fortified, and flying rose guards patrol the skies above. Only those who ascend to the top will claim the treasures and secrets hidden within."]
 	quest.4118927D9D079DC8.quest_subtitle: "Visit the Thornborn Towers"
+	quest.415447C4AC0A3DAA.quest_subtitle: "Animals"
+	quest.415447C4AC0A3DAA.title: "Pig Plushie"
 	quest.4185EA76DF542505.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.4185EA76DF542505.quest_subtitle: "Chapter complete"
 	quest.4185EA76DF542505.title: "Master of the Skies"
@@ -1022,6 +1083,8 @@
 	quest.425352BCAD0A0A44.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.425352BCAD0A0A44.quest_subtitle: "Let's take off"
 	quest.425352BCAD0A0A44.title: "Wooden Propeller"
+	quest.42D772CEBC6189C8.quest_subtitle: "Animals"
+	quest.42D772CEBC6189C8.title: "Cow Plushie"
 	quest.42F8D535BE37622E.quest_desc: ["Gonna need alot more than 1 for your train network! You might wanna automate this process."]
 	quest.42F8D535BE37622E.title: "Laying track"
 	quest.433056AEE9996C63.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
@@ -1062,6 +1125,8 @@
 	quest.44EFB20EB9A5856D.title: "Propeller Bearing"
 	quest.454D945F649271B8.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
 	quest.454D945F649271B8.title: "Envelope Fabric"
+	quest.459803D9FC4B8DB5.quest_subtitle: "Monsters"
+	quest.459803D9FC4B8DB5.title: "Blaze Plushie"
 	quest.45B77C743DA9C6FB.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.45B77C743DA9C6FB.title: "Gyroscopic Propeller Bearing"
 	quest.45CA0FAC114A345B.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
@@ -1094,6 +1159,8 @@
 	quest.487711BA6D6C9096.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.487711BA6D6C9096.quest_subtitle: "Let's take off"
 	quest.487711BA6D6C9096.title: "Wooden Propeller"
+	quest.4878A742D96530BA.quest_subtitle: "Animals"
+	quest.4878A742D96530BA.title: "Glow Squid Plushie"
 	quest.488DB895688BF374.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.488DB895688BF374.title: "Propeller Bearing"
 	quest.48BA636FCF71F38B.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
@@ -1157,6 +1224,8 @@
 		""
 		"Craft: 4x Gold Ingot (corners), 4x Note Block (sides), 1x Evocation Rune (center)."
 	]
+	quest.4BF5348E602347AD.quest_subtitle: "Monsters"
+	quest.4BF5348E602347AD.title: "Witch Plushie"
 	quest.4C6E27A5C1E62626.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.4C6E27A5C1E62626.title: "Find Levitite"
 	quest.4C8FA03A70507950.quest_desc: [
@@ -1170,6 +1239,8 @@
 	quest.4CF80450DA1570F4.title: "Adjustable Burner"
 	quest.4D78469604FB734E.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.4D78469604FB734E.title: "Propeller Bearing"
+	quest.4D85799EF494E9F6.quest_subtitle: "Bosses"
+	quest.4D85799EF494E9F6.title: "Elder Guardian Plushie"
 	quest.4DA115C8DDF9808A.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.4DA115C8DDF9808A.title: "Find Levitite"
 	quest.4DA530FDCFC0254E.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
@@ -1203,6 +1274,8 @@
 	quest.4FC7CD49B53C4C5A.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.4FC7CD49B53C4C5A.quest_subtitle: "Chapter complete"
 	quest.4FC7CD49B53C4C5A.title: "Master of the Skies"
+	quest.50005F41F36D6D1C.quest_subtitle: "Tiere"
+	quest.50005F41F36D6D1C.title: "Cat Plushie"
 	quest.50699159A84FB40B.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.50699159A84FB40B.quest_subtitle: "Let's take off"
 	quest.50699159A84FB40B.title: "Wooden Propeller"
@@ -1212,9 +1285,13 @@
 	quest.50859258F957F560.title: "Gyroscopic Propeller Bearing"
 	quest.50991AE73FA71419.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.50991AE73FA71419.title: "Find Levitite"
+	quest.50996C020D8E1B67.quest_subtitle: "Animals"
+	quest.50996C020D8E1B67.title: "Axolotl Plushie"
 	quest.509E9CA83FBC780E.quest_subtitle: "Find a Fishing Hut"
 	quest.5100CFAD43E7D67A.quest_desc: ["Rising like a monument to conquest, this sprawling fortress serves as a bastion of Illager power. Its many levels are patrolled by raiders and spellcasters, their banners declaring dominion over the land. Within its halls lie chambers of wealth, guarded by Evokers whose magic is as deadly as their stares."]
 	quest.5100CFAD43E7D67A.quest_subtitle: "Find an Illager Fort"
+	quest.510EA1DC4CB1EFFA.quest_subtitle: "Tiere"
+	quest.510EA1DC4CB1EFFA.title: "Pig Plushie"
 	quest.511475BB9B0A6085.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
 	quest.511475BB9B0A6085.quest_subtitle: "Chapter complete"
 	quest.511475BB9B0A6085.title: "Master of the Skies"
@@ -1243,6 +1320,8 @@
 	quest.51A495E86FC8087C.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.51A495E86FC8087C.quest_subtitle: "First flight"
 	quest.51A495E86FC8087C.title: "Lift Off"
+	quest.51B7457DDEE747C2.quest_subtitle: "Monsters"
+	quest.51B7457DDEE747C2.title: "Creeper Plushie"
 	quest.51DD6FFE24139FB1.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.51DD6FFE24139FB1.title: "Andesite Propeller"
 	quest.51E899D9B1AA8A5A.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
@@ -1315,6 +1394,8 @@
 	quest.57EA20AFC8340A26.quest_desc: ["Craft your first Wooden Propeller - the basic thrust component for any Aeronautics vehicle."]
 	quest.57EA20AFC8340A26.quest_subtitle: "Let's take off"
 	quest.57EA20AFC8340A26.title: "Wooden Propeller"
+	quest.57F2C59B5BED9A8D.quest_subtitle: "Monsters"
+	quest.57F2C59B5BED9A8D.title: "Ravager Plushie"
 	quest.5817253D6BCCECB1.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.5817253D6BCCECB1.quest_subtitle: "First flight"
 	quest.5817253D6BCCECB1.title: "Lift Off"
@@ -1352,6 +1433,8 @@
 	quest.5B024951A933ED1A.title: "Adjustable Burner"
 	quest.5BD9948CB0FFF833.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.5BD9948CB0FFF833.title: "Propeller Bearing"
+	quest.5BEFBC6CB0780289.quest_subtitle: "Monsters"
+	quest.5BEFBC6CB0780289.title: "Piglin Plushie"
 	quest.5BFD578A8A99F6D0.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.5BFD578A8A99F6D0.title: "Andesite Propeller"
 	quest.5C12F4CC1F6F6C32.quest_desc: ["Looming among the clouds, this massive airship bristles with defenses and hostile crew. Phantom-mounted fiends circle overhead, while fish-like raiders astride hoglins stalk the decks. Boarding it is no small feat. Tthose who triumph will etch their name among the few who dared challenge the skies."]
@@ -1371,6 +1454,8 @@
 	quest.5D2D815DBBDC0980.title: "Envelope Fabric"
 	quest.5D460537B3203A60.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.5D460537B3203A60.title: "Find Levitite"
+	quest.5D51B8E1D12C51B0.quest_subtitle: "Tiere"
+	quest.5D51B8E1D12C51B0.title: "Frog Plushie"
 	quest.5D578D27EBD5F9BC.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.5D578D27EBD5F9BC.title: "Find Levitite"
 	quest.5DA5FBA7A122F39D.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
@@ -1385,6 +1470,8 @@
 	quest.5EB1137FF97DFD9E.title: "Lift Off"
 	quest.5EB966ECB7DB0926.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.5EB966ECB7DB0926.title: "Propeller Bearing"
+	quest.5F3A87584F990EBD.quest_subtitle: "Animals"
+	quest.5F3A87584F990EBD.title: "Squid Plushie"
 	quest.5F5A5AF6616948E6.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.5F5A5AF6616948E6.quest_subtitle: "First flight"
 	quest.5F5A5AF6616948E6.title: "Lift Off"
@@ -1432,12 +1519,16 @@
 	quest.63D666C1D30D9F18.title: "Gyroscopic Propeller Bearing"
 	quest.64022AF12E3A851E.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.64022AF12E3A851E.title: "Gyroscopic Propeller Bearing"
+	quest.6405BA5EEBED87C0.quest_subtitle: "Monsters"
+	quest.6405BA5EEBED87C0.title: "Slime Plushie"
 	quest.6447492FAA873F93.quest_desc: ["Suspended in the sky, this floating steampunk city glows in hues of orange and green. Strange, gear-driven inhabitants roam its platforms, each dominated by a singular central eye or monocle. Enter with caution, this mechanical hive is as clever as it is imposing, and its secrets are tightly guarded."]
 	quest.6447492FAA873F93.quest_subtitle: "Find a Mechanical Nest"
 	quest.64798EA9D22BE07D.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.64798EA9D22BE07D.title: "Propeller Bearing"
 	quest.65031499060750CB.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.65031499060750CB.title: "Gyroscopic Propeller Bearing"
+	quest.65040A9D5372482C.quest_subtitle: "Bosses"
+	quest.65040A9D5372482C.title: "Ender Dragon Plushie"
 	quest.653CD16FDAE6E12A.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.653CD16FDAE6E12A.title: "Adjustable Burner"
 	quest.656089CEAECD1D6F.quest_desc: ["After crafting your first bucket, you need more buckets! You ask why? Because we want to get obsidian!"]
@@ -1553,6 +1644,8 @@
 	quest.6B3320E4024AE0C2.title: "Propeller Bearing"
 	quest.6B372E993BE8B561.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.6B372E993BE8B561.title: "Gyroscopic Propeller Bearing"
+	quest.6B6C4F4CDF21FB7C.quest_subtitle: "Animal"
+	quest.6B6C4F4CDF21FB7C.title: "Cow Plushie"
 	quest.6BE73313DA026993.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.6BE73313DA026993.title: "Gyroscopic Propeller Bearing"
 	quest.6BEEB11AC9773F41.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
@@ -1566,6 +1659,8 @@
 	quest.6C9DC90BA46F1EE7.title: "Master of the Skies"
 	quest.6CB5ACBAAED66871.quest_desc: ["Shaped from the stem and cap of a giant fungus, this whimsical dwelling offers a rare touch of charm in a perilous world. Lightly guarded and easy to claim, the mushroom house makes for a delightful refuge, perfect for any adventurer who’s ever dreamed of calling a mushroom home."]
 	quest.6CB5ACBAAED66871.quest_subtitle: "Find a Mushroom House"
+	quest.6D176DFE35664480.quest_subtitle: "Monsters"
+	quest.6D176DFE35664480.title: "Skeleton Plushie"
 	quest.6D3B8E45D8E73491.quest_desc: ["Create a Foundry Basin to smelt down your metals. It's the heart of the Create: Metallurgy mod."]
 	quest.6D3B8E45D8E73491.quest_subtitle: "Create: Metallurgy"
 	quest.6D3B8E45D8E73491.title: "Foundry Basin"
@@ -1618,6 +1713,8 @@
 	quest.6F6183CC81A94D52.title: "Adjustable Burner"
 	quest.6FAA135502256269.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
 	quest.6FAA135502256269.title: "Gyroscopic Propeller Bearing"
+	quest.6FCA52B8B55647C7.quest_subtitle: "Monster"
+	quest.6FCA52B8B55647C7.title: "Skeleton Plushie"
 	quest.6FEB49D2FB85145F.quest_desc: [
 		"Subclass insignia for the Cleric. Requires a level 2 Cleric. Using it costs 30 XP levels and lets you choose one of three subclasses:"
 		""
@@ -1675,6 +1772,10 @@
 	quest.73D7B97C2217819C.title: "Andesite Propeller"
 	quest.7404043F660B8263.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
 	quest.7404043F660B8263.title: "Envelope Fabric"
+	quest.741C67D2283FC15D.quest_subtitle: "Tiere"
+	quest.741C67D2283FC15D.title: "Bee Plushie"
+	quest.742929DCB631403D.quest_subtitle: "Animals"
+	quest.742929DCB631403D.title: "Chicken Plushie"
 	quest.743495AD33FB6D36.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.743495AD33FB6D36.title: "Andesite Propeller"
 	quest.74676D2CAACFF1A0.quest_desc: ["Build a proper hull, mount your gyroscopic bearings and take your first fully steerable airship out for a spin."]
@@ -1728,6 +1829,8 @@
 	quest.785C46E7CD21EFD8.title: "Master of the Skies"
 	quest.78AFD2A973EFBC2A.quest_desc: ["The Adjustable Burner heats the air inside your envelope to generate lift - the heart of a hot air balloon."]
 	quest.78AFD2A973EFBC2A.title: "Adjustable Burner"
+	quest.7983452168ACEA24.quest_subtitle: "Bosses"
+	quest.7983452168ACEA24.title: "Wither Plushie"
 	quest.79848EF8122476C1.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.79848EF8122476C1.title: "Propeller Bearing"
 	quest.79CE063A5B146CAD.quest_desc: ["The Gyroscopic Propeller Bearing can be steered directly, giving you real directional control instead of a fixed heading - this is what turns a balloon into an actual airship."]
@@ -1765,6 +1868,8 @@
 	quest.7C78621D1D1B2071.title: "Master of the Skies"
 	quest.7C87EA9C27307F38.quest_desc: ["New recipe: 2x Bucket + 5x Iron Nugget instead of an Iron Ingot."]
 	quest.7C87EA9C27307F38.title: "Craft a Cauldron"
+	quest.7CB0CF14337B36B9.quest_subtitle: "Monsters"
+	quest.7CB0CF14337B36B9.title: "Ghast Plushie"
 	quest.7CB218126CC18369.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
 	quest.7CB218126CC18369.title: "Andesite Propeller"
 	quest.7CDFCE9B154CEE72.quest_desc: ["The Andesite Propeller is a stronger upgrade over the wooden one - more thrust for bigger builds."]
@@ -1778,6 +1883,10 @@
 		""
 		"Craft: 4x Gold Ingot (corners), 4x Lapis Lazuli (sides), 1x Arcane Rune (center)."
 	]
+	quest.7D5002EF60B53BDE.quest_subtitle: "Monster"
+	quest.7D5002EF60B53BDE.title: "Blaze Plushie"
+	quest.7D5B025B0C8889E1.quest_subtitle: "Tiere"
+	quest.7D5B025B0C8889E1.title: "Rabbit Plushie"
 	quest.7D626AAC52A59CFD.quest_desc: ["Levitite is a special lightweight material used for extra lift and later for more advanced airships."]
 	quest.7D626AAC52A59CFD.title: "Find Levitite"
 	quest.7E5840EA86C17EE6.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
@@ -1787,6 +1896,8 @@
 	quest.7E769CF52B8E9595.quest_desc: ["Put it all together: envelope, burner, propeller and bearing. Assemble and launch your first hot air balloon!"]
 	quest.7E769CF52B8E9595.quest_subtitle: "First flight"
 	quest.7E769CF52B8E9595.title: "Lift Off"
+	quest.7E97C2C02AC045F4.quest_subtitle: "Tiere"
+	quest.7E97C2C02AC045F4.title: "Turtle Plushie"
 	quest.7EEE6066633639D4.quest_desc: ["The Propeller Bearing mounts a propeller and lets it spin from rotational power - the core of any thrust setup."]
 	quest.7EEE6066633639D4.title: "Propeller Bearing"
 	quest.7F2C37B1554B4E28.quest_desc: ["Envelope blocks form the fabric skin of a balloon. Pick any color to get started - they all work the same way."]
@@ -1892,6 +2003,7 @@
 	task.2BA7713281AC0405.title: "Cleric Insignia"
 	task.2C45753CA25565CA.title: "First steerable airship"
 	task.2C7789B070690B13.title: "Bard"
+	task.2D7AC7FCA77BA96C.title: "Keybinds"
 	task.2E0DC9816C7075FD.title: "Cleric"
 	task.2E42F64943C76665.title: "First hot air balloon assembled"
 	task.2F6347408B6EFC9E.title: "Cleric"
