@@ -1,5 +1,9 @@
 [
   {"version":1},
+  {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:angelwings\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:reindeerears\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:aurora\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ftbquests:missing_item","components":"{\"ftbquests:missing_item\":\"simplehats:holocrown\"}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"plushie_buddies:plushie_cow"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"plushie_buddies:plushie_dan_rolo"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"plushie_buddies:plushie_storm_soldier"},"type":"item_stack","bookmarkType":"INGREDIENT"},
@@ -95,9 +99,5 @@
   {"ingredient":{"id":"cataclysm:ignitium_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"advancednetherite:netherite_emerald_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"advancednetherite:netherite_gold_ingot"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:graphite_ingot_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"createmetallurgy:casting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:andesite_alloy"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"create:zinc_nugget"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:andesite"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"createmetallurgy:graphite_ingot_mold"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

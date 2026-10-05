@@ -1,0 +1,602 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "rsquare"
+	filename: "hat_collection"
+	group: "00E2BF19CCCA360D"
+	icon: {
+		id: "simplehats:tophat"
+	}
+	id: "1F192C37C9D160F1"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2DAA1B402A417931"
+			shape: "rsquare"
+			tasks: [{
+				id: "650F99EE655D179B"
+				item: { count: 1, id: "simplehats:baseballhat" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 0.0d
+		}
+		{
+			id: "652B63D3ABB44574"
+			shape: "rsquare"
+			tasks: [{
+				id: "36CE4F7FAE70B9FF"
+				item: { count: 1, id: "simplehats:beanie" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 0.0d
+		}
+		{
+			id: "3798D1832B682EDE"
+			shape: "rsquare"
+			tasks: [{
+				id: "4486D409F0F26E07"
+				item: { count: 1, id: "simplehats:summerhat" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 0.0d
+		}
+		{
+			id: "4F027D4535FE226C"
+			shape: "rsquare"
+			tasks: [{
+				id: "0884D5B5CDF04F30"
+				item: { count: 1, id: "simplehats:cowboy" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 0.0d
+		}
+		{
+			id: "6A952E36E9A59E9E"
+			shape: "rsquare"
+			tasks: [{
+				id: "3F50DC2DD31D4F66"
+				item: { count: 1, id: "simplehats:tophat" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 0.0d
+		}
+		{
+			id: "69BC6766FC0165E5"
+			shape: "rsquare"
+			tasks: [{
+				id: "53A3E183463FED4E"
+				item: { count: 1, id: "simplehats:sombrero" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 0.0d
+		}
+		{
+			id: "52F3D90FBCE23F86"
+			shape: "rsquare"
+			tasks: [{
+				id: "3FF935B692E00740"
+				item: { count: 1, id: "simplehats:chefshat" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 0.0d
+		}
+		{
+			id: "30BB5F66B139D072"
+			shape: "rsquare"
+			tasks: [{
+				id: "682C17A6743BAF47"
+				item: { count: 1, id: "simplehats:traffic_cone" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 0.0d
+		}
+		{
+			id: "225B485A023CDF32"
+			shape: "rsquare"
+			tasks: [{
+				id: "460DA2150BA77A52"
+				item: { count: 1, id: "simplehats:paperbag" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 0.0d
+		}
+		{
+			id: "2861C2B8E2564754"
+			shape: "rsquare"
+			tasks: [{
+				id: "4806221C63BCC383"
+				item: { count: 1, id: "simplehats:bucket" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 0.0d
+		}
+		{
+			id: "2074BB73445870FE"
+			shape: "rsquare"
+			tasks: [{
+				id: "62E629169B59C8C1"
+				item: { count: 1, id: "simplehats:foxhat" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 2.0d
+		}
+		{
+			id: "09F69947AECDCECA"
+			shape: "rsquare"
+			tasks: [{
+				id: "46E2E0B59E9E61BC"
+				item: { count: 1, id: "simplehats:policebucket" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 2.0d
+		}
+		{
+			id: "1D3CEB019152ADE2"
+			shape: "rsquare"
+			tasks: [{
+				id: "5FB33A2908E528A2"
+				item: { count: 1, id: "simplehats:finnhood" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 2.0d
+		}
+		{
+			id: "1D28D6D5751E99FF"
+			shape: "rsquare"
+			tasks: [{
+				id: "7CE512DF7E3EFA30"
+				item: { count: 1, id: "simplehats:udder_hat" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 2.0d
+		}
+		{
+			id: "1AE2439385181A01"
+			shape: "rsquare"
+			tasks: [{
+				id: "5D0C055B89991856"
+				item: { count: 1, id: "simplehats:crown" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 2.0d
+		}
+		{
+			id: "5144889041A82735"
+			shape: "rsquare"
+			tasks: [{
+				id: "22BFEC56A902D80B"
+				item: { count: 1, id: "simplehats:headphonesblue" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 2.0d
+		}
+		{
+			id: "5B6CD7E6E8CE1ECE"
+			shape: "rsquare"
+			tasks: [{
+				id: "47A05EC4F7DA332E"
+				item: { count: 1, id: "simplehats:questbook" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 2.0d
+		}
+		{
+			id: "07A2491259441AE0"
+			shape: "rsquare"
+			tasks: [{
+				id: "4A1B29840D87B54F"
+				item: { count: 1, id: "simplehats:jesterhat" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 2.0d
+		}
+		{
+			id: "72D602DA3FC00EE3"
+			shape: "rsquare"
+			tasks: [{
+				id: "2242C82831C501A9"
+				item: { count: 1, id: "simplehats:explorerhat" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 2.0d
+		}
+		{
+			id: "486055AA7511B7A3"
+			shape: "rsquare"
+			tasks: [{
+				id: "1CCFF84BC4CA51C1"
+				item: { count: 1, id: "simplehats:chickenhead" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 2.0d
+		}
+		{
+			id: "2A33F2F7F2CD6DCD"
+			shape: "rsquare"
+			tasks: [{
+				id: "15DDBDD24A1542D4"
+				item: { count: 1, id: "simplehats:antlers" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 4.0d
+		}
+		{
+			id: "3D6CE1FF801C7B71"
+			shape: "rsquare"
+			tasks: [{
+				id: "4AA0F2DE3D8601DE"
+				item: { count: 1, id: "simplehats:snowmanbaby" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 4.0d
+		}
+		{
+			id: "124AACB879616ADF"
+			shape: "rsquare"
+			tasks: [{
+				id: "13284EB57E46C3B2"
+				item: { count: 1, id: "simplehats:halo" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 4.0d
+		}
+		{
+			id: "6A0BCDB248194192"
+			shape: "rsquare"
+			tasks: [{
+				id: "3234B2B7916BBF33"
+				item: { count: 1, id: "simplehats:demonhorns" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 4.0d
+		}
+		{
+			id: "5C962EAC09B12E2E"
+			shape: "rsquare"
+			tasks: [{
+				id: "28B704D3D850D5DD"
+				item: { count: 1, id: "simplehats:orange_hat" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 4.0d
+		}
+		{
+			id: "2F37B72EC4247CB5"
+			shape: "rsquare"
+			tasks: [{
+				id: "09EDF63BB5476357"
+				item: { count: 1, id: "simplehats:unicornhorn" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 4.0d
+		}
+		{
+			id: "77846A32CD52B016"
+			shape: "rsquare"
+			tasks: [{
+				id: "134A1C4D5FFD8553"
+				item: { count: 1, id: "simplehats:dimmahat" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 4.0d
+		}
+		{
+			id: "0004BB743B911957"
+			shape: "rsquare"
+			tasks: [{
+				id: "3A4BB01A40B78007"
+				item: { count: 1, id: "simplehats:tvhead" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 4.0d
+		}
+		{
+			id: "695D6DA86A6931D0"
+			shape: "rsquare"
+			tasks: [{
+				id: "6684169D4074942B"
+				item: { count: 1, id: "simplehats:vikinghatbeard" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 4.0d
+		}
+		{
+			id: "472FCF339A826D53"
+			shape: "rsquare"
+			tasks: [{
+				id: "62ED7D38D618B5D4"
+				item: { count: 1, id: "simplehats:goggles" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 4.0d
+		}
+		{
+			id: "6594F54E1401DC07"
+			shape: "rsquare"
+			tasks: [{
+				id: "5A5046D4D085C854"
+				item: { count: 1, id: "simplehats:bandanargb" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 6.0d
+		}
+		{
+			id: "16141A00876FA2F0"
+			shape: "rsquare"
+			tasks: [{
+				id: "215939F2BA65E4DB"
+				item: { count: 1, id: "simplehats:baseballhatrgb" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 6.0d
+		}
+		{
+			id: "499B24FC038C85F4"
+			shape: "rsquare"
+			tasks: [{
+				id: "60FB6F7C5C718BF3"
+				item: { count: 1, id: "simplehats:cowboyrgb" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 6.0d
+		}
+		{
+			id: "470B35941561A6DC"
+			shape: "rsquare"
+			tasks: [{
+				id: "5DA97F73ED6B114E"
+				item: { count: 1, id: "simplehats:fakefire" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 6.0d
+		}
+		{
+			id: "3644F7B056769C03"
+			shape: "rsquare"
+			tasks: [{
+				id: "30B5D6619EDAB3D2"
+				item: { count: 1, id: "simplehats:bluefireeye" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 6.0d
+		}
+		{
+			id: "3E0FE460DC4A197D"
+			shape: "rsquare"
+			tasks: [{
+				id: "0BE2B8485FE41139"
+				item: { count: 1, id: "simplehats:angel_and_devil" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 6.0d
+		}
+		{
+			id: "0CC6534FCBB1CEB6"
+			shape: "rsquare"
+			tasks: [{
+				id: "490373FE1F23FB65"
+				item: { count: 1, id: "simplehats:demoneyes" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 6.0d
+		}
+		{
+			id: "4AD44FA2F40A6281"
+			shape: "rsquare"
+			tasks: [{
+				id: "5AD1F788C63F421C"
+				item: { count: 1, id: "simplehats:demonhorns" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 6.0d
+		}
+		{
+			id: "6175235B2C8CDF28"
+			shape: "rsquare"
+			tasks: [{
+				id: "3580B58F01DC8F17"
+				item: { count: 1, id: "simplehats:fishing_hat" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 6.0d
+		}
+		{
+			id: "795D894C95F1942C"
+			shape: "rsquare"
+			tasks: [{
+				id: "2A0D4750CDCB46C9"
+				item: { count: 1, id: "simplehats:rgbpartyhat" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 6.0d
+		}
+		{
+			id: "6DD180DA5B95A84B"
+			shape: "rsquare"
+			tasks: [{
+				id: "6EC0456481210D00"
+				item: { count: 1, id: "simplehats:zigzagwitchhat" }
+				type: "item"
+			}]
+			x: -6.75d
+			y: 8.0d
+		}
+		{
+			id: "6B4E853CA6B43E38"
+			shape: "rsquare"
+			tasks: [{
+				id: "32361E7F5B5D2CF1"
+				item: { count: 1, id: "simplehats:jackohat" }
+				type: "item"
+			}]
+			x: -5.25d
+			y: 8.0d
+		}
+		{
+			id: "12E38E52B05B9379"
+			shape: "rsquare"
+			tasks: [{
+				id: "568B1C3D7BB221B0"
+				item: { count: 1, id: "simplehats:santaclaus" }
+				type: "item"
+			}]
+			x: -3.75d
+			y: 8.0d
+		}
+		{
+			id: "6D602978A3914B99"
+			shape: "rsquare"
+			tasks: [{
+				id: "76CD68C072481FEE"
+				item: { count: 1, id: "simplehats:elfhat" }
+				type: "item"
+			}]
+			x: -2.25d
+			y: 8.0d
+		}
+		{
+			id: "4347B01FB541215A"
+			shape: "rsquare"
+			tasks: [{
+				id: "799C32DA480DDAA3"
+				item: { count: 1, id: "simplehats:floatinghearts" }
+				type: "item"
+			}]
+			x: -0.75d
+			y: 8.0d
+		}
+		{
+			id: "7C96DD2B90CC100F"
+			shape: "rsquare"
+			tasks: [{
+				id: "3A1F89258548173D"
+				item: { count: 1, id: "simplehats:rabbitears" }
+				type: "item"
+			}]
+			x: 0.75d
+			y: 8.0d
+		}
+		{
+			id: "1FC7742A58566B70"
+			shape: "rsquare"
+			tasks: [{
+				id: "1713BBA4A025B836"
+				item: { count: 1, id: "simplehats:egghead" }
+				type: "item"
+			}]
+			x: 2.25d
+			y: 8.0d
+		}
+		{
+			id: "4872BC9CCF39B54C"
+			shape: "rsquare"
+			tasks: [{
+				id: "55303BA11829FEA0"
+				item: { count: 1, id: "simplehats:ghostmask" }
+				type: "item"
+			}]
+			x: 3.75d
+			y: 8.0d
+		}
+		{
+			id: "1CD76BE169C01ADB"
+			shape: "rsquare"
+			tasks: [{
+				id: "5B46BA18263E130F"
+				item: { count: 1, id: "simplehats:candycane" }
+				type: "item"
+			}]
+			x: 5.25d
+			y: 8.0d
+		}
+		{
+			id: "04ACFF06DCBE9342"
+			shape: "rsquare"
+			tasks: [{
+				id: "1A9C13C44E3AB793"
+				item: { count: 1, id: "simplehats:summerhat" }
+				type: "item"
+			}]
+			x: 6.75d
+			y: 8.0d
+		}
+		{
+			dependencies: [
+				"652B63D3ABB44574"
+				"4F027D4535FE226C"
+				"6A952E36E9A59E9E"
+				"69BC6766FC0165E5"
+				"52F3D90FBCE23F86"
+				"225B485A023CDF32"
+				"2861C2B8E2564754"
+				"2074BB73445870FE"
+				"1AE2439385181A01"
+				"72D602DA3FC00EE3"
+				"486055AA7511B7A3"
+				"2A33F2F7F2CD6DCD"
+				"3D6CE1FF801C7B71"
+				"124AACB879616ADF"
+				"470B35941561A6DC"
+				"3E0FE460DC4A197D"
+				"0CC6534FCBB1CEB6"
+				"4AD44FA2F40A6281"
+				"6175235B2C8CDF28"
+				"6B4E853CA6B43E38"
+				"12E38E52B05B9379"
+				"6D602978A3914B99"
+				"4347B01FB541215A"
+				"1FC7742A58566B70"
+			]
+			id: "2D4F18D92A98086E"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "33D231EB1763DC21"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 10.5d
+		}
+	]
+}

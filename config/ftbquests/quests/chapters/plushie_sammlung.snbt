@@ -6,16 +6,16 @@
 	icon: {
 		id: "plushie_buddies:plushie_cow"
 	}
-	id: "7A3E56DBF4B75792"
+	id: "69F8B8749B2C1E20"
 	images: [ ]
 	order_index: 0
 	quest_links: [ ]
 	quests: [
 		{
-			id: "42D772CEBC6189C8"
+			id: "007A6F2A01910797"
 			shape: "rsquare"
 			tasks: [{
-				id: "111358FECF345033"
+				id: "782F9F660014EB50"
 				item: { count: 1, id: "plushie_buddies:plushie_cow" }
 				type: "item"
 			}]
@@ -26,7 +26,7 @@
 			id: "23EC24C5CA590005"
 			shape: "rsquare"
 			tasks: [{
-				id: "51D8543F7D307123"
+				id: "56CA3B0CE3BC419B"
 				item: { count: 1, id: "plushie_buddies:plushie_sheep" }
 				type: "item"
 			}]
@@ -34,7 +34,7 @@
 			y: 0.0d
 		}
 		{
-			id: "415447C4AC0A3DAA"
+			id: "405F5101BFAC7C2E"
 			shape: "rsquare"
 			tasks: [{
 				id: "71EF4785E31E1A2F"
@@ -56,7 +56,7 @@
 			y: 0.0d
 		}
 		{
-			id: "5F3A87584F990EBD"
+			id: "04BA7FE88C9697FD"
 			shape: "rsquare"
 			tasks: [{
 				id: "32FD358FE35B05C4"
@@ -78,10 +78,10 @@
 			y: 0.0d
 		}
 		{
-			id: "17A3977F62FF1870"
+			id: "064F63A728568306"
 			shape: "rsquare"
 			tasks: [{
-				id: "1497C1AE1273A74A"
+				id: "3F52A3AAB7F285A8"
 				item: { count: 1, id: "plushie_buddies:plushie_bee" }
 				type: "item"
 			}]
@@ -103,7 +103,7 @@
 			id: "2B95D1F09B8B66C5"
 			shape: "rsquare"
 			tasks: [{
-				id: "4B3A30FBD747B3D3"
+				id: "16D70FB156BA1D7C"
 				item: { count: 1, id: "plushie_buddies:plushie_fox" }
 				type: "item"
 			}]
@@ -111,7 +111,7 @@
 			y: 1.5d
 		}
 		{
-			id: "069180664DA3BA21"
+			id: "4AD9F8134DDA153D"
 			shape: "rsquare"
 			tasks: [{
 				id: "03D7305CE7B3573A"
@@ -125,7 +125,7 @@
 			id: "3354E229B0B9DB2E"
 			shape: "rsquare"
 			tasks: [{
-				id: "28BE78C78052E3D0"
+				id: "50F91002E36F8A42"
 				item: { count: 1, id: "plushie_buddies:plushie_allay" }
 				type: "item"
 			}]
@@ -136,7 +136,7 @@
 			id: "12067CAD3B1276AB"
 			shape: "rsquare"
 			tasks: [{
-				id: "5593860F5AF9C8CF"
+				id: "656C46D83E78F313"
 				item: { count: 1, id: "plushie_buddies:plushie_sniffer" }
 				type: "item"
 			}]
@@ -144,7 +144,7 @@
 			y: 1.5d
 		}
 		{
-			id: "0A44A347674B9E9C"
+			id: "5273FB0F743A9381"
 			shape: "rsquare"
 			tasks: [{
 				id: "58B895F51327B047"
@@ -155,7 +155,7 @@
 			y: 1.5d
 		}
 		{
-			id: "07ADE217C070466A"
+			id: "18E6BA5D7EFAAE8D"
 			shape: "rsquare"
 			tasks: [{
 				id: "0E6BC3C4B4B90154"
@@ -166,7 +166,7 @@
 			y: 1.5d
 		}
 		{
-			id: "1FFA8095A8367150"
+			id: "11338D172FB09AFD"
 			shape: "rsquare"
 			tasks: [{
 				id: "624AE9BDD1BAEE1C"
@@ -177,10 +177,10 @@
 			y: 1.5d
 		}
 		{
-			id: "2332ACE6C4D5E782"
+			id: "1EA6B1B056597B89"
 			shape: "rsquare"
 			tasks: [{
-				id: "2DF955E10B3DECAF"
+				id: "059E2A79659D1F2F"
 				item: { count: 1, id: "plushie_buddies:plushie_rabbit" }
 				type: "item"
 			}]
@@ -202,7 +202,7 @@
 			id: "0EDA241FC65CCF35"
 			shape: "rsquare"
 			tasks: [{
-				id: "07E43AD569FEF2DD"
+				id: "1A5741F0C876D09D"
 				item: { count: 1, id: "plushie_buddies:plushie_zombie" }
 				type: "item"
 			}]
@@ -210,10 +210,10 @@
 			y: 4.0d
 		}
 		{
-			id: "6D176DFE35664480"
+			id: "7D7B3C38703122EE"
 			shape: "rsquare"
 			tasks: [{
-				id: "20A4FB7CE1EE6969"
+				id: "198012C73DCF92C4"
 				item: { count: 1, id: "plushie_buddies:plushie_skeleton" }
 				type: "item"
 			}]
@@ -221,7 +221,7 @@
 			y: 4.0d
 		}
 		{
-			id: "26F86BE8AB8D1DDA"
+			id: "66F972E12F686885"
 			shape: "rsquare"
 			tasks: [{
 				id: "239F26F664CA033B"
@@ -232,10 +232,10 @@
 			y: 4.0d
 		}
 		{
-			id: "105076CA19AAC692"
+			id: "0D88902D007A2411"
 			shape: "rsquare"
 			tasks: [{
-				id: "3C3B270D609C2162"
+				id: "4E5E923B2E39C406"
 				item: { count: 1, id: "plushie_buddies:plushie_cave_spider" }
 				type: "item"
 			}]
@@ -246,7 +246,7 @@
 			id: "099D51C63408060A"
 			shape: "rsquare"
 			tasks: [{
-				id: "4D3E53234B0B0EFE"
+				id: "50046045960D87A4"
 				item: { count: 1, id: "plushie_buddies:plushie_enderman" }
 				type: "item"
 			}]
@@ -254,10 +254,10 @@
 			y: 4.0d
 		}
 		{
-			id: "6405BA5EEBED87C0"
+			id: "4BEA34C796D9691C"
 			shape: "rsquare"
 			tasks: [{
-				id: "020D59D70A56A3C2"
+				id: "4C542827A89A744E"
 				item: { count: 1, id: "plushie_buddies:plushie_slime" }
 				type: "item"
 			}]
@@ -268,7 +268,7 @@
 			id: "4BF5348E602347AD"
 			shape: "rsquare"
 			tasks: [{
-				id: "72E60E3D1580B7EF"
+				id: "4BE98AE61616A922"
 				item: { count: 1, id: "plushie_buddies:plushie_witch" }
 				type: "item"
 			}]
@@ -291,7 +291,7 @@
 			shape: "rsquare"
 			tasks: [{
 				id: "5AE0987D31E5B64A"
-				item: { count: 1, id: "plushie_buddies:plushie_ravanger" }
+				item: { components: { "ftbquests:missing_item": "plushie_buddies:plushie_ravager" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -3.0d
@@ -301,7 +301,7 @@
 			id: "5BEFBC6CB0780289"
 			shape: "rsquare"
 			tasks: [{
-				id: "079119AB31E20842"
+				id: "0374CE17580350FF"
 				item: { count: 1, id: "plushie_buddies:plushie_piglin" }
 				type: "item"
 			}]
@@ -312,7 +312,7 @@
 			id: "7CB0CF14337B36B9"
 			shape: "rsquare"
 			tasks: [{
-				id: "28FAB842CE31CEAC"
+				id: "0C539B77CB0B4864"
 				item: { count: 1, id: "plushie_buddies:plushie_ghast" }
 				type: "item"
 			}]
@@ -320,10 +320,10 @@
 			y: 5.5d
 		}
 		{
-			id: "459803D9FC4B8DB5"
+			id: "6C19D6508A6114D5"
 			shape: "rsquare"
 			tasks: [{
-				id: "1575B09764F849EE"
+				id: "488E03B1BC2EA592"
 				item: { count: 1, id: "plushie_buddies:plushie_blaze" }
 				type: "item"
 			}]
@@ -334,7 +334,7 @@
 			id: "3F2E1DD234A05B6B"
 			shape: "rsquare"
 			tasks: [{
-				id: "67D33BF8DC413881"
+				id: "11494A32A418AAD4"
 				item: { count: 1, id: "plushie_buddies:plushie_wither_skeleton" }
 				type: "item"
 			}]
@@ -345,7 +345,7 @@
 			id: "170E46BF5E0CAFAB"
 			shape: "rsquare"
 			tasks: [{
-				id: "369F12AA013B20E4"
+				id: "7FEA51799DC90F66"
 				item: { count: 1, id: "plushie_buddies:plushie_warden" }
 				type: "item"
 			}]
@@ -353,18 +353,18 @@
 			y: 5.5d
 		}
 		{
-			id: "65040A9D5372482C"
+			id: "75E2BB4D4A3BBAAC"
 			shape: "rsquare"
 			tasks: [{
-				id: "116574F57A7D5775"
-				item: { count: 1, id: "plushie_buddies:plushie_enderdragon" }
+				id: "03ED22D0F91A6216"
+				item: { components: { "ftbquests:missing_item": "plushie_buddies:plushie_ender_dragon" }, count: 1, id: "ftbquests:missing_item" }
 				type: "item"
 			}]
 			x: -1.5d
 			y: 8.0d
 		}
 		{
-			id: "7983452168ACEA24"
+			id: "39778BA2BA0EB7F3"
 			shape: "rsquare"
 			tasks: [{
 				id: "650DA572D177A4DB"
@@ -378,7 +378,7 @@
 			id: "4D85799EF494E9F6"
 			shape: "rsquare"
 			tasks: [{
-				id: "46EB4F9A44148950"
+				id: "1267622E4D5DE417"
 				item: { count: 1, id: "plushie_buddies:plushie_elder_guardian" }
 				type: "item"
 			}]
@@ -406,11 +406,11 @@
 				"170E46BF5E0CAFAB"
 				"4D85799EF494E9F6"
 			]
-			id: "0B1A101D3F44A9E3"
+			id: "5D8106CA066A0334"
 			shape: "octagon"
 			size: 1.5d
 			tasks: [{
-				id: "760FEABFF5F1D86D"
+				id: "15B5CA9B1F6C2217"
 				type: "checkmark"
 			}]
 			x: 0.0d

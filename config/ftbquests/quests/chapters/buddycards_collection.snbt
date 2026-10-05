@@ -1,0 +1,1389 @@
+{
+	default_hide_dependency_lines: true
+	default_quest_shape: "rsquare"
+	filename: "buddycards_collection"
+	group: "00E2BF19CCCA360D"
+	icon: {
+		id: "buddycards:buddycard_base1"
+	}
+	id: "7A3E56DBF4B75792"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4D3671CAB42D5408"
+			shape: "rsquare"
+			tasks: [{
+				id: "4428FC8ECDDE589F"
+				item: { count: 1, id: "buddycards:buddycard_base1" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "70C5DA4FCA8391FD"
+			shape: "rsquare"
+			tasks: [{
+				id: "0C030F947F9F22AE"
+				item: { count: 1, id: "buddycards:buddycard_base2" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "1A02B8A52496E904"
+			shape: "rsquare"
+			tasks: [{
+				id: "55668676A0CC3BDD"
+				item: { count: 1, id: "buddycards:buddycard_base3" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "6EA1F2A0A7E20929"
+			shape: "rsquare"
+			tasks: [{
+				id: "4C3715A81D41BC74"
+				item: { count: 1, id: "buddycards:buddycard_base4" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "40CA9493B95ECE30"
+			shape: "rsquare"
+			tasks: [{
+				id: "36C6CFA3116017ED"
+				item: { count: 1, id: "buddycards:buddycard_base5" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "668A84BC98334E9D"
+			shape: "rsquare"
+			tasks: [{
+				id: "1E30B51BF48E8DFC"
+				item: { count: 1, id: "buddycards:buddycard_base6" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "2627398F93231CDE"
+			shape: "rsquare"
+			tasks: [{
+				id: "36AA0762BC2F934C"
+				item: { count: 1, id: "buddycards:buddycard_base7" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "134323E9F06A9B03"
+			shape: "rsquare"
+			tasks: [{
+				id: "0A091D55CD4F01B3"
+				item: { count: 1, id: "buddycards:buddycard_base8" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "102D0BB93DC657CD"
+			shape: "rsquare"
+			tasks: [{
+				id: "30020158703D7586"
+				item: { count: 1, id: "buddycards:buddycard_base9" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			id: "3D8B036B1BC8D5B0"
+			shape: "rsquare"
+			tasks: [{
+				id: "7A88B85EC9ED60FB"
+				item: { count: 1, id: "buddycards:buddycard_base10" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			id: "56AAA0A7D3C74023"
+			shape: "rsquare"
+			tasks: [{
+				id: "2A984792505B4782"
+				item: { count: 1, id: "buddycards:buddycard_base11" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			id: "42C77EEBC988F585"
+			shape: "rsquare"
+			tasks: [{
+				id: "21E193E256DE5E46"
+				item: { count: 1, id: "buddycards:buddycard_base12" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			id: "3994D4284131D5B3"
+			shape: "rsquare"
+			tasks: [{
+				id: "60B96589B01223D2"
+				item: { count: 1, id: "buddycards:buddycard_base13" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "0CA314F670C95D39"
+			shape: "rsquare"
+			tasks: [{
+				id: "20D7B8F607BCDEF8"
+				item: { count: 1, id: "buddycards:buddycard_base14" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "0CD15A3E202865D9"
+			shape: "rsquare"
+			tasks: [{
+				id: "2A5B3BE61BD21DEF"
+				item: { count: 1, id: "buddycards:buddycard_base15" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "70410CE01FC6A5FF"
+			shape: "rsquare"
+			tasks: [{
+				id: "4F606D5E5BE4CCFC"
+				item: { count: 1, id: "buddycards:buddycard_base16" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			id: "79AA214FF7C79236"
+			shape: "rsquare"
+			tasks: [{
+				id: "491D52BA11A09132"
+				item: { count: 1, id: "buddycards:buddycard_base17" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			id: "1B1FB5A4FCC41377"
+			shape: "rsquare"
+			tasks: [{
+				id: "2E2E4DB3CC13C2CB"
+				item: { count: 1, id: "buddycards:buddycard_base18" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			id: "081EA5085DE78FB3"
+			shape: "rsquare"
+			tasks: [{
+				id: "1A722772488C4A4B"
+				item: { count: 1, id: "buddycards:buddycard_base19" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			id: "33DAA1FFB08D6EE6"
+			shape: "rsquare"
+			tasks: [{
+				id: "0A1E85CBB143DF34"
+				item: { count: 1, id: "buddycards:buddycard_base20" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.0d
+		}
+		{
+			id: "4233812FEF2AD559"
+			shape: "rsquare"
+			tasks: [{
+				id: "1B69D93DEE038165"
+				item: { count: 1, id: "buddycards:buddycard_base21" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.0d
+		}
+		{
+			id: "276E5750C1681AFD"
+			shape: "rsquare"
+			tasks: [{
+				id: "67A6BCA0DEDA32C0"
+				item: { count: 1, id: "buddycards:buddycard_base22" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 3.0d
+		}
+		{
+			id: "428F79D5B0B44F7E"
+			shape: "rsquare"
+			tasks: [{
+				id: "710FC85B4F8A6A08"
+				item: { count: 1, id: "buddycards:buddycard_base23" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "75C452EA35654C75"
+			shape: "rsquare"
+			tasks: [{
+				id: "5D62ED0B1205ECD0"
+				item: { count: 1, id: "buddycards:buddycard_base24" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			id: "25A4137477A0F064"
+			shape: "rsquare"
+			tasks: [{
+				id: "45C4825C686C67F1"
+				item: { count: 1, id: "buddycards:buddycard_base25" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "68A3D6DF4AAC659F"
+			shape: "rsquare"
+			tasks: [{
+				id: "09EAB1E28137203F"
+				item: { count: 1, id: "buddycards:buddycard_base26" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			id: "3ABE7911395C3978"
+			shape: "rsquare"
+			tasks: [{
+				id: "19F82E7EDE9558F3"
+				item: { count: 1, id: "buddycards:buddycard_base27" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			id: "44F1A21982DAA6D1"
+			shape: "rsquare"
+			tasks: [{
+				id: "7AAD6FE7BB2D1F9C"
+				item: { count: 1, id: "buddycards:buddycard_base28" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			id: "6ABD032936BB20F8"
+			shape: "rsquare"
+			tasks: [{
+				id: "6C40DFDBCA71BEC8"
+				item: { count: 1, id: "buddycards:buddycard_base29" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			id: "44A280456A01519D"
+			shape: "rsquare"
+			tasks: [{
+				id: "1D1D3E043D9069F6"
+				item: { count: 1, id: "buddycards:buddycard_base30" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			id: "0056C09824CACACF"
+			shape: "rsquare"
+			tasks: [{
+				id: "26E725CFC41F1CAF"
+				item: { count: 1, id: "buddycards:buddycard_base31" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 4.5d
+		}
+		{
+			id: "24C7A58BE556C950"
+			shape: "rsquare"
+			tasks: [{
+				id: "703E791A8CBFB37C"
+				item: { count: 1, id: "buddycards:buddycard_base32" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "4FE6A12C28094851"
+			shape: "rsquare"
+			tasks: [{
+				id: "3216D35737DDB2EF"
+				item: { count: 1, id: "buddycards:buddycard_base33" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 4.5d
+		}
+		{
+			id: "50034547866025B5"
+			shape: "rsquare"
+			tasks: [{
+				id: "25EB94964EF9CCE7"
+				item: { count: 1, id: "buddycards:buddycard_base34" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			id: "5F7FC39260E531C8"
+			shape: "rsquare"
+			tasks: [{
+				id: "5657B5EE668763D6"
+				item: { count: 1, id: "buddycards:buddycard_base35" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 4.5d
+		}
+		{
+			id: "3202EC716C90168E"
+			shape: "rsquare"
+			tasks: [{
+				id: "7D11027464126327"
+				item: { count: 1, id: "buddycards:buddycard_base36" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.5d
+		}
+		{
+			id: "7AA0DA2BC474D5BA"
+			shape: "rsquare"
+			tasks: [{
+				id: "5FA8410323FE0795"
+				item: { count: 1, id: "buddycards:buddycard_cave1" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			id: "0E48AA5CB0292912"
+			shape: "rsquare"
+			tasks: [{
+				id: "30682D81B797F120"
+				item: { count: 1, id: "buddycards:buddycard_cave2" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 7.0d
+		}
+		{
+			id: "48361C103982AA02"
+			shape: "rsquare"
+			tasks: [{
+				id: "1A2B947438788792"
+				item: { count: 1, id: "buddycards:buddycard_cave3" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 7.0d
+		}
+		{
+			id: "1ACAA0AB632CCD95"
+			shape: "rsquare"
+			tasks: [{
+				id: "5B0B25B60BA695B1"
+				item: { count: 1, id: "buddycards:buddycard_cave4" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 7.0d
+		}
+		{
+			id: "5C2D0522E83A8987"
+			shape: "rsquare"
+			tasks: [{
+				id: "51B847F71C9B3358"
+				item: { count: 1, id: "buddycards:buddycard_cave5" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.0d
+		}
+		{
+			id: "0A2D5D3560CE65DD"
+			shape: "rsquare"
+			tasks: [{
+				id: "33D37082A0587954"
+				item: { count: 1, id: "buddycards:buddycard_cave6" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			id: "09C50A6F29C0451D"
+			shape: "rsquare"
+			tasks: [{
+				id: "3660A849A1DBEBBE"
+				item: { count: 1, id: "buddycards:buddycard_cave7" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 7.0d
+		}
+		{
+			id: "7F422740F209E545"
+			shape: "rsquare"
+			tasks: [{
+				id: "712F0E721EC3F1E0"
+				item: { count: 1, id: "buddycards:buddycard_cave8" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 7.0d
+		}
+		{
+			id: "55CB38320103685C"
+			shape: "rsquare"
+			tasks: [{
+				id: "69B1270CC3D18B9E"
+				item: { count: 1, id: "buddycards:buddycard_cave9" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 7.0d
+		}
+		{
+			id: "146C258BDA6EE52D"
+			shape: "rsquare"
+			tasks: [{
+				id: "345AE9AA3CD5F5D9"
+				item: { count: 1, id: "buddycards:buddycard_cave10" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 8.5d
+		}
+		{
+			id: "35856A7284F28B88"
+			shape: "rsquare"
+			tasks: [{
+				id: "2A247092CD8B8EF9"
+				item: { count: 1, id: "buddycards:buddycard_cave11" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 8.5d
+		}
+		{
+			id: "372FA6C943A87396"
+			shape: "rsquare"
+			tasks: [{
+				id: "4612BB00DA986772"
+				item: { count: 1, id: "buddycards:buddycard_cave12" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 8.5d
+		}
+		{
+			id: "5EE6C1059B243DDC"
+			shape: "rsquare"
+			tasks: [{
+				id: "10E3482C2957C702"
+				item: { count: 1, id: "buddycards:buddycard_cave13" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 8.5d
+		}
+		{
+			id: "4163D5BE5F0C7A3D"
+			shape: "rsquare"
+			tasks: [{
+				id: "06F469FA522ECE35"
+				item: { count: 1, id: "buddycards:buddycard_cave14" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			id: "48CE94652F40E5CD"
+			shape: "rsquare"
+			tasks: [{
+				id: "5383518749EE2C27"
+				item: { count: 1, id: "buddycards:buddycard_cave15" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			id: "7834DB7FBF12FC22"
+			shape: "rsquare"
+			tasks: [{
+				id: "0F9F879406D6B79C"
+				item: { count: 1, id: "buddycards:buddycard_cave16" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 8.5d
+		}
+		{
+			id: "62F6E67BAAF1E933"
+			shape: "rsquare"
+			tasks: [{
+				id: "6C61F9B59A2A5D09"
+				item: { count: 1, id: "buddycards:buddycard_cave17" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 8.5d
+		}
+		{
+			id: "42960F6625187CA9"
+			shape: "rsquare"
+			tasks: [{
+				id: "3F10FA9FCBDE97D1"
+				item: { count: 1, id: "buddycards:buddycard_cave18" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 8.5d
+		}
+		{
+			id: "773C26B90D101D09"
+			shape: "rsquare"
+			tasks: [{
+				id: "57409F92B74A059B"
+				item: { count: 1, id: "buddycards:buddycard_cave19" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 10.0d
+		}
+		{
+			id: "1246A86873019F0F"
+			shape: "rsquare"
+			tasks: [{
+				id: "39DA648359EF4BC2"
+				item: { count: 1, id: "buddycards:buddycard_cave20" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 10.0d
+		}
+		{
+			id: "6CC338615C51EDB3"
+			shape: "rsquare"
+			tasks: [{
+				id: "736DB7CF97F66B7E"
+				item: { count: 1, id: "buddycards:buddycard_cave21" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 10.0d
+		}
+		{
+			id: "30A081AB6504E538"
+			shape: "rsquare"
+			tasks: [{
+				id: "5177C9142706CAFC"
+				item: { count: 1, id: "buddycards:buddycard_cave22" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 10.0d
+		}
+		{
+			id: "27EEA20EFC1FDAFB"
+			shape: "rsquare"
+			tasks: [{
+				id: "70433BFE1A33BDB3"
+				item: { count: 1, id: "buddycards:buddycard_cave23" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+		{
+			id: "63150DE35A7ED1A1"
+			shape: "rsquare"
+			tasks: [{
+				id: "1DD7D22EA3563308"
+				item: { count: 1, id: "buddycards:buddycard_cave24" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 10.0d
+		}
+		{
+			id: "629AD9F3DEA091DB"
+			shape: "rsquare"
+			tasks: [{
+				id: "771B1684F88BD4CB"
+				item: { count: 1, id: "buddycards:buddycard_cave25" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 10.0d
+		}
+		{
+			id: "1B6ADC3259ACD7E8"
+			shape: "rsquare"
+			tasks: [{
+				id: "23A3568E70A5944F"
+				item: { count: 1, id: "buddycards:buddycard_cave26" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 10.0d
+		}
+		{
+			id: "7091F8DAD1D0A80C"
+			shape: "rsquare"
+			tasks: [{
+				id: "494FBCF3C2A0F4CB"
+				item: { count: 1, id: "buddycards:buddycard_cave27" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			id: "0500A22A84F2369D"
+			shape: "rsquare"
+			tasks: [{
+				id: "7419925CBF619EF0"
+				item: { count: 1, id: "buddycards:buddycard_nether1" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 12.5d
+		}
+		{
+			id: "5B8ACA993C76D4DF"
+			shape: "rsquare"
+			tasks: [{
+				id: "1BED3A964571B773"
+				item: { count: 1, id: "buddycards:buddycard_nether2" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 12.5d
+		}
+		{
+			id: "2920824CFD0C3B5E"
+			shape: "rsquare"
+			tasks: [{
+				id: "4F5D6977EC12B2E6"
+				item: { count: 1, id: "buddycards:buddycard_nether3" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 12.5d
+		}
+		{
+			id: "7883687F2CCB83CD"
+			shape: "rsquare"
+			tasks: [{
+				id: "50636F2322293130"
+				item: { count: 1, id: "buddycards:buddycard_nether4" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 12.5d
+		}
+		{
+			id: "76935BD4AC87B0C5"
+			shape: "rsquare"
+			tasks: [{
+				id: "474490F9B22BC869"
+				item: { count: 1, id: "buddycards:buddycard_nether5" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			id: "38BD81234C189906"
+			shape: "rsquare"
+			tasks: [{
+				id: "3E8B933FBA5E7BB2"
+				item: { count: 1, id: "buddycards:buddycard_nether6" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 12.5d
+		}
+		{
+			id: "62C34941ECE44373"
+			shape: "rsquare"
+			tasks: [{
+				id: "292CCBCF4B919D04"
+				item: { count: 1, id: "buddycards:buddycard_nether7" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 12.5d
+		}
+		{
+			id: "56B7869B81CA9249"
+			shape: "rsquare"
+			tasks: [{
+				id: "1E4408206298132A"
+				item: { count: 1, id: "buddycards:buddycard_nether8" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 12.5d
+		}
+		{
+			id: "6FFF8F28016F3D84"
+			shape: "rsquare"
+			tasks: [{
+				id: "2B8AA5440333AD5B"
+				item: { count: 1, id: "buddycards:buddycard_nether9" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 12.5d
+		}
+		{
+			id: "4C00395339D8C8CC"
+			shape: "rsquare"
+			tasks: [{
+				id: "1DABCE7D10174492"
+				item: { count: 1, id: "buddycards:buddycard_nether10" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 14.0d
+		}
+		{
+			id: "79F4D7646788965A"
+			shape: "rsquare"
+			tasks: [{
+				id: "48798A7D9903F746"
+				item: { count: 1, id: "buddycards:buddycard_nether11" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 14.0d
+		}
+		{
+			id: "43CAD295D591C1AB"
+			shape: "rsquare"
+			tasks: [{
+				id: "6A26BBF343B3650F"
+				item: { count: 1, id: "buddycards:buddycard_nether12" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 14.0d
+		}
+		{
+			id: "3609D4C2931B904B"
+			shape: "rsquare"
+			tasks: [{
+				id: "2CA492BCF937B22D"
+				item: { count: 1, id: "buddycards:buddycard_nether13" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 14.0d
+		}
+		{
+			id: "2F227347F834DD87"
+			shape: "rsquare"
+			tasks: [{
+				id: "5947D4D95EFE1F32"
+				item: { count: 1, id: "buddycards:buddycard_nether14" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+		{
+			id: "6205569E1E696972"
+			shape: "rsquare"
+			tasks: [{
+				id: "0718D60DFD388D76"
+				item: { count: 1, id: "buddycards:buddycard_nether15" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 14.0d
+		}
+		{
+			id: "1B39C7A5AB42C9E5"
+			shape: "rsquare"
+			tasks: [{
+				id: "0C0BAFFDEDFEBB3A"
+				item: { count: 1, id: "buddycards:buddycard_nether16" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 14.0d
+		}
+		{
+			id: "711FAFA0D7972A95"
+			shape: "rsquare"
+			tasks: [{
+				id: "0FB91C2D0FC027EB"
+				item: { count: 1, id: "buddycards:buddycard_nether17" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 14.0d
+		}
+		{
+			id: "649F7C1C921368D7"
+			shape: "rsquare"
+			tasks: [{
+				id: "5377EC3D4EA513E2"
+				item: { count: 1, id: "buddycards:buddycard_nether18" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 14.0d
+		}
+		{
+			id: "0C3CBBD9C01AC2B7"
+			shape: "rsquare"
+			tasks: [{
+				id: "198141EDFB624C8D"
+				item: { count: 1, id: "buddycards:buddycard_nether19" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 15.5d
+		}
+		{
+			id: "1F2DD999B6EBCE55"
+			shape: "rsquare"
+			tasks: [{
+				id: "0988BDDA8ABBC1A4"
+				item: { count: 1, id: "buddycards:buddycard_nether20" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 15.5d
+		}
+		{
+			id: "33D4FD31A5B89C61"
+			shape: "rsquare"
+			tasks: [{
+				id: "3A923BE2A1AFD9BE"
+				item: { count: 1, id: "buddycards:buddycard_nether21" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 15.5d
+		}
+		{
+			id: "00AA589A06696317"
+			shape: "rsquare"
+			tasks: [{
+				id: "46BB70F7FC512F05"
+				item: { count: 1, id: "buddycards:buddycard_nether22" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 15.5d
+		}
+		{
+			id: "34B5A54298915D35"
+			shape: "rsquare"
+			tasks: [{
+				id: "65509452A2AF51E5"
+				item: { count: 1, id: "buddycards:buddycard_nether23" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.5d
+		}
+		{
+			id: "2C07FB3E05AA0405"
+			shape: "rsquare"
+			tasks: [{
+				id: "1AC07E841A64A59E"
+				item: { count: 1, id: "buddycards:buddycard_nether24" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 15.5d
+		}
+		{
+			id: "09451DD67CAA36A0"
+			shape: "rsquare"
+			tasks: [{
+				id: "1502D66C3F1E73D3"
+				item: { count: 1, id: "buddycards:buddycard_nether25" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 15.5d
+		}
+		{
+			id: "3B5220FF12545A92"
+			shape: "rsquare"
+			tasks: [{
+				id: "53409F8AAF479606"
+				item: { count: 1, id: "buddycards:buddycard_nether26" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 15.5d
+		}
+		{
+			id: "68AF62C4EF3634B7"
+			shape: "rsquare"
+			tasks: [{
+				id: "524FBA2DEBB35C66"
+				item: { count: 1, id: "buddycards:buddycard_nether27" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 15.5d
+		}
+		{
+			id: "5336C3A81D4345DB"
+			shape: "rsquare"
+			tasks: [{
+				id: "7B7033F075B60647"
+				item: { count: 1, id: "buddycards:buddycard_end1" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 18.0d
+		}
+		{
+			id: "2190AA4637263339"
+			shape: "rsquare"
+			tasks: [{
+				id: "33A958B91E57165A"
+				item: { count: 1, id: "buddycards:buddycard_end2" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 18.0d
+		}
+		{
+			id: "615F561CC0CA8481"
+			shape: "rsquare"
+			tasks: [{
+				id: "1976077F92BDEB2A"
+				item: { count: 1, id: "buddycards:buddycard_end3" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 18.0d
+		}
+		{
+			id: "268E2A5D563153D1"
+			shape: "rsquare"
+			tasks: [{
+				id: "5F1DA54A51147A3F"
+				item: { count: 1, id: "buddycards:buddycard_end4" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 18.0d
+		}
+		{
+			id: "5F0CD1E9A7129824"
+			shape: "rsquare"
+			tasks: [{
+				id: "0AB123D953628293"
+				item: { count: 1, id: "buddycards:buddycard_end5" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			id: "34EA33270E3DA472"
+			shape: "rsquare"
+			tasks: [{
+				id: "181BAB0FB284C3B4"
+				item: { count: 1, id: "buddycards:buddycard_end6" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 18.0d
+		}
+		{
+			id: "2D14936707735460"
+			shape: "rsquare"
+			tasks: [{
+				id: "31A6F72ED12EB83D"
+				item: { count: 1, id: "buddycards:buddycard_end7" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 18.0d
+		}
+		{
+			id: "2CBF56E607216D58"
+			shape: "rsquare"
+			tasks: [{
+				id: "1357065D1A0632FF"
+				item: { count: 1, id: "buddycards:buddycard_end8" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 18.0d
+		}
+		{
+			id: "43C7B648EAED15AF"
+			shape: "rsquare"
+			tasks: [{
+				id: "02A8049A6B9E20F3"
+				item: { count: 1, id: "buddycards:buddycard_end9" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			id: "59CFF2EA408E66C7"
+			shape: "rsquare"
+			tasks: [{
+				id: "2ED1F66F0FCABACA"
+				item: { count: 1, id: "buddycards:buddycard_end10" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 19.5d
+		}
+		{
+			id: "3BB44242F2BABB21"
+			shape: "rsquare"
+			tasks: [{
+				id: "57CB7A7342EBC366"
+				item: { count: 1, id: "buddycards:buddycard_end11" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 19.5d
+		}
+		{
+			id: "43FAA8E99F6572C8"
+			shape: "rsquare"
+			tasks: [{
+				id: "06EB7CC16659726F"
+				item: { count: 1, id: "buddycards:buddycard_end12" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 19.5d
+		}
+		{
+			id: "36621FDD2C16015F"
+			shape: "rsquare"
+			tasks: [{
+				id: "4A94782A9E67FA70"
+				item: { count: 1, id: "buddycards:buddycard_end13" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 19.5d
+		}
+		{
+			id: "5769B4E80128C117"
+			shape: "rsquare"
+			tasks: [{
+				id: "58E4645B416426B3"
+				item: { count: 1, id: "buddycards:buddycard_end14" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 19.5d
+		}
+		{
+			id: "3907F1C903557D28"
+			shape: "rsquare"
+			tasks: [{
+				id: "431F864E6D8B0A45"
+				item: { count: 1, id: "buddycards:buddycard_end15" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 19.5d
+		}
+		{
+			id: "69D71B4485784FD8"
+			shape: "rsquare"
+			tasks: [{
+				id: "7A6AE89BE7897B91"
+				item: { count: 1, id: "buddycards:buddycard_end16" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			id: "4BAC3EA190CEC9D6"
+			shape: "rsquare"
+			tasks: [{
+				id: "00BE121E9D7FC054"
+				item: { count: 1, id: "buddycards:buddycard_end17" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 19.5d
+		}
+		{
+			id: "44944054A5291FF8"
+			shape: "rsquare"
+			tasks: [{
+				id: "6FBBA22017F5C099"
+				item: { count: 1, id: "buddycards:buddycard_end18" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 19.5d
+		}
+		{
+			id: "03CB377797257D0F"
+			shape: "rsquare"
+			tasks: [{
+				id: "28EB02EE0DB84D53"
+				item: { count: 1, id: "buddycards:buddycard_end19" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 21.0d
+		}
+		{
+			id: "54D9B8A8394DD301"
+			shape: "rsquare"
+			tasks: [{
+				id: "6A800A3467B10945"
+				item: { count: 1, id: "buddycards:buddycard_end20" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: 21.0d
+		}
+		{
+			id: "2B851FEDDF5A640D"
+			shape: "rsquare"
+			tasks: [{
+				id: "5CDF2299E1F970C9"
+				item: { count: 1, id: "buddycards:buddycard_end21" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 21.0d
+		}
+		{
+			id: "131E9A9893762FA1"
+			shape: "rsquare"
+			tasks: [{
+				id: "0EEC006649BABEC5"
+				item: { count: 1, id: "buddycards:buddycard_end22" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 21.0d
+		}
+		{
+			id: "0EB911ECBBF6CA54"
+			shape: "rsquare"
+			tasks: [{
+				id: "1833F58B7A2EEB5B"
+				item: { count: 1, id: "buddycards:buddycard_end23" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			id: "7AB5EC7617D41BBB"
+			shape: "rsquare"
+			tasks: [{
+				id: "7F4A38EC4AC802F7"
+				item: { count: 1, id: "buddycards:buddycard_end24" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 21.0d
+		}
+		{
+			id: "61A881BB2081C25D"
+			shape: "rsquare"
+			tasks: [{
+				id: "62B163A4269D6A5E"
+				item: { count: 1, id: "buddycards:buddycard_end25" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: 21.0d
+		}
+		{
+			id: "1C22AAEA5155E54A"
+			shape: "rsquare"
+			tasks: [{
+				id: "57626B0E3CDC8C4E"
+				item: { count: 1, id: "buddycards:buddycard_end26" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: 21.0d
+		}
+		{
+			id: "670151964010DC65"
+			shape: "rsquare"
+			tasks: [{
+				id: "7B8B5F13EC8BC34C"
+				item: { count: 1, id: "buddycards:buddycard_end27" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 21.0d
+		}
+		{
+			dependencies: [
+				"4D3671CAB42D5408"
+				"40CA9493B95ECE30"
+				"2627398F93231CDE"
+				"134323E9F06A9B03"
+				"102D0BB93DC657CD"
+				"3D8B036B1BC8D5B0"
+				"42C77EEBC988F585"
+				"0CA314F670C95D39"
+				"0CD15A3E202865D9"
+				"081EA5085DE78FB3"
+				"33DAA1FFB08D6EE6"
+				"4233812FEF2AD559"
+				"276E5750C1681AFD"
+				"75C452EA35654C75"
+				"25A4137477A0F064"
+				"68A3D6DF4AAC659F"
+				"6ABD032936BB20F8"
+				"44A280456A01519D"
+				"4FE6A12C28094851"
+				"50034547866025B5"
+				"5F7FC39260E531C8"
+				"3202EC716C90168E"
+				"7AA0DA2BC474D5BA"
+				"0E48AA5CB0292912"
+				"48361C103982AA02"
+				"0A2D5D3560CE65DD"
+				"55CB38320103685C"
+				"146C258BDA6EE52D"
+				"372FA6C943A87396"
+				"5EE6C1059B243DDC"
+				"4163D5BE5F0C7A3D"
+				"62F6E67BAAF1E933"
+				"42960F6625187CA9"
+				"773C26B90D101D09"
+				"6CC338615C51EDB3"
+				"30A081AB6504E538"
+				"63150DE35A7ED1A1"
+				"629AD9F3DEA091DB"
+				"1B6ADC3259ACD7E8"
+				"7091F8DAD1D0A80C"
+				"0500A22A84F2369D"
+				"5B8ACA993C76D4DF"
+				"76935BD4AC87B0C5"
+				"62C34941ECE44373"
+				"56B7869B81CA9249"
+				"79F4D7646788965A"
+				"43CAD295D591C1AB"
+				"3609D4C2931B904B"
+				"2F227347F834DD87"
+				"6205569E1E696972"
+				"1B39C7A5AB42C9E5"
+				"649F7C1C921368D7"
+				"33D4FD31A5B89C61"
+				"00AA589A06696317"
+				"34B5A54298915D35"
+				"2C07FB3E05AA0405"
+				"09451DD67CAA36A0"
+				"68AF62C4EF3634B7"
+				"5336C3A81D4345DB"
+				"615F561CC0CA8481"
+				"268E2A5D563153D1"
+				"34EA33270E3DA472"
+				"2D14936707735460"
+				"2CBF56E607216D58"
+				"59CFF2EA408E66C7"
+				"3BB44242F2BABB21"
+				"5769B4E80128C117"
+				"3907F1C903557D28"
+				"69D71B4485784FD8"
+				"54D9B8A8394DD301"
+				"2B851FEDDF5A640D"
+				"131E9A9893762FA1"
+				"1C22AAEA5155E54A"
+				"670151964010DC65"
+			]
+			id: "4F883B1405369570"
+			shape: "octagon"
+			size: 1.5d
+			tasks: [{
+				id: "69F26DAD63EB5FBB"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 23.5d
+		}
+	]
+}
