@@ -5,7 +5,7 @@
 	# Default: -0.0
 	# Range: -1.0 ~ 1.0
 	economicScaling = -0.0
-	#At what building level can the Marketplace mint coins?
+	#At what building level can the Marketplace withdraw coins?
 	mintingLevel = 2
 	#How long before visitors will consider shopping again?
 	shoppingCooldown = 400

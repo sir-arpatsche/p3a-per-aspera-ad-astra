@@ -12,7 +12,7 @@ LootJS.modifiers(event => {
     'minecraft:piglin_brute'
   ]
 
-  var TOTAL_CHANCE = 0.10
+  var TOTAL_CHANCE = 0.05
 
   var insignias = [
     'pmmo_classes:class_grant[pmmo_skill_books:skill_grant_data={application_type:"set",application_value:1L,color:"red",experience_cost:20,name:"pmmo_classes.insignia.iron.warrior",rank:"iron",skills:["barbarian","fighter","monk"],texture_type:"insignia"}]',

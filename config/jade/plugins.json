@@ -59,24 +59,11 @@
     "entity": true,
     "entity_variant": true
   },
-  "mcjadecrops": {
-    "crop_stage": true
+  "create_aeronautics_automated_logistics": {
+    "logistics_identity": true
   },
   "ftbquests": {
     "barrier": true
-  },
-  "quark": {
-    "oretoise_eating_cooldown": true
-  },
-  "jadecolonies": {
-    "colony.citizens": true,
-    "colony.pack": true,
-    "colony.visitor_cost": true,
-    "colony.colonist": true,
-    "domum.materials": true
-  },
-  "supplementaries": {
-    "hat_stand": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -92,14 +79,30 @@
   "create_mob_spawners": {
     "spawner_progress": true
   },
-  "waystones": {
-    "waystone": true
-  },
   "balm": {
     "jade": true
   },
   "functionalstorage": {
     "armory": true,
     "drawer": true
+  },
+  "mcjadecrops": {
+    "crop_stage": true
+  },
+  "quark": {
+    "oretoise_eating_cooldown": true
+  },
+  "jadecolonies": {
+    "colony.citizens": true,
+    "colony.pack": true,
+    "colony.visitor_cost": true,
+    "colony.colonist": true,
+    "domum.materials": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
   }
 }

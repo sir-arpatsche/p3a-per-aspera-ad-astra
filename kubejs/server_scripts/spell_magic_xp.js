@@ -18,13 +18,13 @@ ISSEvents.spellOnCast(event => {
 
     var xpAmount
     if (spellLevel >= 9) {
-      xpAmount = 100 // Legendary
+      xpAmount = 50 // Legendary
     } else if (spellLevel >= 7) {
-      xpAmount = 75 // Epic
+      xpAmount = 25 // Epic
     } else if (spellLevel >= 4) {
-      xpAmount = 50 // Rare
+      xpAmount = 15 // Rare
     } else {
-      xpAmount = 25 // Uncommon (Level 1-3)
+      xpAmount = 5 // Uncommon (Level 1-3)
     }
 
     APIUtils.addXp('magic', player, xpAmount)
