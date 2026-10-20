@@ -37,6 +37,8 @@
 	# Default: 2.0
 	# Range: 1.0 ~ 100.0
 	subscriptionPriceMultiplier = 2.0
+	#Allow Marketplace Rare Finds, retained searches, and subscriptions.
+	rareFindsEnabled = true
 
 [incentives]
 	#‡ charged per boosted citizen skill point per pay cycle.
@@ -75,6 +77,10 @@
 	flawlessRecycling = 50
 	#Frequency of warehouse inventory updates in Colony Ticks (processor intensive).
 	warehouseInventoryCooldown = 50
+	#Scrap Points required to produce one Scrap Pile.
+	# Default: 16
+	# Range: 1 ~ 1000000
+	scrapPointsPerPile = 16
 
 [station]
 	#Tick frequency of verifying tracks remain connected (processor intensive).
@@ -87,6 +93,54 @@
 	maximumWaterRouteDistance = 1000
 	#Number of imports allowed per Station level.
 	importsPerLevel = 5
+	#Shipment speed multiplier while traveling by rail.
+	# Default: 1.0
+	# Range: 1.0 ~ 100.0
+	railTradeSpeedMultiplier = 1.0
+	#Shipment speed multiplier while traveling by road.
+	# Default: 1.0
+	# Range: 1.0 ~ 100.0
+	roadTradeSpeedMultiplier = 1.0
+	#Shipment speed multiplier while traveling by water.
+	# Default: 1.0
+	# Range: 1.0 ~ 100.0
+	waterTradeSpeedMultiplier = 1.0
+	#Shipment speed multiplier for long-distance air travel.
+	# Default: 10.0
+	# Range: 1.0 ~ 100.0
+	airTradeSpeedMultiplier = 10.0
+	#Shipment speed multiplier for visible air travel.
+	# Default: 4.0
+	# Range: 1.0 ~ 100.0
+	visibleAirTradeSpeedMultiplier = 4.0
+	#Airship cruising height above the higher Mooring Bay or local colony-border terrain.
+	# Default: 16
+	# Range: 1 ~ 128
+	airshipCruisingClearance = 16
+	#Lifting Gas capacity of a Mooring Bay.
+	# Default: 240000
+	# Range: 1000 ~ 10000000
+	mooringBayGasCapacity = 240000
+	#Lifting Gas capacity of a Gasifier.
+	# Default: 16000
+	# Range: 1000 ~ 10000000
+	gasifierGasCapacity = 16000
+	#Maximum Lifting Gas pushed per adjacent face per tick.
+	# Default: 250
+	# Range: 1 ~ 100000
+	gasifierTransferRate = 250
+	#Base Lifting Gas cost per air shipment.
+	# Default: 1000
+	# Range: 0 ~ 1000000
+	airshipBaseGasCost = 1000
+	#Air-route blocks traveled per Lifting Gas unit.
+	# Default: 1
+	# Range: 1 ~ 100000
+	airshipBlocksPerGasUnit = 1
+	#Ready shipment attempts blocked by gas before the Station Master complains.
+	# Default: 3
+	# Range: 1 ~ 100
+	gasComplaintAttempts = 3
 
 [petshop]
 	#Number of pets per building level.

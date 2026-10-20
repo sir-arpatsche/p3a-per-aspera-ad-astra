@@ -101,37 +101,3 @@
 	# Default: 0.015
 	# Range: 0.0 ~ 1.0
 	overOdds = 0.015
-
-[deckBuilding]
-	#
-	#Max duplicates of a common card for a Buddycards deck, 0-16, default is 4
-	# Default: 4
-	# Range: 1 ~ 16
-	commonDupeLimit = 4
-	#
-	#Max duplicates of an uncommon card for a Buddycards deck, 0-16, default is 3
-	# Default: 3
-	# Range: 1 ~ 16
-	uncommonDupeLimit = 3
-	#
-	#Max duplicates of a rare card for a Buddycards deck, 0-16, default is 2
-	# Default: 2
-	# Range: 1 ~ 16
-	rareDupeLimit = 2
-	#
-	#Max duplicates of an epic card for a Buddycards deck, 0-16, default is 1
-	# Default: 1
-	# Range: 1 ~ 16
-	epicDupeLimit = 1
-
-[battles]
-	#
-	#Enables Buddycards Battles Beta, default is false. Currently unfinished and buggy. Some bugged cards may cause crashes or other issues.
-	enabled = false
-
-[misc]
-	#
-	#Chance to pull an extra card in_enchanting_table.json a pack when using a Charged Buddysteel Ring, 0-1, default is 50%
-	# Default: 0.5
-	# Range: 0.0 ~ 1.0
-	buddysteelRingChance = 0.5
